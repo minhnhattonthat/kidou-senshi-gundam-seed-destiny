@@ -1,0 +1,114 @@
+[
+ {
+  "id": "0CB2C0_000",
+  "slot": "0CB2C0",
+  "src": "0CB0B0",
+  "jp": "{n}{f5:00000D}また戦争がしたいのか！！{key}{end}",
+  "en": "",
+  "status": "todo"
+ },
+ {
+  "id": "0CB2C0_001",
+  "slot": "0CB2C4",
+  "src": "0CB0C7",
+  "jp": "{n}{f5:00000D}マユ・・・{key}{end}",
+  "en": "",
+  "status": "todo"
+ },
+ {
+  "id": "0CB2C0_002",
+  "slot": "0CB2C8",
+  "src": "0CB0D6",
+  "jp": "{n}{f5:00000D}オレはオーブなんて国は信じない！{key}{end}",
+  "en": "",
+  "status": "todo"
+ },
+ {
+  "id": "0CB2C0_003",
+  "slot": "0CB2CC",
+  "src": "0CB0F1",
+  "jp": "{n}{f5:00000D}力が・・・・{n}力がなければダメなんだ！！！{key}{end}",
+  "en": "",
+  "status": "todo"
+ },
+ {
+  "id": "0CB2C0_004",
+  "slot": "0CB2D0",
+  "src": "0CB116",
+  "jp": "{n}{f5:00000D}シン・アスカ、帰還します！！！{key}{end}",
+  "en": "",
+  "status": "todo"
+ },
+ {
+  "id": "0CB2C0_005",
+  "slot": "0CB2D4",
+  "src": "0CB133",
+  "jp": "{n}{f5:00000D}そのていどなのか！？{key}{end}",
+  "en": "",
+  "status": "todo"
+ },
+ {
+  "id": "0CB2C0_006",
+  "slot": "0CB2D8",
+  "src": "0CB146",
+  "jp": "{n}{f5:00000D}なんてヤツラだよ！{n}うばった機体でこうまで・・・！{key}{end}",
+  "en": "",
+  "status": "todo"
+ },
+ {
+  "id": "0CB2C0_007",
+  "slot": "0CB2DC",
+  "src": "0CB16D",
+  "jp": "{n}{f5:00000D}今回はオレの勝ちだな！！{page}{n}{n}{f6:000016}次は負けないからね！{key}{end}",
+  "en": "",
+  "status": "todo"
+ },
+ {
+  "id": "0CB2C0_008",
+  "slot": "0CB2E0",
+  "src": "0CB199",
+  "jp": "{n}{f5:00000D}今回はオレの勝ちだな！！{page}{n}{n}{f6:000018}お前の勝ちだ。{key}{end}",
+  "en": "",
+  "status": "todo"
+ },
+ {
+  "id": "0CB2C0_009",
+  "slot": "0CB2E4",
+  "src": "0CB1C2",
+  "jp": "{n}{f5:00000D}これが・・・大戦のエースの力。{page}{n}{n}{f6:000012}よしっ、帰還するぞ。{key}{end}",
+  "en": "",
+  "status": "todo"
+ },
+ {
+  "id": "0CB2C0_010",
+  "slot": "0CB2E8",
+  "src": "0CB1F5",
+  "jp": "{n}{f5:00000D}くだらないなんて言わせるか・・・！{page}{n}{n}{f6:00001A}・・・・くっ！{key}{end}",
+  "en": "",
+  "status": "todo"
+ },
+ {
+  "id": "0CB2C0_011",
+  "slot": "0CB2EC",
+  "src": "0CB225",
+  "jp": "{n}{f5:00000D}ジュール隊の力、{n}見させてもらいました！！{page}{n}{n}{f6:000013}なかなかいいウデをしている！{key}{end}",
+  "en": "",
+  "status": "todo"
+ },
+ {
+  "id": "0CB2C0_012",
+  "slot": "0CB2F0",
+  "src": "0CB25E",
+  "jp": "{n}{f5:00000D}マユ・・・。{n}父さん、母さん。{key}{end}",
+  "en": "",
+  "status": "todo"
+ },
+ {
+  "id": "0CB2C0_013",
+  "slot": "0CB2F4",
+  "src": "0CB27C",
+  "jp": "{n}{f5:00000D}ロンド・ミナ・サハク{n}・・・強い！{page}{n}{n}{f6:000015}なかなかいいウデをしている！{key}{end}",
+  "en": "",
+  "status": "todo"
+ }
+]

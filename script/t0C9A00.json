@@ -1,0 +1,114 @@
+[
+ {
+  "id": "0C9A00_000",
+  "slot": "0C9A00",
+  "src": "0C9850",
+  "jp": "{n}{fb:00}新しくゲームをはじめます。{end}",
+  "en": "",
+  "status": "todo"
+ },
+ {
+  "id": "0C9A00_001",
+  "slot": "0C9A04",
+  "src": "0C9864",
+  "jp": "{n}{fb:00}前回の続きからゲームをはじめます。{end}",
+  "en": "",
+  "status": "todo"
+ },
+ {
+  "id": "0C9A00_002",
+  "slot": "0C9A08",
+  "src": "0C987E",
+  "jp": "{n}MS{sp8}SELECTがめんに{n}「アストレイ」がついかされました！{end}",
+  "en": "",
+  "status": "todo"
+ },
+ {
+  "id": "0C9A00_003",
+  "slot": "0C9A0C",
+  "src": "0C98A2",
+  "jp": "{n}MS{sp8}SELECTがめんに{n}「フリーダム」がついかされました！{end}",
+  "en": "",
+  "status": "todo"
+ },
+ {
+  "id": "0C9A00_004",
+  "slot": "0C9A10",
+  "src": "0C98C7",
+  "jp": "{n}MS{sp8}SELECTがめんに{n}「ジャスティス」がついか{page}{n}{n}されました！{end}",
+  "en": "",
+  "status": "todo"
+ },
+ {
+  "id": "0C9A00_005",
+  "slot": "0C9A14",
+  "src": "0C98EF",
+  "jp": "{n}MS{sp8}SELECTがめんに{n}「プロヴィデンス」がついか{page}{n}{n}されました！{end}",
+  "en": "",
+  "status": "todo"
+ },
+ {
+  "id": "0C9A00_006",
+  "slot": "0C9A18",
+  "src": "0C9918",
+  "jp": "{n}MS{sp8}SELECTがめんに{n}「ゴールドフレーム{sp8}アマツ{sp8}ミナ」が{page}{n}{n}ついかされました！{end}",
+  "en": "",
+  "status": "todo"
+ },
+ {
+  "id": "0C9A00_007",
+  "slot": "0C9A1C",
+  "src": "0C994B",
+  "jp": "{n}SHOPに「VERY{sp8}HARDモード」が{n}ついかされました！{end}",
+  "en": "",
+  "status": "todo"
+ },
+ {
+  "id": "0C9A00_008",
+  "slot": "0C9A20",
+  "src": "0C996F",
+  "jp": "{n}{num}ポイント手に入りました。{key}{end}",
+  "en": "",
+  "status": "todo"
+ },
+ {
+  "id": "0C9A00_009",
+  "slot": "0C9A24",
+  "src": "0C9983",
+  "jp": "{n}{num}ポイント手に入りました。{key}{end}",
+  "en": "",
+  "status": "todo"
+ },
+ {
+  "id": "0C9A00_010",
+  "slot": "0C9A28",
+  "src": "0C9997",
+  "jp": "{n}{num}ポイント手に入りました。{key}{end}",
+  "en": "",
+  "status": "todo"
+ },
+ {
+  "id": "0C9A00_011",
+  "slot": "0C9A2C",
+  "src": "0C99AB",
+  "jp": "{n}{num}ポイント手に入りました。{key}{end}",
+  "en": "",
+  "status": "todo"
+ },
+ {
+  "id": "0C9A00_012",
+  "slot": "0C9A30",
+  "src": "0C99BF",
+  "jp": "{n}サバイバルモードのきろくが{n}こうしんされました！{end}",
+  "en": "",
+  "status": "todo"
+ },
+ {
+  "id": "0C9A00_013",
+  "slot": "0C9A34",
+  "src": "0C99DB",
+  "jp": "{n}タイムトライアルモードのきろくが{n}こうしんされました！{end}",
+  "en": "",
+  "status": "todo"
+ }
+]

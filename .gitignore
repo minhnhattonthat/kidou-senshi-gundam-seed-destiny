@@ -1,0 +1,15 @@
+rom/
+build/
+work/
+dist/
+release/
+tools/mesen2/
+tools/armips/
+tools/gba_bios.bin
+__pycache__/
+*.pyc
+*.mss
+*.sav
+*.srm
+.agents/skills/
+.claude/skills/
