@@ -4,63 +4,63 @@
   "slot": "0CB7A0",
   "src": "0CB6B0",
   "jp": "{n}{f5:000010}死んでない・・・、私だいじょぶ・・・{n}だいじょぶよね？{sp6}ステラ・・・{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000010}I'm not dead..., I'm okay...{n}I'm okay, right? Stella...{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CB7A0_001",
   "slot": "0CB7A4",
   "src": "0CB6E6",
   "jp": "{n}{f5:000010}やめてっ！{sp6}あっちいって！！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000010}Stop it! Go away!!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CB7A0_002",
   "slot": "0CB7A8",
   "src": "0CB700",
   "jp": "{n}{f5:000010}しつこいっ！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000010}Leave me alone!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CB7A0_003",
   "slot": "0CB7AC",
   "src": "0CB710",
   "jp": "{n}{f5:000010}私は・・・、私はっ・・・！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000010}I'm..., I'm...!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CB7A0_004",
   "slot": "0CB7B0",
   "src": "0CB72E",
   "jp": "{n}{f5:000010}あははは！！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000010}Ahahaha!!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CB7A0_005",
   "slot": "0CB7B4",
   "src": "0CB73F",
   "jp": "{n}{f5:000010}すぐに沈めるッッッ！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000010}I'll sink you right now!!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CB7A0_006",
   "slot": "0CB7B8",
   "src": "0CB752",
   "jp": "{n}{f5:000010}さあ、かえるよ。{page}{n}{n}{f6:00000F}チッ！！！{sp6}しかたない！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000010}Come on, let's go back.{page}{n}{n}{f6:00000F}Tch!!! Fine!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CB7A0_007",
   "slot": "0CB7BC",
   "src": "0CB77A",
   "jp": "{n}{f5:000010}さあ、かえるよ。{page}{n}{n}{f6:000011}ちくしょう・・・。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000010}Come on, let's go back.{page}{n}{n}{f6:000011}Damn it...{key}{end}",
+  "status": "done"
  }
 ]

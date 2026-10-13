@@ -4,63 +4,63 @@
   "slot": "0CB8E0",
   "src": "0CB7C0",
   "jp": "{n}{f5:000011}カッコワルイってンじゃねえ！？{n}そう言うの！！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000011}Isn't that kinda lame?!{n}That sort of thing!!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CB8E0_001",
   "slot": "0CB8E4",
   "src": "0CB7E5",
   "jp": "{n}{f5:000011}おわりィ！！！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000011}It's ooover!!!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CB8E0_002",
   "slot": "0CB8E8",
   "src": "0CB7F8",
   "jp": "{n}{f5:000011}かちィ！！！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000011}I wiiin!!!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CB8E0_003",
   "slot": "0CB8EC",
   "src": "0CB80A",
   "jp": "{n}{f5:000011}はははっ！！！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000011}Hahaha!!!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CB8E0_004",
   "slot": "0CB8F0",
   "src": "0CB81D",
   "jp": "{n}{f5:000011}ハン！！！{sp6}そんなモンかよ！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000011}Hah!!! Is that all you've got?!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CB8E0_005",
   "slot": "0CB8F4",
   "src": "0CB836",
   "jp": "{n}{f5:000011}ははっザフトなんてよ！{n}まとめてやっちゃっていいんだよな。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000011}Haha, ZAFT, huh!{n}We can just take 'em all out, right?{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CB8E0_006",
   "slot": "0CB8F8",
   "src": "0CB85C",
   "jp": "{n}{f5:000011}ハン！！！{n}クビでも土産にしようっての！？{page}{n}{n}{f6:00000F}知るか！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000011}Hah!!!{n}Gonna take my head as a souvenir?!{page}{n}{n}{f6:00000F}Like I care!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CB8E0_007",
   "slot": "0CB8FC",
   "src": "0CB88C",
   "jp": "{n}{f5:000011}ネオにはボクが言っといてやるよ！{n}「さよなら」ってなァ。{page}{n}{n}{f6:000010}さよなら・・・？{n}・・・いや・・・！！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000011}I'll pass it on to Neo for you!{n}I'll tell him \"goodbye\".{page}{n}{n}{f6:000010}Goodbye...?{n}...No...!!!{key}{end}",
+  "status": "done"
  }
 ]

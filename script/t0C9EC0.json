@@ -4,95 +4,95 @@
   "slot": "0C9EC0",
   "src": "0C9CE0",
   "jp": "{n}{f5:000001}次は、こうはいかないかもな。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000001}It might not go this way next time.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9EC0_001",
   "slot": "0C9EC4",
   "src": "0C9CF8",
   "jp": "{n}{f5:000001}いい動きだった。{n}うかうかしてられないな。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000001}Nice moves.{n}I can't let my guard down.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9EC0_002",
   "slot": "0C9EC8",
   "src": "0C9D17",
   "jp": "{n}{f5:000001}なかなかいいウデだ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000001}You're pretty good.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9EC0_003",
   "slot": "0C9ECC",
   "src": "0C9D29",
   "jp": "{n}{f5:000001}ムダなていこうはよせ！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000001}Stop this pointless resistance!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9EC0_004",
   "slot": "0C9ED0",
   "src": "0C9D3C",
   "jp": "{n}{f5:000001}キラ・・おまえも一緒に来い！{page}{n}{n}{f6:000000}アスラン・・・。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000001}Kira... come with me!{page}{n}{n}{f6:000000}Athrun...{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9EC0_005",
   "slot": "0C9ED4",
   "src": "0C9D6A",
   "jp": "{n}{f5:000001}だいじょうぶか？{sp6}ニコル。{page}{n}{n}{f6:000007}いてて・・・{n}アスランにはかないませんね。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000001}Are you okay, Nicol?{page}{n}{n}{f6:000007}Ow ow ow...{n}I'm no match for you, Athrun.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9EC0_006",
   "slot": "0C9ED8",
   "src": "0C9DA0",
   "jp": "{n}{f5:000001}今日はこのぐらいにしよう。{page}{n}{n}{f6:000002}いってぇなぁ、もう・・・。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000001}Let's call it a day.{page}{n}{n}{f6:000002}Ow, geez, that hurt...{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9EC0_007",
   "slot": "0C9EDC",
   "src": "0C9DD0",
   "jp": "{n}{f5:000001}隊長！{sp6}ありがとうございました！{page}{n}{n}{f6:000008}キミには期待しているよ。アスラン。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000001}Commander! Thank you, sir!{page}{n}{n}{f6:000008}I have high hopes for you, Athrun.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9EC0_008",
   "slot": "0C9EE0",
   "src": "0C9E07",
   "jp": "{n}{f5:000001}今日はこのぐらいにしよう。{page}{n}{n}{f6:000006}まだ負けたワケじゃない！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000001}Let's call it a day.{page}{n}{n}{f6:000006}I haven't lost yet!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9EC0_009",
   "slot": "0C9EE4",
   "src": "0C9E35",
   "jp": "{n}{f5:000001}負けるわけにはいかない！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000001}I can't afford to lose!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9EC0_010",
   "slot": "0C9EE8",
   "src": "0C9E4C",
   "jp": "{n}{f5:000001}オレの勝ちだな！！{sp8}キラ！！{page}{n}{n}{f6:00000A}さすがはアスラン！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000001}I win!! Kira!!{page}{n}{n}{f6:00000A}That's Athrun for you!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9EC0_011",
   "slot": "0C9EEC",
   "src": "0C9E79",
   "jp": "{n}{f5:000001}カガリ・・・だいじょうぶか？{page}{n}{n}{f6:00001A}まだまだ・・・{n}勝負はこれからだ！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000001}Cagalli... are you okay?{page}{n}{n}{f6:00001A}I'm not done...{n}This fight's just getting started!!{key}{end}",
+  "status": "done"
  }
 ]

@@ -4,95 +4,95 @@
   "slot": "0CBAC0",
   "src": "0CB900",
   "jp": "{n}{f5:000012}やるな！{n}・・・だが！！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000012}Not bad!{n}...But!!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CBAC0_001",
   "slot": "0CBAC4",
   "src": "0CB91B",
   "jp": "{n}{f5:000012}アスラン・ザラ帰還する。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000012}Athrun Zala, returning.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CBAC0_002",
   "slot": "0CBAC8",
   "src": "0CB932",
   "jp": "{n}{f5:000012}もう、見上げているだけじゃ{n}ゆるされない！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000012}I can't just stand by and{n}watch anymore!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CBAC0_003",
   "slot": "0CBACC",
   "src": "0CB952",
   "jp": "{n}{f5:000012}負けるわけにはいかない！！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000012}I can't afford to lose!!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CBAC0_004",
   "slot": "0CBAD0",
   "src": "0CB96B",
   "jp": "{n}{f5:000012}いい腕をもっている！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000012}You've got skill!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CBAC0_005",
   "slot": "0CBAD4",
   "src": "0CB97E",
   "jp": "{n}{f5:000012}ムダだ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000012}It's useless.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CBAC0_006",
   "slot": "0CBAD8",
   "src": "0CB98A",
   "jp": "{n}{f5:000012}オレには何ができるのか・・・{n}それをたしかめたい！{page}{n}{n}{f6:00001A}アスラン・・・。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000012}What is it that I can do...{n}I want to find out!{page}{n}{n}{f6:00001A}Athrun...{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CBAC0_007",
   "slot": "0CBADC",
   "src": "0CB9C2",
   "jp": "{n}{f5:000012}いい腕だ。{n}だが、まだまだだ！{page}{n}{n}{f6:00000C}さすがに・・・強い！！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000012}You're good.{n}But you've got a long way to go!{page}{n}{n}{f6:00000C}He's strong... as expected!!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CBAC0_008",
   "slot": "0CBAE0",
   "src": "0CB9F6",
   "jp": "{n}{f5:000012}いい腕だ。{n}だが、まだまだだ！{page}{n}{n}{f6:00000C}さすがに・・・強い！！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000012}You're good.{n}But you've got a long way to go!{page}{n}{n}{f6:00000C}He's strong... as expected!!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CBAC0_009",
   "slot": "0CBAE4",
   "src": "0CBA2A",
   "jp": "{n}{f5:000012}いい腕だ。{n}だが、まだまだだ！{page}{n}{n}{f6:00000C}さすがに・・・強い！！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000012}You're good.{n}But you've got a long way to go!{page}{n}{n}{f6:00000C}He's strong... as expected!!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CBAC0_010",
   "slot": "0CBAE8",
   "src": "0CBA5E",
   "jp": "{n}{f5:000012}いい動きをする！{page}{n}{n}{f6:000016}動きが・・・はやい！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000012}Good moves!{page}{n}{n}{f6:000016}He moves... so fast!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CBAC0_011",
   "slot": "0CBAEC",
   "src": "0CBA85",
   "jp": "{n}{f5:000012}はやい！{sp8}・・・がそこまでだ！！{page}{n}{n}{f6:000012}くっ・・・。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000012}Fast! ...But that's as far as you go!!{page}{n}{n}{f6:000012}Ngh...{key}{end}",
+  "status": "done"
  }
 ]

@@ -4,111 +4,111 @@
   "slot": "0CC0C0",
   "src": "0CBEE0",
   "jp": "{n}{f5:000015}アメノミハシラはおとさせぬ！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000015}I will not let{n}Ame-no-Mihashira fall!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CC0C0_001",
   "slot": "0CC0C4",
   "src": "0CBEF8",
   "jp": "{n}{f5:000015}めざわりだな。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000015}What an eyesore.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CC0C0_002",
   "slot": "0CC0C8",
   "src": "0CBF07",
   "jp": "{n}{f5:000015}おどれ！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000015}Dance!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CC0C0_003",
   "slot": "0CC0CC",
   "src": "0CBF13",
   "jp": "{n}{f5:000015}フィナーレだ！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000015}This is the finale!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CC0C0_004",
   "slot": "0CC0D0",
   "src": "0CBF23",
   "jp": "{n}{f5:000015}私はオーブを守らねばならぬのだ！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000015}I must protect Orb!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CC0C0_005",
   "slot": "0CC0D4",
   "src": "0CBF3E",
   "jp": "{n}{f5:000015}ロンド・ミナ・サハク、帰還するぞ！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000015}Rondo Mina Sahaku, returning!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CC0C0_006",
   "slot": "0CC0D8",
   "src": "0CBF5C",
   "jp": "{n}{f5:000015}お前では、はなしにならん！！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000015}You are not worth my time!!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CC0C0_007",
   "slot": "0CC0DC",
   "src": "0CBF77",
   "jp": "{n}{f5:000015}何だお前は！！？？{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000015}What are you?!!??{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CC0C0_008",
   "slot": "0CC0E0",
   "src": "0CBF8D",
   "jp": "{n}{f5:000015}ASTRAYは一体だけ存在{n}すればよいのだ！{page}{n}{n}{f6:000009}さっすが強いなぁ・・・。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000015}There need only be{n}one ASTRAY!{page}{n}{n}{f6:000009}Man, you really are strong...{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CC0C0_009",
   "slot": "0CC0E4",
   "src": "0CBFC7",
   "jp": "{n}{f5:000015}なるほど。{n}GAT－X207ブリッツか・・・。{page}{n}{n}{f6:000007}・・・・？{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000015}I see.{n}The GAT-X207 Blitz...{page}{n}{n}{f6:000007}....?{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CC0C0_010",
   "slot": "0CC0E8",
   "src": "0CBFFF",
   "jp": "{n}{f5:000015}ドラグーン・・・大した事などない！！{page}{n}{n}{f6:000014}ハッ！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000015}DRAGOON... is nothing special!!{page}{n}{n}{f6:000014}Hah!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CC0C0_011",
   "slot": "0CC0EC",
   "src": "0CC02D",
   "jp": "{n}{f5:000015}スーパーコーディネイターの力とは{n}こんなものか！{page}{n}{n}{f6:00000A}くっ！{sp6}強い！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000015}Is this all the power of the{n}Ultimate Coordinator amounts to?!{page}{n}{n}{f6:00000A}Ngh! So strong!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CC0C0_012",
   "slot": "0CC0F0",
   "src": "0CC065",
   "jp": "{n}{f5:000015}お前にオーブが守れるのか！？{page}{n}{n}{f6:00001A}くっ！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000015}Can you really protect Orb?!{page}{n}{n}{f6:00001A}Ngh!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CC0C0_013",
   "slot": "0CC0F4",
   "src": "0CC08A",
   "jp": "{n}{f5:000015}ギナ！{sp6}生きていたのか！？{page}{n}{n}{f6:000015}私はミナだ！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000015}Gina! You're alive?!{page}{n}{n}{f6:000015}I am Mina!{key}{end}",
+  "status": "done"
  }
 ]

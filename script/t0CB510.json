@@ -4,111 +4,111 @@
   "slot": "0CB510",
   "src": "0CB300",
   "jp": "{n}{f5:00000E}また戦争がしたいのか！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:00000E}You want another war?!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CB510_001",
   "slot": "0CB514",
   "src": "0CB317",
   "jp": "{n}{f5:00000E}マユ・・・{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:00000E}Mayu...{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CB510_002",
   "slot": "0CB518",
   "src": "0CB326",
   "jp": "{n}{f5:00000E}オレはオーブなんて国は信じない！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:00000E}I don't believe in a country{n}like Orb!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CB510_003",
   "slot": "0CB51C",
   "src": "0CB341",
   "jp": "{n}{f5:00000E}力が・・・・{n}力がなければダメなんだ！！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:00000E}Power....{n}Without power, it's hopeless!!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CB510_004",
   "slot": "0CB520",
   "src": "0CB366",
   "jp": "{n}{f5:00000E}シン・アスカ、帰還します！！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:00000E}Shinn Asuka, returning!!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CB510_005",
   "slot": "0CB524",
   "src": "0CB383",
   "jp": "{n}{f5:00000E}そのていどなのか！？{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:00000E}Is that all you've got?!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CB510_006",
   "slot": "0CB528",
   "src": "0CB396",
   "jp": "{n}{f5:00000E}なんてヤツラだよ！{n}うばった機体でこうまで・・・！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:00000E}What's with these guys?!{n}All this with stolen machines...!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CB510_007",
   "slot": "0CB52C",
   "src": "0CB3BD",
   "jp": "{n}{f5:00000E}今回はオレの勝ちだな！！{page}{n}{n}{f6:000016}次は負けないからね！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:00000E}I win this time!!{page}{n}{n}{f6:000016}I won't lose next time!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CB510_008",
   "slot": "0CB530",
   "src": "0CB3E9",
   "jp": "{n}{f5:00000E}今回はオレの勝ちだな！！{page}{n}{n}{f6:000018}お前の勝ちだ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:00000E}I win this time!!{page}{n}{n}{f6:000018}You win.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CB510_009",
   "slot": "0CB534",
   "src": "0CB412",
   "jp": "{n}{f5:00000E}これが・・・大戦のエースの力。{page}{n}{n}{f6:000012}よしっ、帰還するぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:00000E}So this is... the power of an ace{n}from the last war.{page}{n}{n}{f6:000012}Alright, we're heading back.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CB510_010",
   "slot": "0CB538",
   "src": "0CB445",
   "jp": "{n}{f5:00000E}くだらないなんて言わせるか・・・！{page}{n}{n}{f6:00001A}・・・・くっ！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:00000E}I won't let you call it pointless...!{page}{n}{n}{f6:00001A}....Ngh!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CB510_011",
   "slot": "0CB53C",
   "src": "0CB475",
   "jp": "{n}{f5:00000E}ジュール隊の力、{n}見させてもらいました！！{page}{n}{n}{f6:000013}なかなかいいウデをしている！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:00000E}I've seen the strength{n}of the Joule Team!!{page}{n}{n}{f6:000013}You have some real skill!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CB510_012",
   "slot": "0CB540",
   "src": "0CB4AE",
   "jp": "{n}{f5:00000E}マユ・・・。{n}父さん、母さん。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:00000E}Mayu....{n}Dad, Mom.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CB510_013",
   "slot": "0CB544",
   "src": "0CB4CC",
   "jp": "{n}{f5:00000E}ロンド・ミナ・サハク{n}・・・強い！{page}{n}{n}{f6:000015}なかなかいいウデをしている！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:00000E}Rondo Mina Sahaku{n}...is strong!{page}{n}{n}{f6:000015}You have some real skill!{key}{end}",
+  "status": "done"
  }
 ]

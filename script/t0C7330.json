@@ -4,15 +4,15 @@
   "slot": "0C7330",
   "src": "0C72F0",
   "jp": "{n}接続中……{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Connecting...{end}",
+  "status": "done"
  },
  {
   "id": "0C7330_001",
   "slot": "0C7334",
   "src": "0C72FC",
   "jp": "{n}接続は失敗しました。{n}メインメニューに戻るために{n}Bボタンを押してください。{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Connection failed.{n}Press the B Button to return{n}to the main menu.{end}",
+  "status": "done"
  }
 ]

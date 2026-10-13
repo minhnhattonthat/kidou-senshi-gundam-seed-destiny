@@ -4,95 +4,95 @@
   "slot": "0CA560",
   "src": "0CA3B0",
   "jp": "{n}{f5:000006}だてに赤を着ているワケじゃない！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000006}I don't wear red for nothing!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA560_001",
   "slot": "0CA564",
   "src": "0CA3CA",
   "jp": "{n}{f5:000006}誰だよ？{sp8}オレを撃とうなんてヤツは！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000006}Who the hell is trying to{n}shoot at me?!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA560_002",
   "slot": "0CA568",
   "src": "0CA3E7",
   "jp": "{n}{f5:000006}やったか！？{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000006}Did I get him?!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA560_003",
   "slot": "0CA56C",
   "src": "0CA3F6",
   "jp": "{n}{f5:000006}ハハハハハ、やったぞ！！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000006}Hahahaha, I did it!!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA560_004",
   "slot": "0CA570",
   "src": "0CA40E",
   "jp": "{n}{f5:000006}こんなヤツにやられるかよ！{page}{n}{n}{f6:000005}・・・・・。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000006}Like I'd lose to the likes of you!{page}{n}{n}{f6:000005}.....{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA560_005",
   "slot": "0CA574",
   "src": "0CA436",
   "jp": "{n}{f5:000006}ディアッカ・・本当にキサマなのか！{page}{n}{n}{f6:000002}イザーク、オレは・・・。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000006}Dearka... is that really you?!{page}{n}{n}{f6:000002}Yzak, I...{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA560_006",
   "slot": "0CA578",
   "src": "0CA46C",
   "jp": "{n}{f5:000006}隊長、ありがとうございました！{page}{n}{n}{f6:000008}よし。さすがだイザーク。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000006}Commander, thank you, sir!{page}{n}{n}{f6:000008}Good. Well done, Yzak.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA560_007",
   "slot": "0CA57C",
   "src": "0CA49C",
   "jp": "{n}{f5:000006}ス・ト・ラ・イ・クゥゥ！！！！{page}{n}{n}{f6:000000}デュエル！！！？？？{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000006}S-T-R-I-I-I-KE!!!!{page}{n}{n}{f6:000000}The Duel!!!???{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA560_008",
   "slot": "0CA580",
   "src": "0CA4D1",
   "jp": "{n}{f5:000006}フン、ここまでだ！！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000006}Hmph, this is where it ends!!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA560_009",
   "slot": "0CA584",
   "src": "0CA4E7",
   "jp": "{n}{f5:000006}気合がたりないぞ、ニコル！！{page}{n}{n}{f6:000007}わかりました、イザーク！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000006}Put more fight into it, Nicol!!{page}{n}{n}{f6:000007}Understood, Yzak!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA560_010",
   "slot": "0CA588",
   "src": "0CA517",
   "jp": "{n}{f5:000006}つよいな！！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000006}You're strong!!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA560_011",
   "slot": "0CA58C",
   "src": "0CA528",
   "jp": "{n}{f5:000006}何なんだ、その機体は！！？？{page}{n}{n}{f6:000015}なかなかいいウデをしている！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000006}What the hell is that machine?!!??{page}{n}{n}{f6:000015}You have some real skill!{key}{end}",
+  "status": "done"
  }
 ]

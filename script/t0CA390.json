@@ -4,63 +4,63 @@
   "slot": "0CA390",
   "src": "0CA2A0",
   "jp": "{n}{f5:000005}・・・てめェ、じゃまだよ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000005}...You're in my way.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA390_001",
   "slot": "0CA394",
   "src": "0CA2B9",
   "jp": "{n}{f5:000005}・・・・・。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000005}.....{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA390_002",
   "slot": "0CA398",
   "src": "0CA2CC",
   "jp": "{n}{f5:000005}死ね・・・・。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000005}Die....{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA390_003",
   "slot": "0CA39C",
   "src": "0CA2E0",
   "jp": "{n}{f5:000005}・・・おちろ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000005}...Go down.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA390_004",
   "slot": "0CA3A0",
   "src": "0CA2F2",
   "jp": "{n}{f5:000005}ハッ！！！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000005}Hah!!!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA390_005",
   "slot": "0CA3A4",
   "src": "0CA303",
   "jp": "{n}{f5:000005}へ～、まだいたんだ。{n}変なモビルスーツ。{key}{n}{f6:00000B}・・・くっ！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000005}Huh, you're still around?{n}What a weird mobile suit.{key}{n}{f6:00000B}...Ngh!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA390_006",
   "slot": "0CA3A8",
   "src": "0CA334",
   "jp": "{n}{f5:000005}にがさないよ・・・・・{page}{n}{n}{f6:00000A}・・・くっ！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000005}You're not getting away.....{page}{n}{n}{f6:00000A}...Ngh!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA390_007",
   "slot": "0CA3AC",
   "src": "0CA35C",
   "jp": "{n}{f5:000005}・・・うざい。{page}{n}{n}{f6:000006}・・・なんだとぉぉぉ！！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000005}...Annoying.{page}{n}{n}{f6:000006}...What did you saaay?!!!{key}{end}",
+  "status": "done"
  }
 ]

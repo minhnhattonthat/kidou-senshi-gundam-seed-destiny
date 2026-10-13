@@ -4,63 +4,63 @@
   "slot": "0CA970",
   "src": "0CA880",
   "jp": "{n}{f5:000009}アンタのマシン、{n}整備がワルすぎるぜ！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000009}Your machine's maintenance{n}is way too sloppy!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA970_001",
   "slot": "0CA974",
   "src": "0CA89E",
   "jp": "{n}{f5:000009}レッドフレームは渡さないぜ！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000009}I'm not handing over the Red Frame!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA970_002",
   "slot": "0CA978",
   "src": "0CA8B6",
   "jp": "{n}{f5:000009}戦わなきゃ守れねぇから戦うんだ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000009}I fight because if I don't,{n}I can't protect anything.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA970_003",
   "slot": "0CA97C",
   "src": "0CA8D1",
   "jp": "{n}{f5:000009}どうだい最強だろ？{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000009}How's that? The strongest, right?{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA970_004",
   "slot": "0CA980",
   "src": "0CA8E4",
   "jp": "{n}{f5:000009}ちょろい、ちょろい！！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000009}Easy, easy!!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA970_005",
   "slot": "0CA984",
   "src": "0CA8FB",
   "jp": "{n}{f5:000009}しんぱいするな、{n}オレはジャンク屋だ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000009}Don't worry,{n}I'm just a junk dealer.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA970_006",
   "slot": "0CA988",
   "src": "0CA918",
   "jp": "{n}{f5:000009}アンタの機体、{n}はやくメンテしたほうがいいぜ！！{page}{n}{n}{f6:000015}やるではないか、ジャンク屋！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000009}You'd better get your machine{n}serviced, and fast!!{page}{n}{n}{f6:000015}Not bad, junk dealer!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA970_007",
   "slot": "0CA98C",
   "src": "0CA954",
   "jp": "{n}{f5:000009}ザフトのパーツがほしいねぇ！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000009}I could sure use some ZAFT parts!{key}{end}",
+  "status": "done"
  }
 ]

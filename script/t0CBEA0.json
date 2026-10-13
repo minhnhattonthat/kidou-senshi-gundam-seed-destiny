@@ -4,103 +4,103 @@
   "slot": "0CBEA0",
   "src": "0CBC50",
   "jp": "{n}{f5:000014}私にはあるのだよ！{n}すべての人類をさばく権利がな！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000014}I have it, you see! The right{n}to judge all of humanity!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CBEA0_001",
   "slot": "0CBEA4",
   "src": "0CBC77",
   "jp": "{n}{f5:000014}憎しみあい、争いあう。{n}それが人の定め。{sp8}人の業！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000014}Hating and fighting one another.{n}That is mankind's fate. Its sin!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CBEA0_002",
   "slot": "0CBEA8",
   "src": "0CBCA1",
-  "jp": "{n}{f5:000014}みずから育てた開にくわれて{n}滅ぶがいい！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "jp": "{n}{f5:000014}みずから育てた闇にくわれて{n}滅ぶがいい！{key}{end}",
+  "en": "{n}{f5:000014}Be devoured by the darkness you{n}nurtured yourselves, and perish!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CBEA0_003",
   "slot": "0CBEAC",
   "src": "0CBCC0",
   "jp": "{n}{f5:000014}ハァーハッハッハ！！！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000014}Haaa-hahahaha!!!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CBEA0_004",
   "slot": "0CBEB0",
   "src": "0CBCD8",
   "jp": "{n}{f5:000014}私は結果だよ！{sp6}だから知る！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000014}I am the result! That's why I know!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CBEA0_005",
   "slot": "0CBEB4",
   "src": "0CBCF5",
   "jp": "{n}{f5:000014}何もできまい！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000014}There's nothing you can do!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CBEA0_006",
   "slot": "0CBEB8",
   "src": "0CBD07",
   "jp": "{n}{f5:000014}やっかいなヤツだよキミは！{n}あってはならない存在だというのに！{page}{n}{n}{f6:00000A}・・・それでもボクは！！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000014}What a troublesome one you are!{n}You should never have existed!{page}{n}{n}{f6:00000A}...Even so, I...!!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CBEA0_007",
   "slot": "0CBEBC",
   "src": "0CBD4B",
   "jp": "{n}{f5:000014}おまえはいつでもジャマだな！{n}ムゥ・ラ・フラガ！{page}{n}{n}{f6:000019}クルーゼェェ！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000014}You're always in my way!{n}Mu La Flaga!{page}{n}{n}{f6:000019}Creuset!!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CBEA0_008",
   "slot": "0CBEC0",
   "src": "0CBD80",
   "jp": "{n}{f5:000014}キミには期待していたのだがね・・・{page}{n}{n}{f6:000001}隊長・・・。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000014}I had high hopes for you...{page}{n}{n}{f6:000001}Commander...{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CBEA0_009",
   "slot": "0CBEC4",
   "src": "0CBDB0",
   "jp": "{n}{f5:000014}キミには期待していたのだがね・・・{page}{n}{n}{f6:00000B}くっ！・・・。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000014}I had high hopes for you...{page}{n}{n}{f6:00000B}Ngh! ...{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CBEA0_010",
   "slot": "0CBEC8",
   "src": "0CBDE0",
   "jp": "{n}{f5:000014}そんな力が何になる！？{page}{n}{n}{f6:000015}私にはやらねばならない事が{n}あるのだ！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000014}What good is power like that?!{page}{n}{n}{f6:000015}There is something{n}I must do!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CBEA0_011",
   "slot": "0CBECC",
   "src": "0CBE13",
   "jp": "{n}{f5:000014}ドラグーン・・・{n}その機体ではあつかえまい！{page}{n}{n}{f6:000008}これでも隊長機なのだがね・・・{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000014}DRAGOON...{n}That machine can't handle it!{page}{n}{n}{f6:000008}This is a commander's machine,{n}you know...{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CBEA0_012",
   "slot": "0CBED0",
   "src": "0CBE53",
   "jp": "{n}{f5:000014}ドラグーン・・・、キサマでは{n}つかいきれなかったようだな！！{page}{n}{n}{f6:000014}あの男にできて{n}私にできぬハズがない！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000014}DRAGOON..., it seems it was{n}too much for you to handle!!{page}{n}{n}{f6:000014}If that man could do it,{n}there's no way I can't!{key}{end}",
+  "status": "done"
  }
 ]

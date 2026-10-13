@@ -4,1591 +4,1591 @@
   "slot": "0C9530",
   "src": "0C7340",
   "jp": "{n}・・・まあまあ？{n}ようこそいらっしゃいました。{page}{n}{n}ここではPOINTを様々な物に{n}交換することができます。{page}{n}{n}POINTはモードをクリアする等、{n}色々な場所で手に入ります。{page}{n}{n}がんばって入手してくださいね。{page}{n}{n}では、何と交換いたしますか？{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}...Oh my?{n}Welcome, welcome.{page}{n}{n}Here you can trade your POINTS{n}for all sorts of things.{page}{n}{n}You can earn POINTS in many ways,{n}such as by clearing modes.{page}{n}{n}Please do your best to collect them.{page}{n}{n}Now, what would you like to trade for?{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_001",
   "slot": "0C9534",
   "src": "0C73DA",
   "jp": "{n}また来てくださいましたのね。{page}{n}{n}何と交換いたしますか？{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}You've come to see me again!{page}{n}{n}What would you like to trade for?{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_002",
   "slot": "0C9538",
   "src": "0C73FE",
   "jp": "{n}あらあら、こんにちは。{page}{n}{n}何と交換いたしますか？{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Oh my, hello there.{page}{n}{n}What would you like to trade for?{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_003",
   "slot": "0C953C",
   "src": "0C741F",
   "jp": "{n}まあ、また来てくださったのですね。{n}いらっしゃいませ。{page}{n}{n}何と交換いたしますか？{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Oh, you've come back again.{n}Welcome!{page}{n}{n}What would you like to trade for?{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_004",
   "slot": "0C9540",
   "src": "0C7452",
   "jp": "{n}私がPOINTを何につかってるか？{n}・・・ですか？{page}{n}{n}・・・ひ・み・つです。{page}{n}{n}何と交換いたしますか？{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}What do I spend my POINTS on?{n}...You want to know?{page}{n}{n}...That's a s-e-c-r-e-t.{page}{n}{n}What would you like to trade for?{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_005",
   "slot": "0C9544",
   "src": "0C749A",
   "jp": "{n}まいどー。まいどー。{page}{n}{n}・・・おとなしくね、ピンクちゃん。{page}{n}{n}何と交換いたしますか？{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Much obliged! Much obliged!{page}{n}{n}...Behave yourself, Pinky.{page}{n}{n}What would you like to trade for?{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_006",
   "slot": "0C9548",
   "src": "0C74D5",
   "jp": "{n}POINTはたまりましたか？{page}{n}{n}いつでもいらしてくださいね。{page}{n}{n}何と交換いたしますか？{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Have you saved up some POINTS?{page}{n}{n}Please drop by anytime.{page}{n}{n}What would you like to trade for?{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_007",
   "slot": "0C954C",
   "src": "0C750A",
   "jp": "{n}オマエモナー{sp6}オマエモナー{page}{n}{n}何のことですか？{sp6}ピンクちゃん。{page}{n}{n}何と交換いたしますか？{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Same to you! Same to you!{page}{n}{n}Whatever do you mean, Pinky?{page}{n}{n}What would you like to trade for?{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_008",
   "slot": "0C9550",
   "src": "0C7543",
   "jp": "{n}ハロッ！{sp6}ハロッ！{page}{n}{n}ハロはかわいいですわね。{page}{n}{n}何と交換いたしますか？{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Haro! Haro!{page}{n}{n}Haros are so adorable, aren't they?{page}{n}{n}What would you like to trade for?{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_009",
   "slot": "0C9554",
   "src": "0C7572",
   "jp": "{n}戦いのない世界になると{n}いいですわね。{page}{n}{n}・・・・・・・・でもそれだと{n}POINTもためられませんわね・・。{page}{n}{n}何と交換いたしますか？{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}It would be lovely if the world{n}were free of fighting.{page}{n}{n}........But then you couldn't{n}save up any POINTS, could you...{page}{n}{n}What would you like to trade for?{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_010",
   "slot": "0C9558",
   "src": "0C75CC",
   "jp": "{n}・・・・・。{page}{n}・・・・。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}.....{page}{n}....{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_011",
   "slot": "0C955C",
   "src": "0C75E7",
   "jp": "{n}これでよろしいですか？{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Is this the one you'd like?{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_012",
   "slot": "0C9560",
   "src": "0C75F5",
   "jp": "{n}ではこれと交換いたしますね。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Then I'll trade you this one.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_013",
   "slot": "0C9564",
   "src": "0C7609",
   "jp": "{n}何と交換いたしますか？{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}What would you like to trade for?{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_014",
   "slot": "0C9568",
   "src": "0C761A",
   "jp": "{n}まあ？{sp6}POINTがたりませんわ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Oh dear? You're short on POINTS.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_015",
   "slot": "0C956C",
   "src": "0C7630",
   "jp": "{n}・・・もうしわけありません。{page}{n}{n}アズラエルさんにSHOPをまかせてたら{n}ねぼうしてしまいましたわ。{page}{n}{n}・・・・アズラエルさんはちゃんと交換{n}してくださったのかしら・・・・。{page}{n}{n}では、何と交換いたしますか？{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}...I'm terribly sorry.{page}{n}{n}I left the SHOP to Azrael{n}and overslept.{page}{n}{n}....I do wonder if Azrael{n}traded with you properly....{page}{n}{n}Now, what would you like to trade for?{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_016",
   "slot": "0C9570",
   "src": "0C76B0",
   "jp": "{n}メッセージ{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Message{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_017",
   "slot": "0C9574",
   "src": "0C76B8",
   "jp": "{n}メッセージ{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Message{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_018",
   "slot": "0C9578",
   "src": "0C76C0",
   "jp": "{n}SHOPに「セイバー」がついか{n}されました。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}\"Saviour\" has been added{n}to the SHOP.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_019",
   "slot": "0C957C",
   "src": "0C76DD",
   "jp": "{n}{num}POINT手に入りました。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{num} POINTS obtained.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_020",
   "slot": "0C9580",
   "src": "0C76F2",
   "jp": "{n}{fb:00}2PカラーのMSでプレイできます。{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{fb:00}You can play with a 2P-color MS.{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_021",
   "slot": "0C9584",
   "src": "0C770A",
   "jp": "{n}{fb:00}新しいステージでプレイできます。{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{fb:00}You can play on a new stage.{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_022",
   "slot": "0C9588",
   "src": "0C7721",
   "jp": "{n}{fb:00}新しいMSでプレイできます。{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{fb:00}You can play with a new MS.{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_023",
   "slot": "0C958C",
   "src": "0C7735",
   "jp": "{n}{fb:00}新しいパイロットでプレイできます。{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{fb:00}You can play as a new pilot.{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_024",
   "slot": "0C9590",
   "src": "0C774C",
   "jp": "{n}{fb:00}新しいモードです。{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{fb:00}This is a new mode.{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_025",
   "slot": "0C9594",
   "src": "0C775C",
   "jp": "{n}{fb:00}新しい衣装です。{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{fb:00}This is a new outfit.{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_026",
   "slot": "0C9598",
   "src": "0C776C",
   "jp": "{n}{fb:00}新しいCOM{sp8}LEVELのグラフィック{n}です。{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{fb:00}These are new graphics{n}for the COM LEVEL screen.{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_027",
   "slot": "0C959C",
   "src": "0C7789",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「ストライク」にカーソルを合わせて{page}{n}{n}LRボタンで選択できます。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}On the MS SELECT screen, highlight{n}\"Strike\" and press L or R{page}{n}{n}to select it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_028",
   "slot": "0C95A0",
   "src": "0C77C2",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「イージス」にカーソルを合わせて{page}{n}{n}LRボタンで選択できます。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}On the MS SELECT screen, highlight{n}\"Aegis\" and press L or R{page}{n}{n}to select it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_029",
   "slot": "0C95A4",
   "src": "0C77FB",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「バスター」にカーソルを合わせて{page}{n}{n}LRボタンで選択できます。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}On the MS SELECT screen, highlight{n}\"Buster\" and press L or R{page}{n}{n}to select it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_030",
   "slot": "0C95A8",
   "src": "0C7834",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「レイダー」にカーソルを合わせて{page}{n}{n}LRボタンで選択できます。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}On the MS SELECT screen, highlight{n}\"Raider\" and press L or R{page}{n}{n}to select it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_031",
   "slot": "0C95AC",
   "src": "0C786D",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「カラミティ」にカーソルを合わせて{page}{n}{n}LRボタンで選択できます。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}On the MS SELECT screen, highlight{n}\"Calamity\" and press L or R{page}{n}{n}to select it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_032",
   "slot": "0C95B0",
   "src": "0C78A6",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「フォビドゥン」にカーソルを合わせて{page}{n}{n}LRボタンで選択できます。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}On the MS SELECT screen, highlight{n}\"Forbidden\" and press L or R{page}{n}{n}to select it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_033",
   "slot": "0C95B4",
   "src": "0C78E0",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「デュエル」にカーソルを合わせて{page}{n}{n}LRボタンで選択できます。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}On the MS SELECT screen, highlight{n}\"Duel\" and press L or R{page}{n}{n}to select it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_034",
   "slot": "0C95B8",
   "src": "0C7918",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「ブリッツ」にカーソルを合わせて{page}{n}{n}LRボタンで選択できます。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}On the MS SELECT screen, highlight{n}\"Blitz\" and press L or R{page}{n}{n}to select it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_035",
   "slot": "0C95BC",
   "src": "0C7950",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「シグー」にカーソルを合わせて{page}{n}{n}LRボタンで選択できます。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}On the MS SELECT screen, highlight{n}\"CGUE\" and press L or R{page}{n}{n}to select it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_036",
   "slot": "0C95C0",
   "src": "0C7988",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「アストレイ」にカーソルを合わせて{page}{n}{n}LRボタンで選択できます。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}On the MS SELECT screen, highlight{n}\"Astray\" and press L or R{page}{n}{n}to select it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_037",
   "slot": "0C95C4",
   "src": "0C79C1",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「フリーダム」にカーソルを合わせて{page}{n}{n}LRボタンで選択できます。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}On the MS SELECT screen, highlight{n}\"Freedom\" and press L or R{page}{n}{n}to select it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_038",
   "slot": "0C95C8",
   "src": "0C79FB",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「ジャスティス」にカーソルを合わせて{page}{n}{n}LRボタンで選択できます。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}On the MS SELECT screen, highlight{n}\"Justice\" and press L or R{page}{n}{n}to select it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_039",
   "slot": "0C95CC",
   "src": "0C7A35",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「フォースインパルス」にカーソルを{page}{n}{n}合わせてLRボタンで選択できます。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}On the MS SELECT screen, highlight{n}\"Force Impulse\" and press L or R{page}{n}{n}to select it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_040",
   "slot": "0C95D0",
   "src": "0C7A73",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「ソードインパルス」にカーソルを{page}{n}{n}合わせてLRボタンで選択できます。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}On the MS SELECT screen, highlight{n}\"Sword Impulse\" and press L or R{page}{n}{n}to select it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_041",
   "slot": "0C95D4",
   "src": "0C7AB0",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「ブラストインパルス」にカーソルを{page}{n}{n}合わせてLRボタンで選択できます。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}On the MS SELECT screen, highlight{n}\"Blast Impulse\" and press L or R{page}{n}{n}to select it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_042",
   "slot": "0C95D8",
   "src": "0C7AED",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「カオス」にカーソルを合わせて{page}{n}{n}LRボタンで選択できます。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}On the MS SELECT screen, highlight{n}\"Chaos\" and press L or R{page}{n}{n}to select it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_043",
   "slot": "0C95DC",
   "src": "0C7B24",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「ガイア」にカーソルを合わせて{page}{n}{n}LRボタンで選択できます。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}On the MS SELECT screen, highlight{n}\"Gaia\" and press L or R{page}{n}{n}to select it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_044",
   "slot": "0C95E0",
   "src": "0C7B5B",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「アビス」にカーソルを合わせて{page}{n}{n}LRボタンで選択できます。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}On the MS SELECT screen, highlight{n}\"Abyss\" and press L or R{page}{n}{n}to select it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_045",
   "slot": "0C95E4",
   "src": "0C7B92",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「セイバー」にカーソルを合わせて{page}{n}{n}LRボタンで選択できます。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}On the MS SELECT screen, highlight{n}\"Saviour\" and press L or R{page}{n}{n}to select it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_046",
   "slot": "0C95E8",
   "src": "0C7BCB",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「スラッシュザクファントム」に{page}{n}{n}カーソルを合わせてLRボタンで{n}選択できます。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}On the MS SELECT screen, highlight{n}\"Slash ZAKU Phantom\"{page}{n}{n}and press L or R to select it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_047",
   "slot": "0C95EC",
   "src": "0C7C0C",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「プロヴィデンス」にカーソルを{page}{n}{n}合わせてLRボタンで選択できます。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}On the MS SELECT screen, highlight{n}\"Providence\" and press L or R{page}{n}{n}to select it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_048",
   "slot": "0C95F0",
   "src": "0C7C47",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「ゴールドフレーム天ミナ」に{page}{n}{n}カーソルを合わせてLRボタンで{n}選択できます。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}On the MS SELECT screen, highlight{n}\"Gold Frame Amatsu Mina\"{page}{n}{n}and press L or R to select it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_049",
   "slot": "0C95F4",
   "src": "0C7C8A",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「ザクウォーリア」にカーソルを{page}{n}{n}合わせてLRボタンで選択できます。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}On the MS SELECT screen, highlight{n}\"ZAKU Warrior\" and press L or R{page}{n}{n}to select it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_050",
   "slot": "0C95F8",
   "src": "0C7CC6",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「ブレイズザクファントム」に{page}{n}{n}カーソルを合わせてLRボタンで{n}選択できます。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}On the MS SELECT screen, highlight{n}\"Blaze ZAKU Phantom\"{page}{n}{n}and press L or R to select it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_051",
   "slot": "0C95FC",
   "src": "0C7D06",
   "jp": "{n}ステージセレクトがめんに{n}「新しいステージ」が{page}{n}{n}ついかされました。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}A \"new stage\" has been added{n}to the STAGE SELECT screen.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_052",
   "slot": "0C9600",
   "src": "0C7D32",
   "jp": "{n}ステージセレクトがめんに{n}「新しいステージ」が{page}{n}{n}ついかされました。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}A \"new stage\" has been added{n}to the STAGE SELECT screen.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_053",
   "slot": "0C9604",
   "src": "0C7D5E",
   "jp": "{n}ステージセレクトがめんに{n}「新しいステージ」が{page}{n}{n}ついかされました。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}A \"new stage\" has been added{n}to the STAGE SELECT screen.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_054",
   "slot": "0C9608",
   "src": "0C7D8A",
   "jp": "{n}ステージセレクトがめんに{n}「新しいステージ」が{page}{n}{n}ついかされました。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}A \"new stage\" has been added{n}to the STAGE SELECT screen.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_055",
   "slot": "0C960C",
   "src": "0C7DB6",
   "jp": "{n}ステージセレクトがめんに{n}「新しいステージ」が{page}{n}{n}ついかされました。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}A \"new stage\" has been added{n}to the STAGE SELECT screen.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_056",
   "slot": "0C9610",
   "src": "0C7DE2",
   "jp": "{n}ステージセレクトがめんに{n}「新しいステージ」が{page}{n}{n}ついかされました。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}A \"new stage\" has been added{n}to the STAGE SELECT screen.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_057",
   "slot": "0C9614",
   "src": "0C7E0E",
   "jp": "{n}ステージセレクトがめんに{n}「新しいステージ」が{page}{n}{n}ついかされました。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}A \"new stage\" has been added{n}to the STAGE SELECT screen.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_058",
   "slot": "0C9618",
   "src": "0C7E3A",
   "jp": "{n}ステージセレクトがめんに{n}「新しいステージ」が{page}{n}{n}ついかされました。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}A \"new stage\" has been added{n}to the STAGE SELECT screen.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_059",
   "slot": "0C961C",
   "src": "0C7E66",
   "jp": "{n}OPTIONSがめんでゲーム中の{n}BGMをきくことができます。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}You can listen to the in-game BGM{n}on the OPTIONS screen.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_060",
   "slot": "0C9620",
   "src": "0C7E8B",
   "jp": "{n}COM{sp8}LEVELがめんで{n}VERY{sp8}HARDを選択できます。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}You can select VERY HARD{n}on the COM LEVEL screen.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_061",
   "slot": "0C9624",
   "src": "0C7EB0",
   "jp": "{n}OPTIONSがめんで{sp8}ON、OFFの{n}せっていができます。{page}{n}{n}このモードはVSモードでしかつかえ{n}ません。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}You can turn it ON or OFF{n}on the OPTIONS screen.{page}{n}{n}This mode can only be used{n}in VS MODE.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_062",
   "slot": "0C9628",
   "src": "0C7EEF",
   "jp": "{n}OPTIONSがめんで{sp8}ON、OFFの{n}せっていができます。{page}{n}{n}このモードはVSモードでしかつかえ{n}ません。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}You can turn it ON or OFF{n}on the OPTIONS screen.{page}{n}{n}This mode can only be used{n}in VS MODE.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_063",
   "slot": "0C962C",
   "src": "0C7F2E",
   "jp": "{n}OPTIONSがめんで{sp8}ON、OFFの{n}せっていができます。{page}{n}{n}このモードはVSモード、トレーニング{n}モードでしかつかえません。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}You can turn it ON or OFF{n}on the OPTIONS screen.{page}{n}{n}This mode can only be used in{n}VS MODE and TRAINING MODE.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_064",
   "slot": "0C9630",
   "src": "0C7F7A",
   "jp": "{n}衣装を着がえます。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}I'll change into a new outfit.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_065",
   "slot": "0C9634",
   "src": "0C7F8A",
   "jp": "{n}衣装を着がえます。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}I'll change into a new outfit.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_066",
   "slot": "0C9638",
   "src": "0C7F9A",
   "jp": "{n}衣装を着がえます。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}I'll change into a new outfit.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_067",
   "slot": "0C963C",
   "src": "0C7FAA",
   "jp": "{n}衣装を着がえます。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}I'll change into a new outfit.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_068",
   "slot": "0C9640",
   "src": "0C7FBA",
   "jp": "{n}衣装を着がえます。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}I'll change into a new outfit.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_069",
   "slot": "0C9644",
   "src": "0C7FCA",
   "jp": "{n}ゲームきどう時に選択することで{page}{n}{n}「MS{sp8}GUNDAM{sp8}SEED{sp8}BATTLE{n}ASSULT」がプレイできます。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Select it when starting the game{page}{n}{n}to play \"MS GUNDAM SEED{n}BATTLE ASSAULT\".{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_070",
   "slot": "0C9648",
   "src": "0C800D",
   "jp": "{n}MS{sp8}SELECTがめんに{n}「カラミティ」がついかされました。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}\"Calamity\" has been added{n}to the MS SELECT screen.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_071",
   "slot": "0C964C",
   "src": "0C8032",
   "jp": "{n}MS{sp8}SELECTがめんに{n}「レイダー」がついかされました。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}\"Raider\" has been added{n}to the MS SELECT screen.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_072",
   "slot": "0C9650",
   "src": "0C8057",
   "jp": "{n}MS{sp8}SELECTがめんに{n}「フォビドゥン」がついか{page}{n}{n}されました。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}\"Forbidden\" has been added{n}to the MS SELECT screen.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_073",
   "slot": "0C9654",
   "src": "0C8080",
   "jp": "{n}MS{sp8}SELECTがめんに{n}「セイバー」がついかされました。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}\"Saviour\" has been added{n}to the MS SELECT screen.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_074",
   "slot": "0C9658",
   "src": "0C80A5",
   "jp": "{n}MS{sp8}SELECTがめんに{n}「ソードインパルス」がついか{page}{n}{n}されました。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}\"Sword Impulse\" has been added{n}to the MS SELECT screen.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_075",
   "slot": "0C965C",
   "src": "0C80D1",
   "jp": "{n}MS{sp8}SELECTがめんに{n}「ブラストインパルス」がついか{page}{n}{n}されました。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}\"Blast Impulse\" has been added{n}to the MS SELECT screen.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_076",
   "slot": "0C9660",
   "src": "0C80FD",
   "jp": "{n}MS{sp8}SELECTがめんに{n}「スラッシュザクファントム」が{page}{n}{n}ついかされました。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}\"Slash ZAKU Phantom\"{n}has been added{page}{n}{n}to the MS SELECT screen.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_077",
   "slot": "0C9664",
   "src": "0C812C",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「ストライク」にカーソルを合わせて{page}{n}{n}LRボタンで選択できます。{page}{n}{n}また、このキャラでCHALLENGE{n}MODEはプレイできません。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}On the MS SELECT screen, highlight{n}\"Strike\" and press L or R{page}{n}{n}to select it.{page}{n}{n}Also, this character can't be{n}played in CHALLENGE MODE.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_078",
   "slot": "0C9668",
   "src": "0C818B",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「ストライク」にカーソルを合わせて{page}{n}{n}LRボタンで選択できます。{page}{n}{n}また、このキャラでCHALLENGE{n}MODEはプレイできません。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}On the MS SELECT screen, highlight{n}\"Strike\" and press L or R{page}{n}{n}to select it.{page}{n}{n}Also, this character can't be{n}played in CHALLENGE MODE.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_079",
   "slot": "0C966C",
   "src": "0C81EA",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「ガナーザクウォーリア」にカーソルを{page}{n}{n}合わせてLRボタンで選択できます。{page}{n}{n}また、このキャラでCHALLENGE{n}MODEはプレイできません。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}On the MS SELECT screen, highlight{n}\"Gunner ZAKU Warrior\"{page}{n}{n}and press L or R to select it.{page}{n}{n}Also, this character can't be{n}played in CHALLENGE MODE.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_080",
   "slot": "0C9670",
   "src": "0C8250",
   "jp": "{n}ミシヨウ{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Unused{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_081",
   "slot": "0C9674",
   "src": "0C8256",
   "jp": "{n}ミシヨウ{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Unused{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_082",
   "slot": "0C9678",
   "src": "0C825C",
   "jp": "{n}ミシヨウ{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Unused{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_083",
   "slot": "0C967C",
   "src": "0C8262",
   "jp": "{n}ミシヨウ{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Unused{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_084",
   "slot": "0C9680",
   "src": "0C8268",
   "jp": "{n}COM{sp8}LEVELがめんのグラフィックを{n}換えました。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}The COM LEVEL screen graphics{n}have been changed.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_085",
   "slot": "0C9684",
   "src": "0C8288",
   "jp": "{n}COM{sp8}LEVELがめんのグラフィックを{n}換えました。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}The COM LEVEL screen graphics{n}have been changed.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_086",
   "slot": "0C9688",
   "src": "0C82A8",
   "jp": "{n}COM{sp8}LEVELがめんのグラフィックを{n}換えました。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}The COM LEVEL screen graphics{n}have been changed.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_087",
   "slot": "0C968C",
   "src": "0C82C8",
   "jp": "{n}COM{sp8}LEVELがめんのグラフィックを{n}換えました。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}The COM LEVEL screen graphics{n}have been changed.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_088",
   "slot": "0C9690",
   "src": "0C82E8",
   "jp": "{n}COM{sp8}LEVELがめんのグラフィックを{n}換えました。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}The COM LEVEL screen graphics{n}have been changed.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_089",
   "slot": "0C9694",
   "src": "0C8308",
   "jp": "{n}・・・・ん？{n}よく来たな。{page}{n}{n}ここではPOINTを様々な物に{n}交換することができるぞ。{page}{n}{n}POINTはモードをクリアする等、{n}色々な場所で手に入るんだ。{page}{n}{n}がんばって手に入れてくれよ。{page}{n}{n}では、何かと交換するか？{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}....Hm?{n}Glad you came.{page}{n}{n}Here you can trade POINTS{n}for all kinds of stuff.{page}{n}{n}You get POINTS in lots of ways,{n}like by clearing modes.{page}{n}{n}So go out there and earn 'em.{page}{n}{n}Well? Want to trade for something?{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_090",
   "slot": "0C9698",
   "src": "0C8397",
   "jp": "{n}また来たんだな。{page}{n}{n}何かと交換するか？{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Back again, huh?{page}{n}{n}Want to trade for something?{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_091",
   "slot": "0C969C",
   "src": "0C83B3",
   "jp": "{n}よう。来たな。{page}{n}{n}何かと交換するか？{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Hey. You made it.{page}{n}{n}Want to trade for something?{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_092",
   "slot": "0C96A0",
   "src": "0C83CF",
   "jp": "{n}また来たのか。よく来るな。{page}{n}{n}何かと交換するか？{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}You again? You sure come a lot.{page}{n}{n}Want to trade for something?{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_093",
   "slot": "0C96A4",
   "src": "0C83F2",
   "jp": "{n}ミシヨウメッセージ{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Unused message{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_094",
   "slot": "0C96A8",
   "src": "0C83FE",
   "jp": "{n}ミシヨウメッセージ{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Unused message{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_095",
   "slot": "0C96AC",
   "src": "0C840A",
   "jp": "{n}本当にこれでいいのか？{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}You sure about this?{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_096",
   "slot": "0C96B0",
   "src": "0C841A",
   "jp": "{n}ではこれと交換するぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Alright, it's a trade.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_097",
   "slot": "0C96B4",
   "src": "0C842B",
   "jp": "{n}何と交換する？{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}What'll you trade for?{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_098",
   "slot": "0C96B8",
   "src": "0C8438",
   "jp": "{n}おいおい。POINTがたりないぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Hey now. You're short on POINTS.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_099",
   "slot": "0C96BC",
   "src": "0C844E",
   "jp": "{n}メッセージ{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Message{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_100",
   "slot": "0C96C0",
   "src": "0C8456",
   "jp": "{n}メッセージ{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Message{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_101",
   "slot": "0C96C4",
   "src": "0C845E",
   "jp": "{n}メッセージ{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Message{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_102",
   "slot": "0C96C8",
   "src": "0C8466",
   "jp": "{n}SHOPに「セイバー」がついか{n}されたぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}\"Saviour\" is in the SHOP now!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_103",
   "slot": "0C96CC",
   "src": "0C8482",
   "jp": "{n}メッセージ{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Message{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_104",
   "slot": "0C96D0",
   "src": "0C848A",
   "jp": "{n}{fb:00}2PカラーのMSでプレイできるぞ。{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{fb:00}You can play with a 2P-color MS!{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_105",
   "slot": "0C96D4",
   "src": "0C84A2",
   "jp": "{n}{fb:00}新しいステージでプレイできるぞ。{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{fb:00}You can play on a new stage!{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_106",
   "slot": "0C96D8",
   "src": "0C84B9",
   "jp": "{n}{fb:00}新しいMSでプレイできるぞ。{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{fb:00}You can play with a new MS!{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_107",
   "slot": "0C96DC",
   "src": "0C84CD",
   "jp": "{n}{fb:00}新しいパイロットでプレイできるぞ。{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{fb:00}You can play as a new pilot!{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_108",
   "slot": "0C96E0",
   "src": "0C84E4",
   "jp": "{n}{fb:00}新しいモードだな。{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{fb:00}A new mode, huh.{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_109",
   "slot": "0C96E4",
   "src": "0C84F4",
   "jp": "{n}{fb:00}新しい衣装だな。{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{fb:00}A new outfit, huh.{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_110",
   "slot": "0C96E8",
   "src": "0C8504",
   "jp": "{n}{fb:00}新しいCOM{sp8}LEVELのグラフィック{n}だな。{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{fb:00}New graphics for the{n}COM LEVEL screen, huh.{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_111",
   "slot": "0C96EC",
   "src": "0C8521",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「ストライク」にカーソルを合わせて{page}{n}{n}LRボタンで選択できるぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Highlight \"Strike\" on the{n}MS SELECT screen and hit L or R{page}{n}{n}to pick it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_112",
   "slot": "0C96F0",
   "src": "0C855A",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「イージス」にカーソルを合わせて{page}{n}{n}LRボタンで選択できるぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Highlight \"Aegis\" on the{n}MS SELECT screen and hit L or R{page}{n}{n}to pick it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_113",
   "slot": "0C96F4",
   "src": "0C8593",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「バスター」にカーソルを合わせて{page}{n}{n}LRボタンで選択できるぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Highlight \"Buster\" on the{n}MS SELECT screen and hit L or R{page}{n}{n}to pick it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_114",
   "slot": "0C96F8",
   "src": "0C85CC",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「レイダー」にカーソルを合わせて{page}{n}{n}LRボタンで選択できるぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Highlight \"Raider\" on the{n}MS SELECT screen and hit L or R{page}{n}{n}to pick it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_115",
   "slot": "0C96FC",
   "src": "0C8605",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「カラミティ」にカーソルを合わせて{page}{n}{n}LRボタンで選択できるぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Highlight \"Calamity\" on the{n}MS SELECT screen and hit L or R{page}{n}{n}to pick it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_116",
   "slot": "0C9700",
   "src": "0C863E",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「フォビドゥン」にカーソルを合わせて{page}{n}{n}LRボタンで選択できるぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Highlight \"Forbidden\" on the{n}MS SELECT screen and hit L or R{page}{n}{n}to pick it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_117",
   "slot": "0C9704",
   "src": "0C8678",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「デュエル」にカーソルを合わせて{page}{n}{n}LRボタンで選択できるぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Highlight \"Duel\" on the{n}MS SELECT screen and hit L or R{page}{n}{n}to pick it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_118",
   "slot": "0C9708",
   "src": "0C86B0",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「ブリッツ」にカーソルを合わせて{page}{n}{n}LRボタンで選択できるぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Highlight \"Blitz\" on the{n}MS SELECT screen and hit L or R{page}{n}{n}to pick it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_119",
   "slot": "0C970C",
   "src": "0C86E8",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「シグー」にカーソルを合わせて{page}{n}{n}LRボタンで選択できるぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Highlight \"CGUE\" on the{n}MS SELECT screen and hit L or R{page}{n}{n}to pick it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_120",
   "slot": "0C9710",
   "src": "0C8720",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「アストレイ」にカーソルを合わせて{page}{n}{n}LRボタンで選択できるぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Highlight \"Astray\" on the{n}MS SELECT screen and hit L or R{page}{n}{n}to pick it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_121",
   "slot": "0C9714",
   "src": "0C8759",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「フリーダム」にカーソルを合わせて{page}{n}{n}LRボタンで選択できるぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Highlight \"Freedom\" on the{n}MS SELECT screen and hit L or R{page}{n}{n}to pick it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_122",
   "slot": "0C9718",
   "src": "0C8793",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「ジャスティス」にカーソルを合わせて{page}{n}{n}LRボタンで選択できるぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Highlight \"Justice\" on the{n}MS SELECT screen and hit L or R{page}{n}{n}to pick it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_123",
   "slot": "0C971C",
   "src": "0C87CD",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「フォースインパルス」にカーソルを{page}{n}{n}合わせてLRボタンで選択できるぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Highlight \"Force Impulse\" on the{n}MS SELECT screen and hit L or R{page}{n}{n}to pick it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_124",
   "slot": "0C9720",
   "src": "0C880B",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「ソードインパルス」にカーソルを{page}{n}{n}合わせてLRボタンで選択できるぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Highlight \"Sword Impulse\" on the{n}MS SELECT screen and hit L or R{page}{n}{n}to pick it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_125",
   "slot": "0C9724",
   "src": "0C8848",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「ブラストインパルス」にカーソルを{page}{n}{n}合わせてLRボタンで選択できるぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Highlight \"Blast Impulse\" on the{n}MS SELECT screen and hit L or R{page}{n}{n}to pick it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_126",
   "slot": "0C9728",
   "src": "0C8885",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「カオス」にカーソルを合わせて{page}{n}{n}LRボタンで選択できるぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Highlight \"Chaos\" on the{n}MS SELECT screen and hit L or R{page}{n}{n}to pick it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_127",
   "slot": "0C972C",
   "src": "0C88BC",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「ガイア」にカーソルを合わせて{page}{n}{n}LRボタンで選択できるぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Highlight \"Gaia\" on the{n}MS SELECT screen and hit L or R{page}{n}{n}to pick it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_128",
   "slot": "0C9730",
   "src": "0C88F3",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「アビス」にカーソルを合わせて{page}{n}{n}LRボタンで選択できるぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Highlight \"Abyss\" on the{n}MS SELECT screen and hit L or R{page}{n}{n}to pick it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_129",
   "slot": "0C9734",
   "src": "0C892A",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「セイバー」にカーソルを合わせて{page}{n}{n}LRボタンで選択できるぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Highlight \"Saviour\" on the{n}MS SELECT screen and hit L or R{page}{n}{n}to pick it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_130",
   "slot": "0C9738",
   "src": "0C8963",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「スラッシュザクファントム」に{page}{n}{n}カーソルを合わせてLRボタンで{n}選択できるぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Highlight \"Slash ZAKU Phantom\"{n}on the MS SELECT screen{page}{n}{n}and hit L or R to pick it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_131",
   "slot": "0C973C",
   "src": "0C89A4",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「プロヴィデンス」にカーソルを{page}{n}{n}合わせてLRボタンで選択できるぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Highlight \"Providence\" on the{n}MS SELECT screen and hit L or R{page}{n}{n}to pick it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_132",
   "slot": "0C9740",
   "src": "0C89DF",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「ゴールドフレーム天ミナ」に{page}{n}{n}カーソルを合わせてLRボタンで{n}選択できるぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Highlight \"Gold Frame Amatsu Mina\"{n}on the MS SELECT screen{page}{n}{n}and hit L or R to pick it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_133",
   "slot": "0C9744",
   "src": "0C8A22",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「ザクウォーリア」にカーソルを{page}{n}{n}合わせてLRボタンで選択できるぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Highlight \"ZAKU Warrior\" on the{n}MS SELECT screen and hit L or R{page}{n}{n}to pick it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_134",
   "slot": "0C9748",
   "src": "0C8A5E",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「ブレイズザクファントム」に{page}{n}{n}カーソルを合わせてLRボタンで{n}選択できるぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Highlight \"Blaze ZAKU Phantom\"{n}on the MS SELECT screen{page}{n}{n}and hit L or R to pick it.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_135",
   "slot": "0C974C",
   "src": "0C8A9E",
   "jp": "{n}ステージセレクトがめんに{n}「新しいステージ」が{page}{n}{n}ついかされたぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}A \"new stage\" is on the{n}STAGE SELECT screen now!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_136",
   "slot": "0C9750",
   "src": "0C8AC9",
   "jp": "{n}ステージセレクトがめんに{n}「新しいステージ」が{page}{n}{n}ついかされたぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}A \"new stage\" is on the{n}STAGE SELECT screen now!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_137",
   "slot": "0C9754",
   "src": "0C8AF4",
   "jp": "{n}ステージセレクトがめんに{n}「新しいステージ」が{page}{n}{n}ついかされたぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}A \"new stage\" is on the{n}STAGE SELECT screen now!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_138",
   "slot": "0C9758",
   "src": "0C8B1F",
   "jp": "{n}ステージセレクトがめんに{n}「新しいステージ」が{page}{n}{n}ついかされたぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}A \"new stage\" is on the{n}STAGE SELECT screen now!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_139",
   "slot": "0C975C",
   "src": "0C8B4A",
   "jp": "{n}ステージセレクトがめんに{n}「新しいステージ」が{page}{n}{n}ついかされたぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}A \"new stage\" is on the{n}STAGE SELECT screen now!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_140",
   "slot": "0C9760",
   "src": "0C8B75",
   "jp": "{n}ステージセレクトがめんに{n}「新しいステージ」が{page}{n}{n}ついかされたぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}A \"new stage\" is on the{n}STAGE SELECT screen now!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_141",
   "slot": "0C9764",
   "src": "0C8BA0",
   "jp": "{n}ステージセレクトがめんに{n}「新しいステージ」が{page}{n}{n}ついかされたぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}A \"new stage\" is on the{n}STAGE SELECT screen now!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_142",
   "slot": "0C9768",
   "src": "0C8BCB",
   "jp": "{n}ステージセレクトがめんに{n}「新しいステージ」が{page}{n}{n}ついかされたぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}A \"new stage\" is on the{n}STAGE SELECT screen now!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_143",
   "slot": "0C976C",
   "src": "0C8BF6",
   "jp": "{n}OPTIONSがめんでゲーム中の{n}BGMをきくことができるんだ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}You can listen to the in-game BGM{n}on the OPTIONS screen!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_144",
   "slot": "0C9770",
   "src": "0C8C1C",
   "jp": "{n}COM{sp8}LEVELがめんで{n}VERY{sp8}HARDを選択できるぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}You can pick VERY HARD{n}on the COM LEVEL screen!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_145",
   "slot": "0C9774",
   "src": "0C8C41",
   "jp": "{n}OPTIONSがめんで{sp8}ON、OFFの{n}せっていができるぞ。{page}{n}{n}このモードはVSモードでしかつかえ{n}ないんだ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}You can set it ON or OFF{n}on the OPTIONS screen.{page}{n}{n}But it only works in VS MODE.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_146",
   "slot": "0C9778",
   "src": "0C8C81",
   "jp": "{n}OPTIONSがめんで{sp8}ON、OFFの{n}せっていができるぞ。{page}{n}{n}このモードはVSモードでしかつかえ{n}ないんだ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}You can set it ON or OFF{n}on the OPTIONS screen.{page}{n}{n}But it only works in VS MODE.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_147",
   "slot": "0C977C",
   "src": "0C8CC1",
   "jp": "{n}OPTIONSがめんで{sp8}ON、OFFの{n}せっていができるぞ。{page}{n}{n}このモードはVSモード、トレーニング{n}モードでしかつかえないんだ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}You can set it ON or OFF{n}on the OPTIONS screen.{page}{n}{n}But it only works in VS MODE{n}and TRAINING MODE.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_148",
   "slot": "0C9780",
   "src": "0C8D0E",
   "jp": "{n}ラクスが衣装を着がえてくれるぞ。{page}{n}{n}私は着がえないけどな。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Lacus will change her outfit for you.{page}{n}{n}I'm not changing mine, though.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_149",
   "slot": "0C9784",
   "src": "0C8D36",
   "jp": "{n}ラクスが衣装を着がえてくれるぞ。{page}{n}{n}私は着がえないけどな。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Lacus will change her outfit for you.{page}{n}{n}I'm not changing mine, though.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_150",
   "slot": "0C9788",
   "src": "0C8D5E",
   "jp": "{n}ラクスが衣装を着がえてくれるぞ。{page}{n}{n}私は着がえないけどな。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Lacus will change her outfit for you.{page}{n}{n}I'm not changing mine, though.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_151",
   "slot": "0C978C",
   "src": "0C8D86",
   "jp": "{n}ラクスが衣装を着がえてくれるぞ。{page}{n}{n}私は着がえないけどな。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Lacus will change her outfit for you.{page}{n}{n}I'm not changing mine, though.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_152",
   "slot": "0C9790",
   "src": "0C8DAE",
   "jp": "{n}ラクスが衣装を着がえてくれるぞ。{page}{n}{n}私は着がえないけどな。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Lacus will change her outfit for you.{page}{n}{n}I'm not changing mine, though.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_153",
   "slot": "0C9794",
   "src": "0C8DD6",
   "jp": "{n}ゲームきどう時に選択することで{page}{n}{n}「MS{sp8}GUNDAM{sp8}SEED{sp8}BATTLE{n}ASSULT」がプレイできるんだ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Pick it when you start the game{page}{n}{n}to play \"MS GUNDAM SEED{n}BATTLE ASSAULT\"!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_154",
   "slot": "0C9798",
   "src": "0C8E1A",
   "jp": "{n}MS{sp8}SELECTがめんに{n}「カラミティ」がついかされたぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}\"Calamity\" is on the{n}MS SELECT screen now!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_155",
   "slot": "0C979C",
   "src": "0C8E3E",
   "jp": "{n}MS{sp8}SELECTがめんに{n}「レイダー」がついかされたぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}\"Raider\" is on the{n}MS SELECT screen now!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_156",
   "slot": "0C97A0",
   "src": "0C8E62",
   "jp": "{n}MS{sp8}SELECTがめんに{n}「フォビドゥン」がついか{page}{n}{n}されたぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}\"Forbidden\" is on the{n}MS SELECT screen now!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_157",
   "slot": "0C97A4",
   "src": "0C8E8A",
   "jp": "{n}MS{sp8}SELECTがめんに{n}「セイバー」がついかされたぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}\"Saviour\" is on the{n}MS SELECT screen now!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_158",
   "slot": "0C97A8",
   "src": "0C8EAE",
   "jp": "{n}MS{sp8}SELECTがめんに{n}「ソードインパルス」がついか{page}{n}{n}されたぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}\"Sword Impulse\" is on the{n}MS SELECT screen now!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_159",
   "slot": "0C97AC",
   "src": "0C8ED9",
   "jp": "{n}MS{sp8}SELECTがめんに{n}「ブラストインパルス」がついか{page}{n}{n}されたぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}\"Blast Impulse\" is on the{n}MS SELECT screen now!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_160",
   "slot": "0C97B0",
   "src": "0C8F04",
   "jp": "{n}MS{sp8}SELECTがめんに{n}「スラッシュザクファントム」が{page}{n}{n}ついかされたぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}\"Slash ZAKU Phantom\" is on the{n}MS SELECT screen now!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_161",
   "slot": "0C97B4",
   "src": "0C8F32",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「ストライク」にカーソルを合わせて{page}{n}{n}LRボタンで選択できるぞ。{page}{n}{n}また、このキャラでCHALLENGE{n}MODEはプレイできないんだ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Highlight \"Strike\" on the{n}MS SELECT screen and hit L or R{page}{n}{n}to pick it.{page}{n}{n}But you can't play this character{n}in CHALLENGE MODE.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_162",
   "slot": "0C97B8",
   "src": "0C8F92",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「ストライク」にカーソルを合わせて{page}{n}{n}LRボタンで選択できるぞ。{page}{n}{n}また、このキャラでCHALLENGE{n}MODEはプレイできないんだ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Highlight \"Strike\" on the{n}MS SELECT screen and hit L or R{page}{n}{n}to pick it.{page}{n}{n}But you can't play this character{n}in CHALLENGE MODE.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_163",
   "slot": "0C97BC",
   "src": "0C8FF2",
   "jp": "{n}MS{sp8}SELECTがめんで{n}「ガナーザクウォーリア」にカーソルを{page}{n}{n}合わせてLRボタンで選択できるぞ。{page}{n}{n}また、このキャラでCHALLENGE{n}MODEはプレイできないんだ。{key}B621{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Highlight \"Gunner ZAKU Warrior\"{n}on the MS SELECT screen{page}{n}{n}and hit L or R to pick it.{page}{n}{n}But you can't play this character{n}in CHALLENGE MODE.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_164",
   "slot": "0C97C0",
   "src": "0C9060",
   "jp": "{n}ミシヨウ{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Unused{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_165",
   "slot": "0C97C4",
   "src": "0C9066",
   "jp": "{n}ミシヨウ{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Unused{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_166",
   "slot": "0C97C8",
   "src": "0C906C",
   "jp": "{n}ミシヨウ{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Unused{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_167",
   "slot": "0C97CC",
   "src": "0C9072",
   "jp": "{n}ミシヨウ{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Unused{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_168",
   "slot": "0C97D0",
   "src": "0C9078",
   "jp": "{n}COM{sp8}LEVELがめんのグラフィックを{n}換えたぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}The COM LEVEL screen graphics{n}got changed!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_169",
   "slot": "0C97D4",
   "src": "0C9097",
   "jp": "{n}COM{sp8}LEVELがめんのグラフィックを{n}換えたぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}The COM LEVEL screen graphics{n}got changed!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_170",
   "slot": "0C97D8",
   "src": "0C90B6",
   "jp": "{n}COM{sp8}LEVELがめんのグラフィックを{n}換えたぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}The COM LEVEL screen graphics{n}got changed!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_171",
   "slot": "0C97DC",
   "src": "0C90D5",
   "jp": "{n}COM{sp8}LEVELがめんのグラフィックを{n}換えたぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}The COM LEVEL screen graphics{n}got changed!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_172",
   "slot": "0C97E0",
   "src": "0C90F4",
   "jp": "{n}COM{sp8}LEVELがめんのグラフィックを{n}換えたぞ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}The COM LEVEL screen graphics{n}got changed!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_173",
   "slot": "0C97E4",
   "src": "0C9113",
   "jp": "{n}・・・くっくっくっ・・・。{n}ようこそSHOPへ。{page}{n}{n}今日はラクスさんおやすみのようでして{n}ボクがかわり・・といったワケです。{page}{n}{n}あまりいやなかおせずにPOINTを{n}交換していってくださいねぇ。{page}{n}{n}{f4:01}・・・くっくっくっ・・・。{page}{n}{n}では、何と交換しますかねぇ？{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}...Heh heh heh...{n}Welcome to the SHOP.{page}{n}{n}It seems Lacus has the day off,{n}so I'm filling in for her, you see.{page}{n}{n}Do trade your POINTS without{n}making such a sour face, hmm?{page}{n}{n}{f4:01}...Heh heh heh...{page}{n}{n}Now then, what will you trade for?{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_174",
   "slot": "0C97E8",
   "src": "0C91B6",
   "jp": "{n}・・・また来たんですか。{page}{n}{n}何と交換しますかねぇ？{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}...You're back again?{page}{n}{n}What will you trade for, hmm?{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_175",
   "slot": "0C97EC",
   "src": "0C91DB",
   "jp": "{n}{f4:01}くっくっく・・・。{page}{n}{n}何と交換しますかねぇ？{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f4:01}Heh heh heh...{page}{n}{n}What will you trade for, hmm?{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_176",
   "slot": "0C97F0",
   "src": "0C91FE",
   "jp": "{n}アナタよく来ますねぇ・・・。{n}ひまなんですか？？？{page}{n}{n}何と交換しますかねぇ？{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}You certainly come by often...{n}Have you nothing better to do???{page}{n}{n}What will you trade for, hmm?{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_177",
   "slot": "0C97F4",
   "src": "0C9233",
   "jp": "{n}POINTを何につかうかなんて{n}人それぞれですよねぇ。{page}{n}{n}{f4:01}くっくっく・・・。{page}{n}{n}何と交換しますかねぇ？{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}What one spends POINTS on{n}is a personal matter, isn't it?{page}{n}{n}{f4:01}Heh heh heh...{page}{n}{n}What will you trade for, hmm?{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_178",
   "slot": "0C97F8",
   "src": "0C9277",
   "jp": "{n}このSHOPのなまえをアズラエル{n}ショップにしましょうかねぇ。{page}{n}{n}{f4:01}ラクスさんにはひみつですが。{page}{n}{n}何と交換しますかねぇ？{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Perhaps I should rename this SHOP{n}the Azrael Shop...{page}{n}{n}{f4:01}Just keep it secret from Lacus.{page}{n}{n}What will you trade for, hmm?{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_179",
   "slot": "0C97FC",
   "src": "0C92BF",
   "jp": "{n}本当にこれでいいんですかねぇ・・？{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Are you quite sure about this...?{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_180",
   "slot": "0C9800",
   "src": "0C92D7",
   "jp": "{n}{f4:01}くっくっく・・・。{n}交換してしまいましたねぇ・・・。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f4:01}Heh heh heh...{n}Well, now you've traded...{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_181",
   "slot": "0C9804",
   "src": "0C9300",
   "jp": "{n}何と交換するんですかねぇ？{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}What will you be trading for, hmm?{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_182",
   "slot": "0C9808",
   "src": "0C9313",
   "jp": "{n}{f4:01}アナタ、POINTありませんよ・・・。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f4:01}You don't have the POINTS...{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_183",
   "slot": "0C980C",
   "src": "0C9330",
   "jp": "{n}メッセージ{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Message{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_184",
   "slot": "0C9810",
   "src": "0C9338",
   "jp": "{n}メッセージ{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Message{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_185",
   "slot": "0C9814",
   "src": "0C9340",
   "jp": "{n}メッセージ{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Message{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_186",
   "slot": "0C9818",
   "src": "0C9348",
   "jp": "{n}メッセージ{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Message{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_187",
   "slot": "0C981C",
   "src": "0C9350",
   "jp": "{n}メッセージ{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Message{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_188",
   "slot": "0C9820",
   "src": "0C9358",
   "jp": "{n}メッセージ{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}Message{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_189",
   "slot": "0C9824",
   "src": "0C9360",
   "jp": "{n}{fb:00}MSをすべて交換するといいことが{n}あるかもしれませんねぇ・・・。{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{fb:00}Something good might happen{n}if you trade for every MS...{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_190",
   "slot": "0C9828",
   "src": "0C938A",
   "jp": "{n}{fb:00}VERY{sp8}HARDでがんばってみて{n}もらえませんかねぇ・・・。{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{fb:00}Won't you try your best{n}on VERY HARD for me...?{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_191",
   "slot": "0C982C",
   "src": "0C93B1",
   "jp": "{n}{fb:00}HARDでがんばってみて{n}もらえませんかねぇ・・・。{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{fb:00}Won't you try your best{n}on HARD for me...?{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_192",
   "slot": "0C9830",
   "src": "0C93D3",
   "jp": "{n}{fb:00}時間をきそうモードでがんばりを{n}見てみたいですねぇ・・・。{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{fb:00}I'd love to see you do your best{n}in the race-against-the-clock mode...{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_193",
   "slot": "0C9834",
   "src": "0C93FC",
   "jp": "{n}{fb:00}サバイバルやってみてくださいって{n}かんじですかねぇ・・・。{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{fb:00}How about giving SURVIVAL{n}a try, hmm...?{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_194",
   "slot": "0C9838",
   "src": "0C9421",
   "jp": "{n}MS{sp8}SELECTがめんに{n}「セイバー」が・・{page}{n}{n}{f4:01}くっくっく・・・。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}\"Saviour\" has found its way{n}onto the MS SELECT screen...{page}{n}{n}{f4:01}Heh heh heh...{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_195",
   "slot": "0C983C",
   "src": "0C9452",
   "jp": "{n}MS{sp8}SELECTがめんに{n}「ゴールドフレーム天ミナ」が・・{page}{n}{n}{f4:01}くっくっく・・・。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}The MS SELECT screen now has{n}\"Gold Frame Amatsu Mina\"...{page}{n}{n}{f4:01}Heh heh heh...{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_196",
   "slot": "0C9840",
   "src": "0C948C",
   "jp": "{n}MS{sp8}SELECTがめんに{n}「プロヴィデンス」が・・{page}{n}{n}{f4:01}くっくっく・・・。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}\"Providence\" has found its way{n}onto the MS SELECT screen...{page}{n}{n}{f4:01}Heh heh heh...{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_197",
   "slot": "0C9844",
   "src": "0C94BF",
   "jp": "{n}MS{sp8}SELECTがめんに{n}「フリーダム」が・・{page}{n}{n}{f4:01}くっくっく・・・。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}\"Freedom\" has found its way{n}onto the MS SELECT screen...{page}{n}{n}{f4:01}Heh heh heh...{key}{end}",
+  "status": "done"
  },
  {
   "id": "0C9530_198",
   "slot": "0C9848",
   "src": "0C94F1",
   "jp": "{n}MS{sp8}SELECTがめんに{n}「ジャスティス」が・・{page}{n}{n}{f4:01}くっくっく・・・。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}\"Justice\" has found its way{n}onto the MS SELECT screen...{page}{n}{n}{f4:01}Heh heh heh...{key}{end}",
+  "status": "done"
  }
 ]

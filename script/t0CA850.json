@@ -4,71 +4,71 @@
   "slot": "0CA850",
   "src": "0CA6D0",
   "jp": "{n}{f5:000008}私と戦うには、はやすぎたのではない{n}かな？{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000008}Wasn't it a little too soon{n}for you to face me?{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA850_001",
   "slot": "0CA854",
   "src": "0CA6F0",
   "jp": "{n}{f5:000008}楽しませてもらったよ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000008}That was most entertaining.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA850_002",
   "slot": "0CA858",
   "src": "0CA704",
   "jp": "{n}{f5:000008}キミはよくがんばった・・・{n}だが、そこまでだ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000008}You fought well...{n}but this is where it ends.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA850_003",
   "slot": "0CA85C",
   "src": "0CA727",
   "jp": "{n}{f5:000008}よし、今日はここまでだ。{n}帰還せよ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000008}Very well, that's enough for today.{n}Return to base.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA850_004",
   "slot": "0CA860",
   "src": "0CA747",
   "jp": "{n}{f5:000008}おまえはいつでもジャマだな{n}ムゥ・ラ・フラガ！{page}{n}{n}{f6:000019}うっせー！！！{n}おまえはいつでもしつこいんだよ！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000008}You're always in my way,{n}Mu La Flaga!{page}{n}{n}{f6:000019}Shut up!!!{n}And you never know when to quit!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA850_005",
   "slot": "0CA864",
   "src": "0CA78E",
   "jp": "{n}{f5:000008}キミは・・・・・・？{page}{n}{n}{f6:000018}・・・・。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000008}You are......?{page}{n}{n}{f6:000018}....{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA850_006",
   "slot": "0CA868",
   "src": "0CA7B7",
   "jp": "{n}{f5:000008}キミの力はこんなモノかね？{page}{n}{n}{f6:000000}くっ！{sp6}・・・つよい！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000008}Is this the extent of your power?{page}{n}{n}{f6:000000}Ngh! ...He's strong!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA850_007",
   "slot": "0CA86C",
   "src": "0CA7E6",
   "jp": "{n}{f5:000008}キミの力はこんなモノかね？{page}{n}{n}{f6:00000A}くっ！{sp6}・・・つよい！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000008}Is this the extent of your power?{page}{n}{n}{f6:00000A}Ngh! ...He's strong!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA850_008",
   "slot": "0CA870",
   "src": "0CA815",
   "jp": "{n}{f5:000008}ふむ。いいモビルスーツだ。{page}{n}{n}{f6:000015}オーブの力はこんなものではない！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000008}Hmm. A fine mobile suit.{page}{n}{n}{f6:000015}This is not the limit{n}of Orb's power!!{key}{end}",
+  "status": "done"
  }
 ]

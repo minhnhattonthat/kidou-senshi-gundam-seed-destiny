@@ -14,7 +14,7 @@ import font
 import le
 
 TOKEN = re.compile(r'(\{[^}]*\})')
-GAP = 1          # px between glyph ink boxes (ink includes the 1 px shadow)
+GAP = 0          # px between glyph ink boxes; the 1 px dark shadow already reads as spacing on the box
 SPACE = 3        # px for ' ' (plus the gap after the previous glyph)
 CELL = 16
 BREAKS = ('{n}', '{page}')

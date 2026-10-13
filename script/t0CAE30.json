@@ -4,103 +4,103 @@
   "slot": "0CAE30",
   "src": "0CAC30",
   "jp": "{n}{f5:00000B}次は、こうはいかないかもな。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:00000B}It might not go this way next time.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CAE30_001",
   "slot": "0CAE34",
   "src": "0CAC48",
   "jp": "{n}{f5:00000B}いい動きだった。{n}うかうかしてられないな。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:00000B}Nice moves.{n}I can't let my guard down.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CAE30_002",
   "slot": "0CAE38",
   "src": "0CAC67",
   "jp": "{n}{f5:00000B}なかなかいいウデだ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:00000B}You're pretty good.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CAE30_003",
   "slot": "0CAE3C",
   "src": "0CAC79",
   "jp": "{n}{f5:00000B}ムダなていこうはよせ！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:00000B}Stop this pointless resistance!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CAE30_004",
   "slot": "0CAE40",
   "src": "0CAC8C",
   "jp": "{n}{f5:00000B}オマエの動きは見きらせてもらった。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:00000B}I've seen through your moves.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CAE30_005",
   "slot": "0CAE44",
   "src": "0CACA7",
   "jp": "{n}{f5:00000B}どうした！？{sp8}キラ！{page}{n}{n}{f6:000000}ジャスティス・・・強い！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:00000B}What's wrong?! Kira!{page}{n}{n}{f6:000000}The Justice... it's strong!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CAE30_006",
   "slot": "0CAE48",
   "src": "0CACD5",
   "jp": "{n}{f5:00000B}だいじょうぶか？{sp6}ニコル。{page}{n}{n}{f6:000007}いてて・・・{n}アスランにはかないませんね。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:00000B}Are you okay, Nicol?{page}{n}{n}{f6:000007}Ow ow ow...{n}I'm no match for you, Athrun.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CAE30_007",
   "slot": "0CAE4C",
   "src": "0CAD0B",
   "jp": "{n}{f5:00000B}今日はこのぐらいにしよう。{page}{n}{n}{f6:000002}いってぇなぁ、もう・・・。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:00000B}Let's call it a day.{page}{n}{n}{f6:000002}Ow, geez, that hurt...{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CAE30_008",
   "slot": "0CAE50",
   "src": "0CAD3B",
   "jp": "{n}{f5:00000B}隊長！{sp6}ありがとうございました！{page}{n}{n}{f6:000008}いい機体だな、アスラン。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:00000B}Commander! Thank you, sir!{page}{n}{n}{f6:000008}A fine machine, Athrun.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CAE30_009",
   "slot": "0CAE54",
   "src": "0CAD6D",
   "jp": "{n}{f5:00000B}イザーク、今日はこのぐらいにしよう。{page}{n}{n}{f6:000006}機体がちがいすぎる！？{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:00000B}Yzak, let's call it a day.{page}{n}{n}{f6:000006}Our machines are just{n}too different?!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CAE30_010",
   "slot": "0CAE58",
   "src": "0CADA1",
   "jp": "{n}{f5:00000B}負けるわけにはいかない！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:00000B}I can't afford to lose!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CAE30_011",
   "slot": "0CAE5C",
   "src": "0CADB8",
   "jp": "{n}{f5:00000B}オレの勝ちだな、キラ！！{page}{n}{n}{f6:00000A}さすがはアスラン！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:00000B}I win, Kira!!{page}{n}{n}{f6:00000A}That's Athrun for you!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CAE30_012",
   "slot": "0CAE60",
   "src": "0CADE2",
   "jp": "{n}{f5:00000B}カガリ・・・ケガはないか？{n}だいじょうぶか？？{n}いたくはないか？{page}{n}{n}{f6:00001A}だったら、てかげんしろよ！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:00000B}Cagalli... are you hurt?{n}Are you okay??{n}Does it hurt anywhere?{page}{n}{n}{f6:00001A}Then go easy on me!!{key}{end}",
+  "status": "done"
  }
 ]

@@ -4,103 +4,103 @@
   "slot": "0CC7D0",
   "src": "0CC5F0",
   "jp": "{n}{f5:000019}やっぱオレって、{n}不可能を可能にするオトコだね。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000019}Guess I really am the man who{n}makes the impossible possible.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CC7D0_001",
   "slot": "0CC7D4",
   "src": "0CC616",
   "jp": "{n}{f5:000019}いよっしゃー！！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000019}Alriiight!!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CC7D0_002",
   "slot": "0CC7D8",
   "src": "0CC62A",
   "jp": "{n}{f5:000019}うおりゃあー！！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000019}Raaaaah!!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CC7D0_003",
   "slot": "0CC7DC",
   "src": "0CC63E",
   "jp": "{n}{f5:000019}うひょー！！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000019}Woohoo!!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CC7D0_004",
   "slot": "0CC7E0",
   "src": "0CC650",
   "jp": "{n}{f5:000019}オレもまだまだやれるだろう？{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000019}I've still got it, right?{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CC7D0_005",
   "slot": "0CC7E4",
   "src": "0CC666",
   "jp": "{n}{f5:000019}オレはすぐに戻るさ・・・{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000019}I'll be right back...{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CC7D0_006",
   "slot": "0CC7E8",
   "src": "0CC67D",
   "jp": "{n}{f5:000019}世界を滅亡・・・{n}そんなことさせねぇよ。オレが！！{page}{n}{n}{f6:000014}ハッ！{sp8}すでにおそいさ！！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000019}Destroy the world...{n}Not on my watch!!{page}{n}{n}{f6:000014}Hah! It's already too late!!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CC7D0_007",
   "slot": "0CC7EC",
   "src": "0CC6C0",
   "jp": "{n}{f5:000019}おいおい。おまえ本気なのか？？{page}{n}{n}{f6:000008}・・・おのれ！{sp8}ムウ！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000019}Hey now. Are you serious??{page}{n}{n}{f6:000008}...Damn you! Mu!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CC7D0_008",
   "slot": "0CC7F0",
   "src": "0CC6F4",
   "jp": "{n}{f5:000019}しっかりしてるねぇ、キミは。{page}{n}{n}{f6:00000B}・・・負けたらおなじです。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000019}You've got a good head on you, kid.{page}{n}{n}{f6:00000B}...It means nothing if I lose.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CC7D0_009",
   "slot": "0CC7F4",
   "src": "0CC724",
   "jp": "{n}{f5:000019}キラ、帰還するぞ！{page}{n}{n}{f6:000000}はい！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000019}Kira, we're heading back!{page}{n}{n}{f6:000000}Right!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CC7D0_010",
   "slot": "0CC7F8",
   "src": "0CC743",
   "jp": "{n}{f5:000019}エースパイロットのプライドだ！{page}{n}{n}{f6:00000A}くっ！{n}さすがはムウさん！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000019}That's an ace pilot's pride!{page}{n}{n}{f6:00000A}Ngh!{n}That's Mu for you!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CC7D0_011",
   "slot": "0CC7FC",
   "src": "0CC771",
   "jp": "{n}{f5:000019}やばいののってるねぇ・・・{page}{n}{n}{f6:000015}キサマにはつかいこなせまい！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000019}That's one scary ride you've got...{page}{n}{n}{f6:000015}You could never master it!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CC7D0_012",
   "slot": "0CC800",
   "src": "0CC79E",
   "jp": "{n}{f5:000019}すごいカタナもってるねぇ・・・{page}{n}{n}{f6:000009}へへっ！{sp6}いいだろう？{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000019}That's some sword you've got...{page}{n}{n}{f6:000009}Heheh! Pretty sweet, huh?{key}{end}",
+  "status": "done"
  }
 ]

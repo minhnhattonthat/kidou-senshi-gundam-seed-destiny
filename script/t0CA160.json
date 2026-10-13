@@ -4,79 +4,79 @@
   "slot": "0CA160",
   "src": "0CA040",
   "jp": "{n}{f5:000003}瞬殺！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000003}Instant kill!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA160_001",
   "slot": "0CA164",
   "src": "0CA04D",
   "jp": "{n}{f5:000003}撃滅！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000003}Exterminate!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA160_002",
   "slot": "0CA168",
   "src": "0CA05A",
   "jp": "{n}{f5:000003}抹殺！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000003}Obliterate!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA160_003",
   "slot": "0CA16C",
   "src": "0CA067",
   "jp": "{n}{f5:000003}これで！{sp6}抹殺！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000003}And now! Obliterate!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA160_004",
   "slot": "0CA170",
   "src": "0CA07A",
   "jp": "{n}{f5:000003}ヒャハハハ！{sp6}瞬殺！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000003}Hyahahaha! Instant kill!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA160_005",
   "slot": "0CA174",
   "src": "0CA08F",
   "jp": "{n}{f5:000003}やらなきゃやられる！{n}そんだけだろうがぁ！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000003}Kill or be killed!{n}That's all there is to it!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA160_006",
   "slot": "0CA178",
   "src": "0CA0AD",
   "jp": "{n}{f5:000003}何なんだよ、お前は！？{n}何、必死にやってんだよ！？{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000003}What the hell are you?!{n}What are you trying so hard for?!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA160_007",
   "slot": "0CA17C",
   "src": "0CA0D8",
   "jp": "{n}{f5:000003}ヒャハハハ！{sp8}バ～カ！{page}{n}{n}{f6:000004}・・・けっ！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000003}Hyahahaha! Idiooot!{page}{n}{n}{f6:000004}...Tch!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA160_008",
   "slot": "0CA180",
   "src": "0CA100",
   "jp": "{n}{f5:000003}ヒャハハハ！{sp6}バ～カ！{page}{n}{n}{f6:000005}てめぇ・・・。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000003}Hyahahaha! Idiooot!{page}{n}{n}{f6:000005}You bastard...{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA160_009",
   "slot": "0CA184",
   "src": "0CA127",
   "jp": "{n}{f5:000003}ヒャハハハ！{sp6}バ～カ！{page}{n}{n}{f6:000006}何だとぉぉぉう！！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000003}Hyahahaha! Idiooot!{page}{n}{n}{f6:000006}What did you saaay?!!!{key}{end}",
+  "status": "done"
  }
 ]

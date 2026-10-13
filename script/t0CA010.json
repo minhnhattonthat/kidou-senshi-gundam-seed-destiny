@@ -4,71 +4,71 @@
   "slot": "0CA010",
   "src": "0C9EF0",
   "jp": "{n}{f5:000002}ヒュー、あぶなかったぜ！！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000002}Whew, that was close!!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA010_001",
   "slot": "0CA014",
   "src": "0C9F08",
   "jp": "{n}{f5:000002}何すんだよ！{sp6}こいつ！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000002}Hey, what was that for?! You jerk!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA010_002",
   "slot": "0CA018",
   "src": "0C9F1D",
   "jp": "{n}{f5:000002}とんだ失態だよね・・{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000002}Well, that was embarrassing...{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA010_003",
   "slot": "0CA01C",
   "src": "0C9F32",
   "jp": "{n}{f5:000002}くそおっ、マジでそろそろヤバいぜ！{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000002}Damn it, this is getting{n}seriously dicey!{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA010_004",
   "slot": "0CA020",
   "src": "0C9F4C",
   "jp": "{n}{f5:000002}どうでした？{sp6}オレの腕前。{page}{n}{n}{f6:000008}なかなかのものだ。期待している。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000002}How was that? Pretty skilled, huh?{page}{n}{n}{f6:000008}Quite impressive. I expect{n}great things from you.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA010_005",
   "slot": "0CA024",
   "src": "0C9F7F",
   "jp": "{n}{f5:000002}オレの手にかかればこんなもんさ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000002}That's what happens when{n}I get serious.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA010_006",
   "slot": "0CA028",
   "src": "0C9F98",
   "jp": "{n}{f5:000002}イザーク、オレはじぶんの信じた道を{n}いく！{page}{n}{n}{f6:000006}ディアッカ・・・。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000002}Yzak, I'm going down the path{n}I believe in!{page}{n}{n}{f6:000006}Dearka...{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA010_007",
   "slot": "0CA02C",
   "src": "0C9FCD",
   "jp": "{n}{f5:000002}こんなところで死ねるかよ！{page}{n}{n}{f6:000005}・・・チッ。{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000002}Like I'd die in a place like this!{page}{n}{n}{f6:000005}...Tch.{key}{end}",
+  "status": "done"
  },
  {
   "id": "0CA010_008",
   "slot": "0CA030",
   "src": "0C9FF4",
   "jp": "{n}{f5:000002}隊長にどう報告する？{key}{end}",
-  "en": "",
-  "status": "todo"
+  "en": "{n}{f5:000002}How do we report this{n}to the commander?{key}{end}",
+  "status": "done"
  }
 ]

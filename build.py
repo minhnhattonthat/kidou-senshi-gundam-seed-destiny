@@ -61,7 +61,9 @@ def put(rom, off, data):
     rom[off:off + len(data)] = data
 
 
-def build(mode):
+def build(mode, qa=None):
+    """qa: {id: text} overrides for single-line layout tests (build.py MODE --qa ID=TEXT ...)."""
+    qa = qa or {}
     orig = tm.rom()
     rom = bytearray(orig)
     if mode == 'identity':
@@ -79,7 +81,7 @@ def build(mode):
     kanji = 0x08000000 + arc.item(orig, 6, 12)
     at, placed = TEXT, {}
     for row in script_rows():
-        text = marker_text(row, fnt) if mode == 'marker' else row['en']
+        text = qa.get(row['id']) or (marker_text(row, fnt) if mode == 'marker' else row['en'])
         if text:
             data, bank = render.encode(fnt, en, text)
         else:
@@ -112,14 +114,23 @@ def build(mode):
 
 
 def main():
-    mode = sys.argv[1] if len(sys.argv) > 1 else 'english'
+    args = sys.argv[1:]
+    mode = args.pop(0) if args and not args[0].startswith('--') else 'english'
     names = {'identity': 'gsd_identity.gba', 'english': 'gsd_en.gba', 'marker': 'gsd_marker.gba'}
     if mode not in names:
         raise SystemExit(__doc__)
+    qa = {}
+    while args:
+        flag = args.pop(0)
+        if flag != '--qa' or not args:
+            raise SystemExit(__doc__)
+        k, _, v = args.pop(0).partition('=')
+        qa[k] = v
+    name = names[mode] if not qa else names[mode].replace('.gba', '_qa.gba')
     BUILD.mkdir(exist_ok=True)
-    out = build(mode)
-    (BUILD / names[mode]).write_bytes(out)
-    print('wrote', BUILD / names[mode], hex(len(out)))
+    out = build(mode, qa)
+    (BUILD / name).write_bytes(out)
+    print('wrote', BUILD / name, hex(len(out)))
 
 
 if __name__ == '__main__':
