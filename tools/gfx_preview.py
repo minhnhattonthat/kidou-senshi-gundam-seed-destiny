@@ -17,6 +17,8 @@ LAYOUT = {4: lambda i: (104, 8) if i < 112 else (32, 16), 7: lambda i: (224, 8)}
 rom = tm.rom()
 rows = []
 for g, i, data in gfx.build(rom):
+    if g not in LAYOUT:
+        continue  # tile+map sets (ticker) are checked in-game
     sw, sh = LAYOUT[g](i)
     old = le.decompress(rom, arc.item(rom, g, i))[0]
     rows.append(('%d.%d' % (g, i), strips.strip(old, sw, sh, strips.GREY), strips.strip(data, sw, sh, strips.GREY)))

@@ -10,6 +10,7 @@ import arc  # noqa: E402
 import le  # noqa: E402
 import pixfont  # noqa: E402
 import render  # noqa: E402
+import ticker  # noqa: E402
 
 # arc 4.82-4.109: pilot name plates, 13 tiles (104x8) in one row
 PILOTS = {82: 'KIRA YAMATO', 83: 'ATHRUN ZALA', 84: 'DEARKA ELSMAN', 85: 'CLOTHO BUER', 86: 'ORGA SABNAK',
@@ -135,4 +136,5 @@ def build(rom):
     fnt = render.Font(rom)
     for i, name in STAGES.items():
         out.append((4, i, stage_plate(fnt, name)))
+    out += ticker.build(rom, fnt)
     return out
