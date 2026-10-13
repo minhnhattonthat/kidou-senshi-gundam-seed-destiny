@@ -18,6 +18,7 @@ ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT / 'tools'))
 sys.path.insert(0, str(ROOT / '.agents/skills/translate-retro-game/scripts'))
 import arc  # noqa: E402
+import chal  # noqa: E402
 import gfx  # noqa: E402
 import le  # noqa: E402
 import render  # noqa: E402
@@ -33,7 +34,8 @@ OVERRIDE = 0x800800       # archive overrides: u8 group, u8 item, u16 0, u32 add
 TEXT = 0x801000           # strings and their cell banks, then rebuilt graphics (tools/gfx.py)
 # bytes the English build may change outside the expansion area (romdiff gate)
 PATCHED = [(0x000CAC, 0x000CB4), (0x031BEC, 0x031BF0), (0x031EA8, 0x031EAC), (0x032550, 0x032558),
-           (0x0325F2, 0x0325FA), tm.REGION]
+           (0x0325F2, 0x0325FA), tm.REGION,
+           (0x027304, 0x027308), (0x0282E0, 0x0282E0 + 33 * 4), (0x0BB370, 0x0BB370 + 56 * 4)]  # tools/chal.py
 
 
 def allowed_ranges(orig):
@@ -114,6 +116,11 @@ def build(mode, qa=None):
         ov += struct.pack('<BBHI', g, i, 0, 0x08000000 + at)
         at = (at + len(packed) + 3) & ~3
     for off, data in gfx.width_patches(orig):
+        put(rom, off, data)
+    blob, patches = chal.build(orig, fnt, at)  # CHALLENGE pause-screen mission fragments
+    put(rom, at, blob)
+    at = (at + len(blob) + 3) & ~3
+    for off, data in patches:
         put(rom, off, data)
     assert len(ov) < TEXT - OVERRIDE - 8
     put(rom, OVERRIDE, ov + b'\xff' * 8)

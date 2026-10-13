@@ -20,7 +20,7 @@ GLYPHS = {
     '/': '..#|..#|.#.|#..|#..', "'": '#|#|.|.|.', '(': '.#|#.|#.|#.|.#', ')': '#.|.#|.#|.#|#.',
     '&': '.#..|#.#.|.#..|#.#.|.##.', '!': '#|#|#|.|#', '?': '###|..#|.##|...|.#.',
 }
-SPACE = 2
+SPACE = 3  # 2 merged the words once the outlines touched ("SHINNASUKA")
 # style: (outline index, fill per glyph row 0-4)
 STYLES = {
     'pilot': (1, [2, 2, 2, 2, 8]),           # arc 4.82+: white fill, grey foot, dark outline

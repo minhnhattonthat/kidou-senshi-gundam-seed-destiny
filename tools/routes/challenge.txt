@@ -1,0 +1,22 @@
+# cold boot -> CHALLENGE MODE -> MS select -> mission
+1700 -
+8 start
+300 -
+8 start
+600 -
+8 down
+30 -
+8 right
+30 -
+8 a
+240 -
+8 a
+240 -
+8 a
+240 -
+8 a
+240 -
+8 a
+600 -
+8 start
+200 -
