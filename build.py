@@ -18,6 +18,8 @@ ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT / 'tools'))
 sys.path.insert(0, str(ROOT / '.agents/skills/translate-retro-game/scripts'))
 import arc  # noqa: E402
+import gfx  # noqa: E402
+import le  # noqa: E402
 import render  # noqa: E402
 import textmap as tm  # noqa: E402
 from tbl import Table  # noqa: E402
@@ -27,9 +29,11 @@ ARMIPS = ROOT / 'tools/armips/armips.exe'
 SIZE = 0x1000000          # 16 MiB: EEPROM save addressing breaks above this
 CODE = 0x0C7340           # asm code, in the freed string block 0xC7340-0xC9530 (BL range of the renderer)
 KERN = 0x800000           # kern table
-TEXT = 0x801000           # strings and their cell banks
+OVERRIDE = 0x800800       # archive overrides: u8 group, u8 item, u16 0, u32 address; FF ends (256 max)
+TEXT = 0x801000           # strings and their cell banks, then rebuilt graphics (tools/gfx.py)
 # bytes the English build may change outside the expansion area (romdiff gate)
-PATCHED = [(0x031BEC, 0x031BF0), (0x031EA8, 0x031EAC), (0x032550, 0x032558), (0x0325F2, 0x0325FA), tm.REGION]
+PATCHED = [(0x000CAC, 0x000CB4), (0x031BEC, 0x031BF0), (0x031EA8, 0x031EAC), (0x032550, 0x032558),
+           (0x0325F2, 0x0325FA), tm.REGION]
 FILLER = 'The quick brown fox jumps over the lazy dog 0123456789'
 TOKEN = re.compile(r'(\{[^}]*\})')
 
@@ -98,12 +102,21 @@ def build(mode, qa=None):
             placed[key] = at + 4
             at = (at + 4 + len(data) + 3) & ~3
         struct.pack_into('<I', rom, int(row['slot'], 16), 0x08000000 + placed[key])
+    ov = bytearray()
+    for g, i, data in gfx.build(orig):
+        packed = le.compress(data)
+        put(rom, at, packed)
+        ov += struct.pack('<BBHI', g, i, 0, 0x08000000 + at)
+        at = (at + len(packed) + 3) & ~3
+    assert len(ov) < TEXT - OVERRIDE - 8
+    put(rom, OVERRIDE, ov + b'\xff' * 8)
     assert at <= SIZE, 'text overflows the ROM'
     BUILD.mkdir(exist_ok=True)
     tmp = BUILD / '_asm.gba'
     tmp.write_bytes(rom)
     cmd = [str(ARMIPS), str(ROOT / 'asm/main.asm'), '-strequ', 'ROM', str(tmp),
-           '-definelabel', 'CodeBase', hex(0x08000000 + CODE), '-definelabel', 'KernTable',
+           '-definelabel', 'CodeBase', hex(0x08000000 + CODE), '-definelabel', 'OverrideTable',
+           hex(0x08000000 + OVERRIDE), '-definelabel', 'KernTable',
            hex(0x08000000 + KERN), '-erroronwarning']
     res = subprocess.run(cmd, capture_output=True, text=True)
     if res.returncode:

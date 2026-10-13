@@ -1,0 +1,20 @@
+# cold boot -> MAIN MODE -> NEW GAME -> COM LEVEL -> MS SELECT -> COMMAND SELECT -> MS SETTING -> VS -> fight
+1700 -
+8 start
+300 -
+8 start
+600 -
+8 a
+250 -
+8 a
+250 -
+8 a
+300 -
+8 a
+300 -
+8 a
+300 -
+8 a
+300 -
+8 a
+600 -
