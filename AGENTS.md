@@ -27,6 +27,7 @@ Read it before ROM, text or QA work. `$SKILL` below = that directory.
 ## Status (2026-10-13)
 - Done: script translated + reviewed (514 lines, lint clean); build-time VWF; graphics: logo, copyright, ticker,
   pilot/MS/stage/shop names, CHALLENGE fragments (docs/re/graphics.md). Local release v0.1 in release/ (not published).
-- Open: CHALLENGE missions 2-10 not seen in-game; ending/credits not yet checked (god-mode arcade run:
-  tools/lua/poke16.lua POKE_ADDR=0x03000D04 POKE_VAL=10240, route work/qa/route_arcade.txt).
+- Staff roll translated (tools/credits.py), checked in-game from the arcade ending (god mode:
+  tools/lua/poke16.lua POKE_ADDR=0x03000D04 POKE_VAL=10240; ending state work/qa/ending/s008400.mss, local).
+- Open: CHALLENGE missions 2-10 not seen in-game (locked until cleared).
 - Translation sources: script/t*.json (edit en there), script/tm_norm.tsv + tools/tl_templates.py regenerate them.

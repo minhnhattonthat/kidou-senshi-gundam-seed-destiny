@@ -49,7 +49,7 @@ def readme(version, orig, built):
         '  - all dialogue: shop keepers, unlock messages, win quotes for every pilot, new game / link messages',
         '    (new proportional font)',
         '  - pilot and mobile suit name plates, stage names, shop item names, main-menu mode descriptions',
-        '  - title logo and copyright line, CHALLENGE MODE mission text',
+        '  - title logo and copyright line, CHALLENGE MODE mission text, ending staff roll',
         '', 'Names follow the official English spellings (Shinn Asuka, Athrun Zala, Lunamaria Hawke, Saviour...).',
         '', 'Tested in Mesen 2 (GBA, with a real BIOS). Start from a cold boot, not from an old savestate.',
         'Saves (EEPROM) from the Japanese game keep working.', '',

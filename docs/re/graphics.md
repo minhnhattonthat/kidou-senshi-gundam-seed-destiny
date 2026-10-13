@@ -15,7 +15,8 @@ the archive override (asm ArcLookup + build.py OVERRIDE table); generator: `tool
 | 5 | NEXT STAGE | stage names (25) | arc 4.112-4.136 | 128x16, 4 sprites | done |
 | 6 | SHOP | item names (62) | arc 20.12-20.73 | 96x16, 3 sprites, bg 5 | done |
 | 7 | VS link | 接続中…… | script 0C7330 | dialogue engine | done |
-| 8 | CHALLENGE pause | mission text (e.g. 3HITコンボを決めろ!) | glyphs at ROM 0x704A2C (Le, ref 0x027304) -> OBJ VRAM, tile = 4*glyph | string format not found yet: not raw, not Le/LZ77; a RAM table at 0x0202B3C4 pairs codes with slots | OPEN |
+| 9 | ending | staff roll (6 pages, katakana names) | arc 12.10-12.21 (tiles/map pairs, pal 12.9) | tools/credits.py, Western order, Hepburn | done |
+| 8 | CHALLENGE pause | mission text (e.g. 3HITコンボを決めろ!) | sheet ROM 0x704A2C (Le, ref 0x027304; decoded into IWRAM 0x03001BB0, cannot grow) + frame bank table 0x0BB370 (56 sprite frames); composer 0x08027F48.., command lists per MS (Le, table 0x1792D0) advance x via jump table 0x0282E0 | tools/chal.py; missions 2-10 not seen in-game | done (partly verified) |
 
 States: work/states/mainmenu.mss, shop.mss, winquote.mss, fight_start.mss; survey tours work/qa/survey/m1-m8
 (cursor routes from mainmenu.mss, see tools/routes/). Challenge pause: work/qa/survey/m5/s001560.mss + START.

@@ -7,6 +7,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / 'tools'))
 import arc  # noqa: E402
+import credits  # noqa: E402
 import le  # noqa: E402
 import logo  # noqa: E402
 import pixfont  # noqa: E402
@@ -224,6 +225,7 @@ def build(rom):
     for i, name in STAGES.items():
         out.append((4, i, stage_plate(fnt, name)))
     out += ticker.build(rom, fnt)
+    out += credits.build(rom, fnt)
     for i, name in SHOP.items():
         out.append((20, i, shop_name(name)))
     out.append((2, 6, copyright_strip(rom, fnt)))
