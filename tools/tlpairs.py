@@ -69,5 +69,25 @@ def merge(path):
     print('merged', len(tl), 'keys')
 
 
+def pairs():
+    """work/tl/review_pairs.txt: one block per distinct JP line, for the reviewer agent."""
+    seen, out = set(), []
+    for _, r in rows():
+        if r['jp'] in seen or not r['en']:
+            continue
+        seen.add(r['jp'])
+        t = r['id'].split('_')[0]
+        sp = ''
+        if '{f5:0000' in r['jp']:
+            i = int(r['jp'].split('{f5:0000')[1][:2], 16)
+            sp = PILOTS[i] if i < len(PILOTS) else '#%d' % i
+        else:
+            n = int(r['id'].split('_')[1])
+            sp = {'0C9530': 'Lacus' if n < 89 else ('Cagalli' if n < 173 else 'Azrael')}.get(t, 'system')
+        out.append('>> %s | %s | %s\n   JP: %s\n   EN: %s' % (r['id'], box(t), sp, r['jp'], r['en']))
+    (ROOT / 'work/tl/review_pairs.txt').write_text('\n'.join(out) + '\n', encoding='utf-8', newline='\n')
+    print(len(out), 'pairs')
+
+
 if __name__ == '__main__':
-    {'dump': dump, 'merge': lambda: merge(sys.argv[2])}[sys.argv[1]]()
+    {'dump': dump, 'merge': lambda: merge(sys.argv[2]), 'pairs': pairs}[sys.argv[1]]()

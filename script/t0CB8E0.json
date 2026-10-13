@@ -60,7 +60,7 @@
   "slot": "0CB8FC",
   "src": "0CB88C",
   "jp": "{n}{f5:000011}ネオにはボクが言っといてやるよ！{n}「さよなら」ってなァ。{page}{n}{n}{f6:000010}さよなら・・・？{n}・・・いや・・・！！！{key}{end}",
-  "en": "{n}{f5:000011}I'll pass it on to Neo for you!{n}I'll tell him \"goodbye\".{page}{n}{n}{f6:000010}Goodbye...?{n}...No...!!!{key}{end}",
+  "en": "{n}{f5:000011}I'll tell Neo for you!{n}I'll tell him you said \"goodbye\".{page}{n}{n}{f6:000010}Goodbye...?{n}...No...!!!{key}{end}",
   "status": "done"
  }
 ]

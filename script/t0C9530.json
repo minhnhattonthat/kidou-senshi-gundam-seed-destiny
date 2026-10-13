@@ -68,7 +68,7 @@
   "slot": "0C9550",
   "src": "0C7543",
   "jp": "{n}ハロッ！{sp6}ハロッ！{page}{n}{n}ハロはかわいいですわね。{page}{n}{n}何と交換いたしますか？{end}",
-  "en": "{n}Haro! Haro!{page}{n}{n}Haros are so adorable, aren't they?{page}{n}{n}What would you like to trade for?{end}",
+  "en": "{n}Haro! Haro!{page}{n}{n}Haro is so adorable, isn't he?{page}{n}{n}What would you like to trade for?{end}",
   "status": "done"
  },
  {
@@ -116,7 +116,7 @@
   "slot": "0C9568",
   "src": "0C761A",
   "jp": "{n}まあ？{sp6}POINTがたりませんわ。{key}{end}",
-  "en": "{n}Oh dear? You're short on POINTS.{key}{end}",
+  "en": "{n}Oh my! You're short on POINTS.{key}{end}",
   "status": "done"
  },
  {

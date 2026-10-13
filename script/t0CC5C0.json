@@ -52,7 +52,7 @@
   "slot": "0CC5D8",
   "src": "0CC4C1",
   "jp": "{n}{f5:000018}気にするな。何も気にしてない。{key}{end}",
-  "en": "{n}{f5:000018}Don't worry about it.{n}It doesn't bother me at all.{key}{end}",
+  "en": "{n}{f5:000018}Don't let it bother you.{n}Nothing bothers me.{key}{end}",
   "status": "done"
  },
  {

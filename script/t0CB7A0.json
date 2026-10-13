@@ -4,7 +4,7 @@
   "slot": "0CB7A0",
   "src": "0CB6B0",
   "jp": "{n}{f5:000010}死んでない・・・、私だいじょぶ・・・{n}だいじょぶよね？{sp6}ステラ・・・{key}{end}",
-  "en": "{n}{f5:000010}I'm not dead..., I'm okay...{n}I'm okay, right? Stella...{key}{end}",
+  "en": "{n}{f5:000010}I'm not dead... I'm okay...{n}I'm okay, right? Stella...{key}{end}",
   "status": "done"
  },
  {
@@ -28,7 +28,7 @@
   "slot": "0CB7AC",
   "src": "0CB710",
   "jp": "{n}{f5:000010}私は・・・、私はっ・・・！{key}{end}",
-  "en": "{n}{f5:000010}I'm..., I'm...!{key}{end}",
+  "en": "{n}{f5:000010}I'm... I'm...!{key}{end}",
   "status": "done"
  },
  {

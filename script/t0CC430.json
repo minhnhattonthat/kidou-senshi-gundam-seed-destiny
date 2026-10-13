@@ -36,7 +36,7 @@
   "slot": "0CC440",
   "src": "0CC39C",
   "jp": "{n}{f5:000017}どうだ！？{sp6}イザーク！{page}{n}{n}{f6:000013}なかなかのものだ！{key}{end}",
-  "en": "{n}{f5:000017}How was that?! Yzak!{page}{n}{n}{f6:000013}Not bad at all!{key}{end}",
+  "en": "{n}{f5:000017}How was that, Yzak?!{page}{n}{n}{f6:000013}Not bad at all!{key}{end}",
   "status": "done"
  },
  {
@@ -52,7 +52,7 @@
   "slot": "0CC448",
   "src": "0CC3D8",
   "jp": "{n}{f5:000017}どうだ！？{sp6}イザーク！{page}{n}{n}{f6:000006}やるな！{sp6}ディアッカ！{key}{end}",
-  "en": "{n}{f5:000017}How was that?! Yzak!{page}{n}{n}{f6:000006}Not bad! Dearka!{key}{end}",
+  "en": "{n}{f5:000017}How was that, Yzak?!{page}{n}{n}{f6:000006}Not bad, Dearka!{key}{end}",
   "status": "done"
  },
  {

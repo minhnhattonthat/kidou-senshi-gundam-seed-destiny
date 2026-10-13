@@ -1,0 +1,324 @@
+{n}接続中……{end}	{n}Connecting...{end}
+{n}接続は失敗しました。{n}メインメニューに戻るために{n}Bボタンを押してください。{end}	{n}Connection failed.{n}Press the B Button to return{n}to the main menu.{end}
+{n}・・・まあまあ？{n}ようこそいらっしゃいました。{page}{n}{n}ここではPOINTを様々な物に{n}交換することができます。{page}{n}{n}POINTはモードをクリアする等、{n}色々な場所で手に入ります。{page}{n}{n}がんばって入手してくださいね。{page}{n}{n}では、何と交換いたしますか？{end}	{n}...Oh my?{n}Welcome, welcome.{page}{n}{n}Here you can trade your POINTS{n}for all sorts of things.{page}{n}{n}You can earn POINTS in many ways,{n}such as by clearing modes.{page}{n}{n}Please do your best to collect them.{page}{n}{n}Now, what would you like to trade for?{end}
+{n}また来てくださいましたのね。{page}{n}{n}何と交換いたしますか？{end}	{n}You've come to see me again!{page}{n}{n}What would you like to trade for?{end}
+{n}あらあら、こんにちは。{page}{n}{n}何と交換いたしますか？{end}	{n}Oh my, hello there.{page}{n}{n}What would you like to trade for?{end}
+{n}まあ、また来てくださったのですね。{n}いらっしゃいませ。{page}{n}{n}何と交換いたしますか？{end}	{n}Oh, you've come back again.{n}Welcome!{page}{n}{n}What would you like to trade for?{end}
+{n}私がPOINTを何につかってるか？{n}・・・ですか？{page}{n}{n}・・・ひ・み・つです。{page}{n}{n}何と交換いたしますか？{end}	{n}What do I spend my POINTS on?{n}...You want to know?{page}{n}{n}...That's a s-e-c-r-e-t.{page}{n}{n}What would you like to trade for?{end}
+{n}まいどー。まいどー。{page}{n}{n}・・・おとなしくね、ピンクちゃん。{page}{n}{n}何と交換いたしますか？{end}	{n}Much obliged! Much obliged!{page}{n}{n}...Behave yourself, Pinky.{page}{n}{n}What would you like to trade for?{end}
+{n}POINTはたまりましたか？{page}{n}{n}いつでもいらしてくださいね。{page}{n}{n}何と交換いたしますか？{end}	{n}Have you saved up some POINTS?{page}{n}{n}Please drop by anytime.{page}{n}{n}What would you like to trade for?{end}
+{n}オマエモナー{sp6}オマエモナー{page}{n}{n}何のことですか？{sp6}ピンクちゃん。{page}{n}{n}何と交換いたしますか？{end}	{n}Same to you! Same to you!{page}{n}{n}Whatever do you mean, Pinky?{page}{n}{n}What would you like to trade for?{end}
+{n}ハロッ！{sp6}ハロッ！{page}{n}{n}ハロはかわいいですわね。{page}{n}{n}何と交換いたしますか？{end}	{n}Haro! Haro!{page}{n}{n}Haro is so adorable, isn't he?{page}{n}{n}What would you like to trade for?{end}
+{n}戦いのない世界になると{n}いいですわね。{page}{n}{n}・・・・・・・・でもそれだと{n}POINTもためられませんわね・・。{page}{n}{n}何と交換いたしますか？{end}	{n}It would be lovely if the world{n}were free of fighting.{page}{n}{n}........But then you couldn't{n}save up any POINTS, could you...{page}{n}{n}What would you like to trade for?{end}
+{n}・・・・・。{page}{n}・・・・。{key}{end}	{n}.....{page}{n}....{key}{end}
+{n}これでよろしいですか？{end}	{n}Is this the one you'd like?{end}
+{n}ではこれと交換いたしますね。{key}{end}	{n}Then I'll trade you this one.{key}{end}
+{n}何と交換いたしますか？{end}	{n}What would you like to trade for?{end}
+{n}まあ？{sp6}POINTがたりませんわ。{key}{end}	{n}Oh my! You're short on POINTS.{key}{end}
+{n}・・・もうしわけありません。{page}{n}{n}アズラエルさんにSHOPをまかせてたら{n}ねぼうしてしまいましたわ。{page}{n}{n}・・・・アズラエルさんはちゃんと交換{n}してくださったのかしら・・・・。{page}{n}{n}では、何と交換いたしますか？{end}	{n}...I'm terribly sorry.{page}{n}{n}I left the SHOP to Azrael{n}and overslept.{page}{n}{n}....I do wonder if Azrael{n}traded with you properly....{page}{n}{n}Now, what would you like to trade for?{end}
+{n}メッセージ{end}	{n}Message{end}
+{n}SHOPに「セイバー」がついか{n}されました。{key}{end}	{n}"Saviour" has been added{n}to the SHOP.{key}{end}
+{n}{num}POINT手に入りました。{key}{end}	{n}{num} POINTS obtained.{key}{end}
+{n}{fb:00}2PカラーのMSでプレイできます。{end}	{n}{fb:00}You can play with a 2P-color MS.{end}
+{n}{fb:00}新しいステージでプレイできます。{end}	{n}{fb:00}You can play on a new stage.{end}
+{n}{fb:00}新しいMSでプレイできます。{end}	{n}{fb:00}You can play with a new MS.{end}
+{n}{fb:00}新しいパイロットでプレイできます。{end}	{n}{fb:00}You can play as a new pilot.{end}
+{n}{fb:00}新しいモードです。{end}	{n}{fb:00}This is a new mode.{end}
+{n}{fb:00}新しい衣装です。{end}	{n}{fb:00}This is a new outfit.{end}
+{n}{fb:00}新しいCOM{sp8}LEVELのグラフィック{n}です。{end}	{n}{fb:00}These are new graphics{n}for the COM LEVEL screen.{end}
+{n}ステージセレクトがめんに{n}「新しいステージ」が{page}{n}{n}ついかされました。{key}{end}	{n}A "new stage" has been added{n}to the STAGE SELECT screen.{key}{end}
+{n}OPTIONSがめんでゲーム中の{n}BGMをきくことができます。{key}{end}	{n}You can listen to the in-game BGM{n}on the OPTIONS screen.{key}{end}
+{n}COM{sp8}LEVELがめんで{n}VERY{sp8}HARDを選択できます。{key}{end}	{n}You can select VERY HARD{n}on the COM LEVEL screen.{key}{end}
+{n}OPTIONSがめんで{sp8}ON、OFFの{n}せっていができます。{page}{n}{n}このモードはVSモードでしかつかえ{n}ません。{key}{end}	{n}You can turn it ON or OFF{n}on the OPTIONS screen.{page}{n}{n}This mode can only be used{n}in VS MODE.{key}{end}
+{n}OPTIONSがめんで{sp8}ON、OFFの{n}せっていができます。{page}{n}{n}このモードはVSモード、トレーニング{n}モードでしかつかえません。{key}{end}	{n}You can turn it ON or OFF{n}on the OPTIONS screen.{page}{n}{n}This mode can only be used in{n}VS MODE and TRAINING MODE.{key}{end}
+{n}衣装を着がえます。{key}{end}	{n}I'll change into a new outfit.{key}{end}
+{n}ゲームきどう時に選択することで{page}{n}{n}「MS{sp8}GUNDAM{sp8}SEED{sp8}BATTLE{n}ASSULT」がプレイできます。{key}{end}	{n}Select it when starting the game{page}{n}{n}to play "MS GUNDAM SEED{n}BATTLE ASSAULT".{key}{end}
+{n}ミシヨウ{end}	{n}Unused{end}
+{n}COM{sp8}LEVELがめんのグラフィックを{n}換えました。{key}{end}	{n}The COM LEVEL screen graphics{n}have been changed.{key}{end}
+{n}・・・・ん？{n}よく来たな。{page}{n}{n}ここではPOINTを様々な物に{n}交換することができるぞ。{page}{n}{n}POINTはモードをクリアする等、{n}色々な場所で手に入るんだ。{page}{n}{n}がんばって手に入れてくれよ。{page}{n}{n}では、何かと交換するか？{end}	{n}....Hm?{n}Glad you came.{page}{n}{n}Here you can trade POINTS{n}for all kinds of stuff.{page}{n}{n}You get POINTS in lots of ways,{n}like by clearing modes.{page}{n}{n}So go out there and earn 'em.{page}{n}{n}Well? Want to trade for something?{end}
+{n}また来たんだな。{page}{n}{n}何かと交換するか？{end}	{n}Back again, huh?{page}{n}{n}Want to trade for something?{end}
+{n}よう。来たな。{page}{n}{n}何かと交換するか？{end}	{n}Hey. You made it.{page}{n}{n}Want to trade for something?{end}
+{n}また来たのか。よく来るな。{page}{n}{n}何かと交換するか？{end}	{n}You again? You sure come a lot.{page}{n}{n}Want to trade for something?{end}
+{n}ミシヨウメッセージ{end}	{n}Unused message{end}
+{n}本当にこれでいいのか？{end}	{n}You sure about this?{end}
+{n}ではこれと交換するぞ。{key}{end}	{n}Alright, it's a trade.{key}{end}
+{n}何と交換する？{end}	{n}What'll you trade for?{end}
+{n}おいおい。POINTがたりないぞ。{key}{end}	{n}Hey now. You're short on POINTS.{key}{end}
+{n}SHOPに「セイバー」がついか{n}されたぞ。{key}{end}	{n}"Saviour" is in the SHOP now!{key}{end}
+{n}{fb:00}2PカラーのMSでプレイできるぞ。{end}	{n}{fb:00}You can play with a 2P-color MS!{end}
+{n}{fb:00}新しいステージでプレイできるぞ。{end}	{n}{fb:00}You can play on a new stage!{end}
+{n}{fb:00}新しいMSでプレイできるぞ。{end}	{n}{fb:00}You can play with a new MS!{end}
+{n}{fb:00}新しいパイロットでプレイできるぞ。{end}	{n}{fb:00}You can play as a new pilot!{end}
+{n}{fb:00}新しいモードだな。{end}	{n}{fb:00}A new mode, huh.{end}
+{n}{fb:00}新しい衣装だな。{end}	{n}{fb:00}A new outfit, huh.{end}
+{n}{fb:00}新しいCOM{sp8}LEVELのグラフィック{n}だな。{end}	{n}{fb:00}New graphics for the{n}COM LEVEL screen, huh.{end}
+{n}ステージセレクトがめんに{n}「新しいステージ」が{page}{n}{n}ついかされたぞ。{key}{end}	{n}A "new stage" is on the{n}STAGE SELECT screen now!{key}{end}
+{n}OPTIONSがめんでゲーム中の{n}BGMをきくことができるんだ。{key}{end}	{n}You can listen to the in-game BGM{n}on the OPTIONS screen!{key}{end}
+{n}COM{sp8}LEVELがめんで{n}VERY{sp8}HARDを選択できるぞ。{key}{end}	{n}You can pick VERY HARD{n}on the COM LEVEL screen!{key}{end}
+{n}OPTIONSがめんで{sp8}ON、OFFの{n}せっていができるぞ。{page}{n}{n}このモードはVSモードでしかつかえ{n}ないんだ。{key}{end}	{n}You can set it ON or OFF{n}on the OPTIONS screen.{page}{n}{n}But it only works in VS MODE.{key}{end}
+{n}OPTIONSがめんで{sp8}ON、OFFの{n}せっていができるぞ。{page}{n}{n}このモードはVSモード、トレーニング{n}モードでしかつかえないんだ。{key}{end}	{n}You can set it ON or OFF{n}on the OPTIONS screen.{page}{n}{n}But it only works in VS MODE{n}and TRAINING MODE.{key}{end}
+{n}ラクスが衣装を着がえてくれるぞ。{page}{n}{n}私は着がえないけどな。{key}{end}	{n}Lacus will change her outfit for you.{page}{n}{n}I'm not changing mine, though.{key}{end}
+{n}ゲームきどう時に選択することで{page}{n}{n}「MS{sp8}GUNDAM{sp8}SEED{sp8}BATTLE{n}ASSULT」がプレイできるんだ。{key}{end}	{n}Pick it when you start the game{page}{n}{n}to play "MS GUNDAM SEED{n}BATTLE ASSAULT"!{key}{end}
+{n}COM{sp8}LEVELがめんのグラフィックを{n}換えたぞ。{key}{end}	{n}The COM LEVEL screen graphics{n}got changed!{key}{end}
+{n}・・・くっくっくっ・・・。{n}ようこそSHOPへ。{page}{n}{n}今日はラクスさんおやすみのようでして{n}ボクがかわり・・といったワケです。{page}{n}{n}あまりいやなかおせずにPOINTを{n}交換していってくださいねぇ。{page}{n}{n}{f4:01}・・・くっくっくっ・・・。{page}{n}{n}では、何と交換しますかねぇ？{end}	{n}...Heh heh heh...{n}Welcome to the SHOP.{page}{n}{n}It seems Lacus has the day off,{n}so I'm filling in for her, you see.{page}{n}{n}Do trade your POINTS without{n}making such a sour face, hmm?{page}{n}{n}{f4:01}...Heh heh heh...{page}{n}{n}Now then, what will you trade for?{end}
+{n}・・・また来たんですか。{page}{n}{n}何と交換しますかねぇ？{end}	{n}...You're back again?{page}{n}{n}What will you trade for, hmm?{end}
+{n}{f4:01}くっくっく・・・。{page}{n}{n}何と交換しますかねぇ？{end}	{n}{f4:01}Heh heh heh...{page}{n}{n}What will you trade for, hmm?{end}
+{n}アナタよく来ますねぇ・・・。{n}ひまなんですか？？？{page}{n}{n}何と交換しますかねぇ？{end}	{n}You certainly come by often...{n}Have you nothing better to do???{page}{n}{n}What will you trade for, hmm?{end}
+{n}POINTを何につかうかなんて{n}人それぞれですよねぇ。{page}{n}{n}{f4:01}くっくっく・・・。{page}{n}{n}何と交換しますかねぇ？{end}	{n}What one spends POINTS on{n}is a personal matter, isn't it?{page}{n}{n}{f4:01}Heh heh heh...{page}{n}{n}What will you trade for, hmm?{end}
+{n}このSHOPのなまえをアズラエル{n}ショップにしましょうかねぇ。{page}{n}{n}{f4:01}ラクスさんにはひみつですが。{page}{n}{n}何と交換しますかねぇ？{end}	{n}Perhaps I should rename this SHOP{n}the Azrael Shop...{page}{n}{n}{f4:01}Just keep it secret from Lacus.{page}{n}{n}What will you trade for, hmm?{end}
+{n}本当にこれでいいんですかねぇ・・？{end}	{n}Are you quite sure about this...?{end}
+{n}{f4:01}くっくっく・・・。{n}交換してしまいましたねぇ・・・。{key}{end}	{n}{f4:01}Heh heh heh...{n}Well, now you've traded...{key}{end}
+{n}何と交換するんですかねぇ？{end}	{n}What will you be trading for, hmm?{end}
+{n}{f4:01}アナタ、POINTありませんよ・・・。{key}{end}	{n}{f4:01}You don't have the POINTS...{key}{end}
+{n}{fb:00}MSをすべて交換するといいことが{n}あるかもしれませんねぇ・・・。{end}	{n}{fb:00}Something good might happen{n}if you trade for every MS...{end}
+{n}{fb:00}VERY{sp8}HARDでがんばってみて{n}もらえませんかねぇ・・・。{end}	{n}{fb:00}Won't you try your best{n}on VERY HARD for me...?{end}
+{n}{fb:00}HARDでがんばってみて{n}もらえませんかねぇ・・・。{end}	{n}{fb:00}Won't you try your best{n}on HARD for me...?{end}
+{n}{fb:00}時間をきそうモードでがんばりを{n}見てみたいですねぇ・・・。{end}	{n}{fb:00}I'd love to see you do your best{n}in the race-against-the-clock mode...{end}
+{n}{fb:00}サバイバルやってみてくださいって{n}かんじですかねぇ・・・。{end}	{n}{fb:00}How about giving SURVIVAL{n}a try, hmm...?{end}
+{n}{fb:00}新しくゲームをはじめます。{end}	{n}{fb:00}Start a new game.{end}
+{n}{fb:00}前回の続きからゲームをはじめます。{end}	{n}{fb:00}Continue from where you left off.{end}
+{n}SHOPに「VERY{sp8}HARDモード」が{n}ついかされました！{end}	{n}"VERY HARD MODE" has been added{n}to the SHOP!{end}
+{n}{num}ポイント手に入りました。{key}{end}	{n}{num} POINTS obtained.{key}{end}
+{n}サバイバルモードのきろくが{n}こうしんされました！{end}	{n}Your SURVIVAL MODE record{n}has been updated!{end}
+{n}タイムトライアルモードのきろくが{n}こうしんされました！{end}	{n}Your TIME TRIAL MODE record{n}has been updated!{end}
+{n}{F5}もう、誰も死なせない・・。{n}死なせるもんか！{key}{end}	{n}{F5}I won't let anyone else die...{n}I won't let them die!{key}{end}
+{n}{F5}戦わなければ・・{n}守れないものがあるんだ！{key}{end}	{n}{F5}If I don't fight...{n}there are things I can't protect!{key}{end}
+{n}{F5}やった・・のか？{key}{end}	{n}{F5}Did I... do it?{key}{end}
+{n}{F5}キラ・ヤマト、帰還します！{key}{end}	{n}{F5}Kira Yamato, returning!{key}{end}
+{n}{F5}アークエンジェルは{n}沈めさせやしない！！！{key}{end}	{n}{F5}I won't let you sink{n}the Archangel!!!{key}{end}
+{n}{F5}ミラージュコロイドか・・・！？{key}{end}	{n}{F5}Mirage Colloid...?!{key}{end}
+{n}{F5}にげた・・のか？{page}{n}{n}{F6}今日のところはキミの勝ちだ！{key}{end}	{n}{F5}Did he... get away?{page}{n}{n}{F6}The victory is yours... for today!{key}{end}
+{n}{F5}アスラン・・もうやめよう・・{page}{n}{n}{F6}キラ・・・{key}{end}	{n}{F5}Athrun... let's stop this...{page}{n}{n}{F6}Kira...{key}{end}
+{n}{F5}今日はボクの勝ちだよ、アスラン！{page}{n}{n}{F6}ウデを上げたな、キラ！{key}{end}	{n}{F5}I win today, Athrun!{page}{n}{n}{F6}You've gotten better, Kira!{key}{end}
+{n}{F5}それでもボクは・・・人間だ！！！{page}{n}{n}{F6}・・・ハッ！！！{key}{end}	{n}{F5}Even so, I'm... human!!!{page}{n}{n}{F6}...Hah!!!{key}{end}
+{n}{F5}アスランに勝てたのか？！{page}{n}{n}{F6}ウデを上げたな、キラ！{key}{end}	{n}{F5}Did I really beat Athrun?!{page}{n}{n}{F6}You've gotten better, Kira!{key}{end}
+{n}{F5}勝てた・・・？！{key}{end}	{n}{F5}I... won...?!{key}{end}
+{n}{F5}デュエル・・・？！{page}{n}{n}{F6}ちくしょぉぉぉぉう！！！！！{key}{end}	{n}{F5}The Duel...?!{page}{n}{n}{F6}Damn iiiiit!!!!!{key}{end}
+{n}{F5}よしっ！{sp6}ムウさんに勝った！！！{page}{n}{n}{F6}おいおい、マジになるなよっ。{key}{end}	{n}{F5}Yes! I beat Mu!!!{page}{n}{n}{F6}Hey now, don't get so serious.{key}{end}
+{n}{F5}カガリ・・・だいじょうぶか？{page}{n}{n}{F6}オマエなぁ・・・。{key}{end}	{n}{F5}Cagalli... are you okay?{page}{n}{n}{F6}Why, you...{key}{end}
+{n}{F5}・・・強い！{page}{n}{n}{F6}なかなかいいウデをしている！{key}{end}	{n}{F5}...She's strong!{page}{n}{n}{F6}You have some real skill!{key}{end}
+{n}{F5}次は、こうはいかないかもな。{key}{end}	{n}{F5}It might not go this way next time.{key}{end}
+{n}{F5}いい動きだった。{n}うかうかしてられないな。{key}{end}	{n}{F5}Nice moves.{n}I can't let my guard down.{key}{end}
+{n}{F5}なかなかいいウデだ。{key}{end}	{n}{F5}You're pretty good.{key}{end}
+{n}{F5}ムダなていこうはよせ！{key}{end}	{n}{F5}Stop this pointless resistance!{key}{end}
+{n}{F5}キラ・・おまえも一緒に来い！{page}{n}{n}{F6}アスラン・・・。{key}{end}	{n}{F5}Kira... come with me!{page}{n}{n}{F6}Athrun...{key}{end}
+{n}{F5}だいじょうぶか？{sp6}ニコル。{page}{n}{n}{F6}いてて・・・{n}アスランにはかないませんね。{key}{end}	{n}{F5}Are you okay, Nicol?{page}{n}{n}{F6}Ow ow ow...{n}I'm no match for you, Athrun.{key}{end}
+{n}{F5}今日はこのぐらいにしよう。{page}{n}{n}{F6}いってぇなぁ、もう・・・。{key}{end}	{n}{F5}Let's call it a day.{page}{n}{n}{F6}Ow, geez, that hurt...{key}{end}
+{n}{F5}隊長！{sp6}ありがとうございました！{page}{n}{n}{F6}キミには期待しているよ。アスラン。{key}{end}	{n}{F5}Commander! Thank you, sir!{page}{n}{n}{F6}I have high hopes for you, Athrun.{key}{end}
+{n}{F5}今日はこのぐらいにしよう。{page}{n}{n}{F6}まだ負けたワケじゃない！！{key}{end}	{n}{F5}Let's call it a day.{page}{n}{n}{F6}I haven't lost yet!!{key}{end}
+{n}{F5}負けるわけにはいかない！！{key}{end}	{n}{F5}I can't afford to lose!!{key}{end}
+{n}{F5}オレの勝ちだな！！{sp8}キラ！！{page}{n}{n}{F6}さすがはアスラン！！{key}{end}	{n}{F5}I win, Kira!!{page}{n}{n}{F6}That's Athrun for you!!{key}{end}
+{n}{F5}カガリ・・・だいじょうぶか？{page}{n}{n}{F6}まだまだ・・・{n}勝負はこれからだ！！{key}{end}	{n}{F5}Cagalli... are you okay?{page}{n}{n}{F6}I'm not done...{n}This fight's just getting started!!{key}{end}
+{n}{F5}ヒュー、あぶなかったぜ！！{key}{end}	{n}{F5}Whew, that was close!!{key}{end}
+{n}{F5}何すんだよ！{sp6}こいつ！{key}{end}	{n}{F5}Hey, what was that for?! You jerk!{key}{end}
+{n}{F5}とんだ失態だよね・・{key}{end}	{n}{F5}Well, that was embarrassing...{key}{end}
+{n}{F5}くそおっ、マジでそろそろヤバいぜ！{key}{end}	{n}{F5}Damn it, this is getting{n}seriously dicey!{key}{end}
+{n}{F5}どうでした？{sp6}オレの腕前。{page}{n}{n}{F6}なかなかのものだ。期待している。{key}{end}	{n}{F5}How was that, sir? My skills?{page}{n}{n}{F6}Quite impressive. I expect{n}great things from you.{key}{end}
+{n}{F5}オレの手にかかればこんなもんさ。{key}{end}	{n}{F5}That's what happens when{n}I get serious.{key}{end}
+{n}{F5}イザーク、オレはじぶんの信じた道を{n}いく！{page}{n}{n}{F6}ディアッカ・・・。{key}{end}	{n}{F5}Yzak, I'm going down the path{n}I believe in!{page}{n}{n}{F6}Dearka...{key}{end}
+{n}{F5}こんなところで死ねるかよ！{page}{n}{n}{F6}・・・チッ。{key}{end}	{n}{F5}Like I'd die in a place like this!{page}{n}{n}{F6}...Tch.{key}{end}
+{n}{F5}隊長にどう報告する？{key}{end}	{n}{F5}How do we report this{n}to the commander?{key}{end}
+{n}{F5}瞬殺！{key}{end}	{n}{F5}Instant kill!{key}{end}
+{n}{F5}撃滅！{key}{end}	{n}{F5}Exterminate!{key}{end}
+{n}{F5}抹殺！{key}{end}	{n}{F5}Obliterate!{key}{end}
+{n}{F5}これで！{sp6}抹殺！{key}{end}	{n}{F5}And now! Obliterate!{key}{end}
+{n}{F5}ヒャハハハ！{sp6}瞬殺！{key}{end}	{n}{F5}Hyahahaha! Instant kill!{key}{end}
+{n}{F5}やらなきゃやられる！{n}そんだけだろうがぁ！{key}{end}	{n}{F5}Kill or be killed!{n}That's all there is to it!{key}{end}
+{n}{F5}何なんだよ、お前は！？{n}何、必死にやってんだよ！？{key}{end}	{n}{F5}What the hell are you?!{n}What are you trying so hard for?!{key}{end}
+{n}{F5}ヒャハハハ！{sp8}バ～カ！{page}{n}{n}{F6}・・・けっ！！{key}{end}	{n}{F5}Hyahahaha! Idiooot!{page}{n}{n}{F6}...Tch!!{key}{end}
+{n}{F5}ヒャハハハ！{sp6}バ～カ！{page}{n}{n}{F6}てめぇ・・・。{key}{end}	{n}{F5}Hyahahaha! Idiooot!{page}{n}{n}{F6}You bastard...{key}{end}
+{n}{F5}ヒャハハハ！{sp6}バ～カ！{page}{n}{n}{F6}何だとぉぉぉう！！！{key}{end}	{n}{F5}Hyahahaha! Idiooot!{page}{n}{n}{F6}What did you saaay?!!!{key}{end}
+{n}{F5}オラオラオラァ！{key}{end}	{n}{F5}Ora ora oraaa!{key}{end}
+{n}{F5}うぜぇ。次はどいつだ？{key}{end}	{n}{F5}Annoying. Who's next?{key}{end}
+{n}{F5}殺されるより殺すほうがマシってね。{key}{end}	{n}{F5}Better to kill than be killed,{n}right?{key}{end}
+{n}{F5}あ～・・うぜぇな。{key}{end}	{n}{F5}Ugh... so annoying.{key}{end}
+{n}{F5}おれを撃つんじゃねーよ。{page}{n}{n}{F6}・・・ハッ！！{key}{end}	{n}{F5}Quit shooting at me.{page}{n}{n}{F6}...Hah!!{key}{end}
+{n}{F5}うるせぇよ、お前。{page}{n}{n}{F6}うるせぇ！！！{key}{end}	{n}{F5}Shut up, you.{page}{n}{n}{F6}You shut up!!!{key}{end}
+{n}{F5}オラオラオラオラァ！{page}{n}{n}{F6}・・・くっ！{key}{end}	{n}{F5}Ora ora ora oraaa!{page}{n}{n}{F6}...Ngh!{key}{end}
+{n}{F5}うぜぇよ。お前。{page}{n}{n}{F6}何だとぉぉぉう！！！{key}{end}	{n}{F5}You're annoying, y'know that?{page}{n}{n}{F6}What did you saaay?!!!{key}{end}
+{n}{F5}・・・てめェ、じゃまだよ。{key}{end}	{n}{F5}...You're in my way.{key}{end}
+{n}{F5}・・・・・。{key}{end}	{n}{F5}.....{key}{end}
+{n}{F5}死ね・・・・。{key}{end}	{n}{F5}Die....{key}{end}
+{n}{F5}・・・おちろ。{key}{end}	{n}{F5}...Go down.{key}{end}
+{n}{F5}ハッ！！！！{key}{end}	{n}{F5}Hah!!!!{key}{end}
+{n}{F5}へ～、まだいたんだ。{n}変なモビルスーツ。{key}{n}{F6}・・・くっ！{key}{end}	{n}{F5}Huh, you're still around?{n}What a weird mobile suit.{key}{n}{F6}...Ngh!{key}{end}
+{n}{F5}にがさないよ・・・・・{page}{n}{n}{F6}・・・くっ！{key}{end}	{n}{F5}You're not getting away.....{page}{n}{n}{F6}...Ngh!{key}{end}
+{n}{F5}・・・うざい。{page}{n}{n}{F6}・・・なんだとぉぉぉ！！！{key}{end}	{n}{F5}...Annoying.{page}{n}{n}{F6}...What did you saaay?!!!{key}{end}
+{n}{F5}だてに赤を着ているワケじゃない！{key}{end}	{n}{F5}I don't wear red for nothing!{key}{end}
+{n}{F5}誰だよ？{sp8}オレを撃とうなんてヤツは！{key}{end}	{n}{F5}Who the hell is trying to{n}shoot at me?!{key}{end}
+{n}{F5}やったか！？{key}{end}	{n}{F5}Did I get 'em?!{key}{end}
+{n}{F5}ハハハハハ、やったぞ！！！{key}{end}	{n}{F5}Hahahaha, I did it!!!{key}{end}
+{n}{F5}こんなヤツにやられるかよ！{page}{n}{n}{F6}・・・・・。{key}{end}	{n}{F5}Like I'd lose to the likes of you!{page}{n}{n}{F6}.....{key}{end}
+{n}{F5}ディアッカ・・本当にキサマなのか！{page}{n}{n}{F6}イザーク、オレは・・・。{key}{end}	{n}{F5}Dearka... is that really you?!{page}{n}{n}{F6}Yzak, I...{key}{end}
+{n}{F5}隊長、ありがとうございました！{page}{n}{n}{F6}よし。さすがだイザーク。{key}{end}	{n}{F5}Commander, thank you, sir!{page}{n}{n}{F6}Good. Well done, Yzak.{key}{end}
+{n}{F5}ス・ト・ラ・イ・クゥゥ！！！！{page}{n}{n}{F6}デュエル！！！？？？{key}{end}	{n}{F5}S-T-R-I-I-I-KE!!!!{page}{n}{n}{F6}The Duel!!!???{key}{end}
+{n}{F5}フン、ここまでだ！！！{key}{end}	{n}{F5}Hmph, this is where it ends!!!{key}{end}
+{n}{F5}気合がたりないぞ、ニコル！！{page}{n}{n}{F6}わかりました、イザーク！{key}{end}	{n}{F5}Put more fight into it, Nicol!!{page}{n}{n}{F6}Understood, Yzak!{key}{end}
+{n}{F5}つよいな！！！{key}{end}	{n}{F5}You're strong!!!{key}{end}
+{n}{F5}何なんだ、その機体は！！？？{page}{n}{n}{F6}なかなかいいウデをしている！{key}{end}	{n}{F5}What the hell is that machine?!!??{page}{n}{n}{F6}You have some real skill!{key}{end}
+{n}{F5}ボクとしたことが、つい本気で・・{key}{end}	{n}{F5}Oops... I got a little too serious...{key}{end}
+{n}{F5}ボクの勝ちですね！{key}{end}	{n}{F5}Looks like I win!{key}{end}
+{n}{F5}ボクもやらなきゃ・・・{key}{end}	{n}{F5}I have to do my part too...{key}{end}
+{n}{F5}アスラン、今日はボクの勝ちですね！{page}{n}{n}{F6}ああ、今日はオレの負けだな。{key}{end}	{n}{F5}Athrun, I win today!{page}{n}{n}{F6}Yeah, you got me today.{key}{end}
+{n}{F5}今日のところはボクの勝ちですね！{key}{end}	{n}{F5}Looks like I win this time!{key}{end}
+{n}{F5}隊長、ありがとうございました！{page}{n}{n}{F6}よしっ！{sp6}帰還せよ。{key}{end}	{n}{F5}Commander, thank you, sir!{page}{n}{n}{F6}Very good! Return to base.{key}{end}
+{n}{F5}ブリッツによくにた機体ですね・・{key}{end}	{n}{F5}That machine looks a lot like{n}the Blitz...{key}{end}
+{n}{F5}私と戦うには、はやすぎたのではない{n}かな？{key}{end}	{n}{F5}Wasn't it a little too soon{n}for you to face me?{key}{end}
+{n}{F5}楽しませてもらったよ。{key}{end}	{n}{F5}That was most entertaining.{key}{end}
+{n}{F5}キミはよくがんばった・・・{n}だが、そこまでだ。{key}{end}	{n}{F5}You fought well...{n}but this is where it ends.{key}{end}
+{n}{F5}よし、今日はここまでだ。{n}帰還せよ。{key}{end}	{n}{F5}Very well, that's enough for today.{n}Return to base.{key}{end}
+{n}{F5}おまえはいつでもジャマだな{n}ムゥ・ラ・フラガ！{page}{n}{n}{F6}うっせー！！！{n}おまえはいつでもしつこいんだよ！！{key}{end}	{n}{F5}You're always in my way,{n}Mu La Flaga!{page}{n}{n}{F6}Shut up!!!{n}And you never know when to quit!!{key}{end}
+{n}{F5}キミは・・・・・・？{page}{n}{n}{F6}・・・・。{key}{end}	{n}{F5}You are......?{page}{n}{n}{F6}....{key}{end}
+{n}{F5}キミの力はこんなモノかね？{page}{n}{n}{F6}くっ！{sp6}・・・つよい！！{key}{end}	{n}{F5}Is this the extent of your power?{page}{n}{n}{F6}Ngh! ...He's strong!!{key}{end}
+{n}{F5}ふむ。いいモビルスーツだ。{page}{n}{n}{F6}オーブの力はこんなものではない！！{key}{end}	{n}{F5}Hmm. A fine mobile suit.{page}{n}{n}{F6}This is not the limit{n}of Orb's power!!{key}{end}
+{n}{F5}アンタのマシン、{n}整備がワルすぎるぜ！{key}{end}	{n}{F5}Your machine's maintenance{n}is way too sloppy!{key}{end}
+{n}{F5}レッドフレームは渡さないぜ！{key}{end}	{n}{F5}I'm not handing over the Red Frame!{key}{end}
+{n}{F5}戦わなきゃ守れねぇから戦うんだ。{key}{end}	{n}{F5}I fight because if I don't,{n}I can't protect anything.{key}{end}
+{n}{F5}どうだい最強だろ？{key}{end}	{n}{F5}How's that? Unbeatable, right?{key}{end}
+{n}{F5}ちょろい、ちょろい！！！{key}{end}	{n}{F5}Easy, easy!!!{key}{end}
+{n}{F5}しんぱいするな、{n}オレはジャンク屋だ。{key}{end}	{n}{F5}Don't worry,{n}I'm a junk dealer.{key}{end}
+{n}{F5}アンタの機体、{n}はやくメンテしたほうがいいぜ！！{page}{n}{n}{F6}やるではないか、ジャンク屋！{key}{end}	{n}{F5}You'd better get your machine{n}serviced, and fast!!{page}{n}{n}{F6}Not bad, junk dealer!{key}{end}
+{n}{F5}ザフトのパーツがほしいねぇ！{key}{end}	{n}{F5}I could sure use some ZAFT parts!{key}{end}
+{n}{F5}オマエの動きは見きらせてもらった。{key}{end}	{n}{F5}I've seen through your moves.{key}{end}
+{n}{F5}どうした！？{sp8}キラ！{page}{n}{n}{F6}ジャスティス・・・強い！！{key}{end}	{n}{F5}What's wrong, Kira?!{page}{n}{n}{F6}The Justice... it's strong!!{key}{end}
+{n}{F5}隊長！{sp6}ありがとうございました！{page}{n}{n}{F6}いい機体だな、アスラン。{key}{end}	{n}{F5}Commander! Thank you, sir!{page}{n}{n}{F6}A fine machine, Athrun.{key}{end}
+{n}{F5}イザーク、今日はこのぐらいにしよう。{page}{n}{n}{F6}機体がちがいすぎる！？{key}{end}	{n}{F5}Yzak, let's call it a day.{page}{n}{n}{F6}Our machines are{n}worlds apart?!{key}{end}
+{n}{F5}オレの勝ちだな、キラ！！{page}{n}{n}{F6}さすがはアスラン！！{key}{end}	{n}{F5}I win, Kira!!{page}{n}{n}{F6}That's Athrun for you!!{key}{end}
+{n}{F5}カガリ・・・ケガはないか？{n}だいじょうぶか？？{n}いたくはないか？{page}{n}{n}{F6}だったら、てかげんしろよ！！{key}{end}	{n}{F5}Cagalli... are you hurt?{n}Are you okay??{n}Does it hurt anywhere?{page}{n}{n}{F6}Then go easy on me!!{key}{end}
+{n}{F5}また戦争がしたいのか！！{key}{end}	{n}{F5}You want another war?!!{key}{end}
+{n}{F5}マユ・・・{key}{end}	{n}{F5}Mayu...{key}{end}
+{n}{F5}オレはオーブなんて国は信じない！{key}{end}	{n}{F5}I don't believe in a country{n}like Orb!{key}{end}
+{n}{F5}力が・・・・{n}力がなければダメなんだ！！！{key}{end}	{n}{F5}Power....{n}Without power, it's hopeless!!!{key}{end}
+{n}{F5}シン・アスカ、帰還します！！！{key}{end}	{n}{F5}Shinn Asuka, returning!!!{key}{end}
+{n}{F5}そのていどなのか！？{key}{end}	{n}{F5}Is that all you've got?!{key}{end}
+{n}{F5}なんてヤツラだよ！{n}うばった機体でこうまで・・・！{key}{end}	{n}{F5}What's with these guys?!{n}All this with stolen machines...!{key}{end}
+{n}{F5}今回はオレの勝ちだな！！{page}{n}{n}{F6}次は負けないからね！{key}{end}	{n}{F5}I win this time!!{page}{n}{n}{F6}I won't lose next time!{key}{end}
+{n}{F5}今回はオレの勝ちだな！！{page}{n}{n}{F6}お前の勝ちだ。{key}{end}	{n}{F5}I win this time!!{page}{n}{n}{F6}You win.{key}{end}
+{n}{F5}これが・・・大戦のエースの力。{page}{n}{n}{F6}よし。帰還するぞ。{key}{end}	{n}{F5}So this is... the power of an ace{n}from the last war.{page}{n}{n}{F6}Good. We're heading back.{key}{end}
+{n}{F5}くだらないなんて言わせるか・・・！{page}{n}{n}{F6}・・・・くっ！{key}{end}	{n}{F5}I won't let you call it pointless...!{page}{n}{n}{F6}....Ngh!{key}{end}
+{n}{F5}ジュール隊の力、{n}見させてもらいました！！{page}{n}{n}{F6}なかなかいいウデをしている！{key}{end}	{n}{F5}I've seen the strength{n}of the Joule Team!!{page}{n}{n}{F6}You have some real skill!{key}{end}
+{n}{F5}マユ・・・。{n}父さん、母さん。{key}{end}	{n}{F5}Mayu....{n}Dad, Mom.{key}{end}
+{n}{F5}ロンド・ミナ・サハク{n}・・・強い！{page}{n}{n}{F6}なかなかいいウデをしている！{key}{end}	{n}{F5}Rondo Mina Sahaku{n}...she's strong!{page}{n}{n}{F6}You have some real skill!{key}{end}
+{n}{F5}これが・・・大戦のエースの力。{page}{n}{n}{F6}よしっ、帰還するぞ。{key}{end}	{n}{F5}So this is... the power of an ace{n}from the last war.{page}{n}{n}{F6}Alright, we're heading back.{key}{end}
+{n}{F5}けなげじゃないか！{key}{end}	{n}{F5}Aren't you a plucky one!{key}{end}
+{n}{F5}よし、離脱する。{key}{end}	{n}{F5}Alright, pulling out.{key}{end}
+{n}{F5}ははっ！！{sp6}勝ちだ！！{key}{end}	{n}{F5}Haha!! I win!!{key}{end}
+{n}{F5}大した事ないんだな！{key}{end}	{n}{F5}You're nothing special!{key}{end}
+{n}{F5}ステラ！{sp6}ネオがよんでるぜ！{n}かえって来いってさ！{page}{n}{n}{F6}・・・うん、かえる。{key}{end}	{n}{F5}Stella! Neo's calling!{n}Says to come back!{page}{n}{n}{F6}...Okay, I'll go back.{key}{end}
+{n}{F5}オマエもバカをやれよ、バカをさ。{page}{n}{n}{F6}・・・チクショウ。{key}{end}	{n}{F5}Go on, you do something dumb too.{n}Really dumb.{page}{n}{n}{F6}...Damn it.{key}{end}
+{n}{F5}この合体野郎！！{page}{n}{n}{F6}・・・くっ。{key}{end}	{n}{F5}You docking freak!!{page}{n}{n}{F6}...Ngh.{key}{end}
+{n}{F5}この合体野郎め！！{page}{n}{n}{F6}・・・くっ。{key}{end}	{n}{F5}Take that, you docking freak!!{page}{n}{n}{F6}...Ngh.{key}{end}
+{n}{F5}この合体野郎めが！！{page}{n}{n}{F6}・・・くっ。{key}{end}	{n}{F5}Why, you docking freak!!{page}{n}{n}{F6}...Ngh.{key}{end}
+{n}{F5}死んでない・・・、私だいじょぶ・・・{n}だいじょぶよね？{sp6}ステラ・・・{key}{end}	{n}{F5}I'm not dead... I'm okay...{n}I'm okay, right? Stella...{key}{end}
+{n}{F5}やめてっ！{sp6}あっちいって！！！{key}{end}	{n}{F5}Stop it! Go away!!!{key}{end}
+{n}{F5}しつこいっ！！{key}{end}	{n}{F5}Leave me alone!!{key}{end}
+{n}{F5}私は・・・、私はっ・・・！{key}{end}	{n}{F5}I'm... I'm...!{key}{end}
+{n}{F5}あははは！！！{key}{end}	{n}{F5}Ahahaha!!!{key}{end}
+{n}{F5}すぐに沈めるッッッ！{key}{end}	{n}{F5}I'll sink you right now!!!{key}{end}
+{n}{F5}さあ、かえるよ。{page}{n}{n}{F6}チッ！！！{sp6}しかたない！{key}{end}	{n}{F5}Come on, let's go back.{page}{n}{n}{F6}Tch!!! Fine!{key}{end}
+{n}{F5}さあ、かえるよ。{page}{n}{n}{F6}ちくしょう・・・。{key}{end}	{n}{F5}Come on, let's go back.{page}{n}{n}{F6}Damn it...{key}{end}
+{n}{F5}カッコワルイってンじゃねえ！？{n}そう言うの！！！{key}{end}	{n}{F5}Isn't that kinda lame?!{n}That sort of thing!!!{key}{end}
+{n}{F5}おわりィ！！！！{key}{end}	{n}{F5}It's ooover!!!!{key}{end}
+{n}{F5}かちィ！！！！{key}{end}	{n}{F5}I wiiin!!!!{key}{end}
+{n}{F5}はははっ！！！！{key}{end}	{n}{F5}Hahaha!!!!{key}{end}
+{n}{F5}ハン！！！{sp6}そんなモンかよ！{key}{end}	{n}{F5}Hah!!! Is that all you've got?!{key}{end}
+{n}{F5}ははっザフトなんてよ！{n}まとめてやっちゃっていいんだよな。{key}{end}	{n}{F5}Haha, ZAFT, huh!{n}We can just take 'em all out, right?{key}{end}
+{n}{F5}ハン！！！{n}クビでも土産にしようっての！？{page}{n}{n}{F6}知るか！{key}{end}	{n}{F5}Hah!!!{n}Gonna take my head as a souvenir?!{page}{n}{n}{F6}Like I care!{key}{end}
+{n}{F5}ネオにはボクが言っといてやるよ！{n}「さよなら」ってなァ。{page}{n}{n}{F6}さよなら・・・？{n}・・・いや・・・！！！{key}{end}	{n}{F5}I'll tell Neo for you!{n}I'll tell him you said "goodbye".{page}{n}{n}{F6}Goodbye...?{n}...No...!!!{key}{end}
+{n}{F5}やるな！{n}・・・だが！！！{key}{end}	{n}{F5}Not bad!{n}...But!!!{key}{end}
+{n}{F5}アスラン・ザラ帰還する。{key}{end}	{n}{F5}Athrun Zala, returning.{key}{end}
+{n}{F5}もう、見上げているだけじゃ{n}ゆるされない！{key}{end}	{n}{F5}I can't just stand by and{n}watch anymore!{key}{end}
+{n}{F5}負けるわけにはいかない！！！{key}{end}	{n}{F5}I can't afford to lose!!!{key}{end}
+{n}{F5}いい腕をもっている！{key}{end}	{n}{F5}You've got skill!{key}{end}
+{n}{F5}ムダだ。{key}{end}	{n}{F5}It's useless.{key}{end}
+{n}{F5}オレには何ができるのか・・・{n}それをたしかめたい！{page}{n}{n}{F6}アスラン・・・。{key}{end}	{n}{F5}What is it that I can do...{n}I want to find out!{page}{n}{n}{F6}Athrun...{key}{end}
+{n}{F5}いい腕だ。{n}だが、まだまだだ！{page}{n}{n}{F6}さすがに・・・強い！！！{key}{end}	{n}{F5}You're good.{n}But you've got a long way to go!{page}{n}{n}{F6}He's strong... as expected!!!{key}{end}
+{n}{F5}いい動きをする！{page}{n}{n}{F6}動きが・・・はやい！{key}{end}	{n}{F5}Good moves!{page}{n}{n}{F6}He moves... so fast!{key}{end}
+{n}{F5}はやい！{sp8}・・・がそこまでだ！！{page}{n}{n}{F6}くっ・・・。{key}{end}	{n}{F5}Fast! ...But that's as far as you go!!{page}{n}{n}{F6}Ngh...{key}{end}
+{n}{F5}イザーク・ジュール、帰還するぞ！{key}{end}	{n}{F5}Yzak Joule, returning!{key}{end}
+{n}{F5}プラントはオレがまもる！！{key}{end}	{n}{F5}I'll protect the PLANTs!!{key}{end}
+{n}{F5}ジュール隊、隊長として{n}負けるわけにはいかない！！！{key}{end}	{n}{F5}As commander of the Joule Team,{n}I can't afford to lose!!!{key}{end}
+{n}{F5}キサマの力はそんなモノなのか！{key}{end}	{n}{F5}Is that all your power amounts to?!{key}{end}
+{n}{F5}ディアッカ！{sp8}何をやっている！{page}{n}{n}{F6}ああ、ミスっちまったよ。{key}{end}	{n}{F5}Dearka! What are you doing?!{page}{n}{n}{F6}Yeah, I screwed up.{key}{end}
+{n}{F5}ディアッカ！{sp6}やる気あるのか！{page}{n}{n}{F6}やる気はあるんだけどね・・・。{key}{end}	{n}{F5}Dearka! Are you even trying?!{page}{n}{n}{F6}I am trying, y'know...{key}{end}
+{n}{F5}アスラン・・・お前なのかっ？？{page}{n}{n}{F6}・・・・。{key}{end}	{n}{F5}Athrun... is that you??{page}{n}{n}{F6}....{key}{end}
+{n}{F5}ええい！{sp6}何てモビルスーツだ！！{page}{n}{n}{F6}負けだ。{n}いさぎよく、ひきさがろう。{key}{end}	{n}{F5}Damn it! What a mobile suit!!{page}{n}{n}{F6}I am defeated.{n}I shall withdraw with grace.{key}{end}
+{n}{F5}私にはあるのだよ！{n}すべての人類をさばく権利がな！{key}{end}	{n}{F5}I have it, you see! The right{n}to judge all of humanity!{key}{end}
+{n}{F5}憎しみあい、争いあう。{n}それが人の定め。{sp8}人の業！{key}{end}	{n}{F5}Hating and fighting one another.{n}That is mankind's fate. Its sin!{key}{end}
+{n}{F5}みずから育てた闇にくわれて{n}滅ぶがいい！{key}{end}	{n}{F5}Be devoured by the darkness you{n}nurtured yourselves, and perish!{key}{end}
+{n}{F5}ハァーハッハッハ！！！！{key}{end}	{n}{F5}Haaa-hahahaha!!!!{key}{end}
+{n}{F5}私は結果だよ！{sp6}だから知る！！{key}{end}	{n}{F5}I am the result! That's why I know!!{key}{end}
+{n}{F5}何もできまい！！{key}{end}	{n}{F5}There's nothing you can do!!{key}{end}
+{n}{F5}やっかいなヤツだよキミは！{n}あってはならない存在だというのに！{page}{n}{n}{F6}・・・それでもボクは！！！{key}{end}	{n}{F5}What a troublesome one you are!{n}You should never have existed!{page}{n}{n}{F6}...Even so, I...!!!{key}{end}
+{n}{F5}おまえはいつでもジャマだな！{n}ムゥ・ラ・フラガ！{page}{n}{n}{F6}クルーゼェェ！！{key}{end}	{n}{F5}You're always in my way!{n}Mu La Flaga!{page}{n}{n}{F6}Creuset!!!{key}{end}
+{n}{F5}キミには期待していたのだがね・・・{page}{n}{n}{F6}隊長・・・。{key}{end}	{n}{F5}I had high hopes for you...{page}{n}{n}{F6}Commander...{key}{end}
+{n}{F5}キミには期待していたのだがね・・・{page}{n}{n}{F6}くっ！・・・。{key}{end}	{n}{F5}I had high hopes for you...{page}{n}{n}{F6}Ngh! ...{key}{end}
+{n}{F5}そんな力が何になる！？{page}{n}{n}{F6}私にはやらねばならない事が{n}あるのだ！{key}{end}	{n}{F5}What good is power like that?!{page}{n}{n}{F6}There is something{n}I must do!{key}{end}
+{n}{F5}ドラグーン・・・{n}その機体ではあつかえまい！{page}{n}{n}{F6}これでも隊長機なのだがね・・・{key}{end}	{n}{F5}DRAGOON...{n}That machine can't handle it!{page}{n}{n}{F6}This is a commander's machine,{n}you know...{key}{end}
+{n}{F5}ドラグーン・・・、キサマでは{n}つかいきれなかったようだな！！{page}{n}{n}{F6}あの男にできて{n}私にできぬハズがない！{key}{end}	{n}{F5}DRAGOON... it seems it was{n}too much for you to handle!!{page}{n}{n}{F6}If that man could do it,{n}there's no way I can't!{key}{end}
+{n}{F5}アメノミハシラはおとさせぬ！！{key}{end}	{n}{F5}I will not let{n}Ame-no-Mihashira fall!!{key}{end}
+{n}{F5}めざわりだな。{key}{end}	{n}{F5}What an eyesore.{key}{end}
+{n}{F5}おどれ！{key}{end}	{n}{F5}Dance!{key}{end}
+{n}{F5}フィナーレだ！{key}{end}	{n}{F5}This is the finale!{key}{end}
+{n}{F5}私はオーブを守らねばならぬのだ！{key}{end}	{n}{F5}I must protect Orb!{key}{end}
+{n}{F5}ロンド・ミナ・サハク、帰還するぞ！{key}{end}	{n}{F5}Rondo Mina Sahaku, returning!{key}{end}
+{n}{F5}お前では、はなしにならん！！！{key}{end}	{n}{F5}You are not worth my time!!!{key}{end}
+{n}{F5}何だお前は！！？？{key}{end}	{n}{F5}What are you?!!??{key}{end}
+{n}{F5}ASTRAYは一体だけ存在{n}すればよいのだ！{page}{n}{n}{F6}さっすが強いなぁ・・・。{key}{end}	{n}{F5}There need only be{n}one ASTRAY!{page}{n}{n}{F6}Man, you really are strong...{key}{end}
+{n}{F5}なるほど。{n}GAT－X207ブリッツか・・・。{page}{n}{n}{F6}・・・・？{key}{end}	{n}{F5}I see.{n}The GAT-X207 Blitz...{page}{n}{n}{F6}....?{key}{end}
+{n}{F5}ドラグーン・・・大した事などない！！{page}{n}{n}{F6}ハッ！！{key}{end}	{n}{F5}DRAGOON... is nothing special!!{page}{n}{n}{F6}Hah!!{key}{end}
+{n}{F5}スーパーコーディネイターの力とは{n}こんなものか！{page}{n}{n}{F6}くっ！{sp6}強い！！{key}{end}	{n}{F5}Is this all the power of the{n}Ultimate Coordinator amounts to?!{page}{n}{n}{F6}Ngh! So strong!!{key}{end}
+{n}{F5}お前にオーブが守れるのか！？{page}{n}{n}{F6}くっ！{key}{end}	{n}{F5}Can you really protect Orb?!{page}{n}{n}{F6}Ngh!{key}{end}
+{n}{F5}ギナ！{sp6}生きていたのか！？{page}{n}{n}{F6}私はミナだ！{key}{end}	{n}{F5}Gina! You're alive?!{page}{n}{n}{F6}I am Mina!{key}{end}
+{n}{F5}私の勝ち・・・ってね！！！{key}{end}	{n}{F5}I win... how about that!!!{key}{end}
+{n}{F5}ルナマリア帰還しまーす！{key}{end}	{n}{F5}Lunamaria, returniiing!{key}{end}
+{n}{F5}私の勝ち！！！{n}・・・ということで帰還しまーす！{key}{end}	{n}{F5}I win!!!{n}...So, I'm heading baaack!{key}{end}
+{n}{F5}あら、失礼。{key}{end}	{n}{F5}Oh, pardon me.{key}{end}
+{n}{F5}それって本気？？？{key}{end}	{n}{F5}Are you serious???{key}{end}
+{n}{F5}あんまり成績よくないんだけどね、{n}デブリ戦・・・・！{key}{end}	{n}{F5}My grades in debris combat{n}weren't that great, though....!{key}{end}
+{n}{F5}何なのよあんたたちはぁっ！{sp6}{key}{end}	{n}{F5}What is with you people?!{key}{end}
+{n}{F5}大戦のエースって言ってもねぇ・・・{page}{n}{n}{F6}・・・・。{key}{end}	{n}{F5}"Ace of the last war," huh...{page}{n}{n}{F6}....{key}{end}
+{n}{F5}私に勝てないようじゃまだまだだね！{page}{n}{n}{F6}ああ、まだまだだね・・・。{key}{end}	{n}{F5}If you can't beat me, you've{n}still got a long way to go!{page}{n}{n}{F6}Yeah, a long way to go...{key}{end}
+{n}{F5}もっと本気だしてよね！！{page}{n}{n}{F6}・・・次を見てろ。{key}{end}	{n}{F5}Come on, get serious!!{page}{n}{n}{F6}...Just watch next time.{key}{end}
+{n}{F5}ちゃんと戦ってる？？{page}{n}{n}{F6}・・・負けたよ。{key}{end}	{n}{F5}Are you even fighting properly??{page}{n}{n}{F6}...I lost.{key}{end}
+{n}{F5}レイ、本気でやってる？？{page}{n}{n}{F6}ああ。{key}{end}	{n}{F5}Rey, are you taking this seriously??{page}{n}{n}{F6}Yes.{key}{end}
+{n}{F5}とんでもないモビルスーツね・・・。{page}{n}{n}{F6}今日のところはキミの勝ちだ。{key}{end}	{n}{F5}What an incredible mobile suit....{page}{n}{n}{F6}The victory is yours, for today.{key}{end}
+{n}{F5}だてに赤を着ているワケじゃない！{n}・・・ってね！{key}{end}	{n}{F5}I don't wear red for nothing!{n}...as they say!{key}{end}
+{n}{F5}どうだ！？{sp6}イザーク！{page}{n}{n}{F6}なかなかのものだ！{key}{end}	{n}{F5}How was that, Yzak?!{page}{n}{n}{F6}Not bad at all!{key}{end}
+{n}{F5}オレもなかなかやるだろう？{key}{end}	{n}{F5}I'm pretty good too, right?{key}{end}
+{n}{F5}どうだ！？{sp6}イザーク！{page}{n}{n}{F6}やるな！{sp6}ディアッカ！{key}{end}	{n}{F5}How was that, Yzak?!{page}{n}{n}{F6}Not bad, Dearka!{key}{end}
+{n}{F5}アスラン・・・なのか？{page}{n}{n}{F6}・・・・。{key}{end}	{n}{F5}Athrun... is that you?{page}{n}{n}{F6}....{key}{end}
+{n}{F5}レイ・ザ・バレル帰還する。{key}{end}	{n}{F5}Rey Za Burrel, returning.{key}{end}
+{n}{F5}帰還する。{key}{end}	{n}{F5}Returning.{key}{end}
+{n}{F5}ギルのために！{key}{end}	{n}{F5}For Gil!{key}{end}
+{n}{F5}勝ちだ。{key}{end}	{n}{F5}I win.{key}{end}
+{n}{F5}・・・フッ。{key}{end}	{n}{F5}...Heh.{key}{end}
+{n}{F5}・・・・・・。{n}ジャマだ。{key}{end}	{n}{F5}......{n}You're in the way.{key}{end}
+{n}{F5}気にするな。何も気にしてない。{key}{end}	{n}{F5}Don't let it bother you.{n}Nothing bothers me.{key}{end}
+{n}{F5}帰還しろ、ルナマリア。{page}{n}{n}{F6}りょうかい。{n}ルナマリア帰還します。{key}{end}	{n}{F5}Return to base, Lunamaria.{page}{n}{n}{F6}Roger.{n}Lunamaria, returning.{key}{end}
+{n}{F5}！！！！{n}この敵は普通とはちがう！{page}{n}{n}{F6}ハッ！{key}{end}	{n}{F5}!!!!{n}This enemy is no ordinary foe!{page}{n}{n}{F6}Hah!{key}{end}
+{n}{F5}！！！！{n}この敵は普通とはちがう！{page}{n}{n}{F6}もっと気楽に行こうぜ、気楽に。{key}{end}	{n}{F5}!!!!{n}This enemy is no ordinary foe!{page}{n}{n}{F6}Lighten up, kid. Take it easy.{key}{end}
+{n}{F5}はやい！！！{n}・・・が、そこまでだ。{page}{n}{n}{F6}レイ・ザ・バレル・・・{n}・・・強い！！！{key}{end}	{n}{F5}Fast!!!{n}...But that's as far as you go.{page}{n}{n}{F6}Rey Za Burrel...{n}...he's strong!!!{key}{end}
+{n}{F5}やっぱオレって、{n}不可能を可能にするオトコだね。{key}{end}	{n}{F5}Guess I really am the man who{n}makes the impossible possible.{key}{end}
+{n}{F5}いよっしゃー！！！{key}{end}	{n}{F5}Alriiight!!!{key}{end}
+{n}{F5}うおりゃあー！！！{key}{end}	{n}{F5}Raaaaah!!!{key}{end}
+{n}{F5}うひょー！！！{key}{end}	{n}{F5}Woohoo!!!{key}{end}
+{n}{F5}オレもまだまだやれるだろう？{key}{end}	{n}{F5}I've still got it, right?{key}{end}
+{n}{F5}オレはすぐに戻るさ・・・{key}{end}	{n}{F5}I'll be right back...{key}{end}
+{n}{F5}世界を滅亡・・・{n}そんなことさせねぇよ。オレが！！{page}{n}{n}{F6}ハッ！{sp8}すでにおそいさ！！！{key}{end}	{n}{F5}Destroy the world...{n}Not on my watch!!{page}{n}{n}{F6}Hah! It's already too late!!!{key}{end}
+{n}{F5}おいおい。おまえ本気なのか？？{page}{n}{n}{F6}・・・おのれ！{sp8}ムウ！！{key}{end}	{n}{F5}Hey now. Are you serious??{page}{n}{n}{F6}...Damn you, Mu!!{key}{end}
+{n}{F5}しっかりしてるねぇ、キミは。{page}{n}{n}{F6}・・・負けたらおなじです。{key}{end}	{n}{F5}You've got a good head on you, kid.{page}{n}{n}{F6}...It means nothing if I lose.{key}{end}
+{n}{F5}キラ、帰還するぞ！{page}{n}{n}{F6}はい！{key}{end}	{n}{F5}Kira, we're heading back!{page}{n}{n}{F6}Right!{key}{end}
+{n}{F5}エースパイロットのプライドだ！{page}{n}{n}{F6}くっ！{n}さすがはムウさん！{key}{end}	{n}{F5}That's an ace pilot's pride!{page}{n}{n}{F6}Ngh!{n}That's Mu for you!{key}{end}
+{n}{F5}やばいののってるねぇ・・・{page}{n}{n}{F6}キサマにはつかいこなせまい！{key}{end}	{n}{F5}That's one scary ride you've got...{page}{n}{n}{F6}You could never master it!{key}{end}
+{n}{F5}すごいカタナもってるねぇ・・・{page}{n}{n}{F6}へへっ！{sp6}いいだろう？{key}{end}	{n}{F5}That's some sword you've got...{page}{n}{n}{F6}Heheh! Pretty sweet, huh?{key}{end}
+{n}{F5}ははっ、私の勝ちだな！{key}{end}	{n}{F5}Haha, I win!{key}{end}
+{n}{F5}強すぎる力はまた争いをよぶ！{key}{end}	{n}{F5}Too much power only invites{n}more conflict!{key}{end}
+{n}{F5}よしっ！{sp6}こんなモンだろ！{key}{end}	{n}{F5}Alright! How about that!{key}{end}
+{n}{F5}なんだ？{sp6}やる気あるのか？{key}{end}	{n}{F5}What? Are you even trying?{key}{end}
+{n}{F5}気合がたりないぞ、アスラン！{page}{n}{n}{F6}ははは、そうだな。{key}{end}	{n}{F5}Put more fight into it, Athrun!{page}{n}{n}{F6}Hahaha, I guess so.{key}{end}
+{n}{F5}気合がたりないぞ、アスラン！{page}{n}{n}{F6}そのようだ。{key}{end}	{n}{F5}Put more fight into it, Athrun!{page}{n}{n}{F6}So it seems.{key}{end}
+{n}{F5}気合がたりないぞ、アスラン！{page}{n}{n}{F6}では・・・気合をいれなおす！{key}{end}	{n}{F5}Put more fight into it, Athrun!{page}{n}{n}{F6}Then... I'll fire myself up again!{key}{end}
+{n}{F5}なんだ？{sp8}手ぬきか、キラ！{page}{n}{n}{F6}くっ！{sp8}もっと強くならないと！{key}{end}	{n}{F5}What? Holding back, Kira?!{page}{n}{n}{F6}Ngh! I need to get stronger!{key}{end}
+{n}{F5}なんだ？{sp8}手ぬきか、キラ！{page}{n}{n}{F6}強くなったな、カガリ！{key}{end}	{n}{F5}What? Holding back, Kira?!{page}{n}{n}{F6}You've gotten stronger, Cagalli!{key}{end}
+{n}{F5}ロンド・ミナ・サハクか！？{page}{n}{n}{F6}ウズミのむすめ！？{key}{end}	{n}{F5}Rondo Mina Sahaku?!{page}{n}{n}{F6}Uzumi's daughter?!{key}{end}

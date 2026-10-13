@@ -28,7 +28,7 @@
   "slot": "0CA6BC",
   "src": "0CA5D3",
   "jp": "{n}{f5:000007}アスラン、今日はボクの勝ちですね！{page}{n}{n}{f6:000001}ああ、今日はオレの負けだな。{key}{end}",
-  "en": "{n}{f5:000007}Athrun, I win today!{page}{n}{n}{f6:000001}Yeah, today I lose.{key}{end}",
+  "en": "{n}{f5:000007}Athrun, I win today!{page}{n}{n}{f6:000001}Yeah, you got me today.{key}{end}",
   "status": "done"
  },
  {
@@ -36,7 +36,7 @@
   "slot": "0CA6C0",
   "src": "0CA60A",
   "jp": "{n}{f5:000007}アスラン、今日はボクの勝ちですね！{page}{n}{n}{f6:00000B}ああ、今日はオレの負けだな。{key}{end}",
-  "en": "{n}{f5:000007}Athrun, I win today!{page}{n}{n}{f6:00000B}Yeah, today I lose.{key}{end}",
+  "en": "{n}{f5:000007}Athrun, I win today!{page}{n}{n}{f6:00000B}Yeah, you got me today.{key}{end}",
   "status": "done"
  },
  {

@@ -60,7 +60,7 @@
   "slot": "0CA29C",
   "src": "0CA254",
   "jp": "{n}{f5:000004}うぜぇよ。お前。{page}{n}{n}{f6:000006}何だとぉぉぉう！！！{key}{end}",
-  "en": "{n}{f5:000004}You're annoying. You.{page}{n}{n}{f6:000006}What did you saaay?!!!{key}{end}",
+  "en": "{n}{f5:000004}You're annoying, y'know that?{page}{n}{n}{f6:000006}What did you saaay?!!!{key}{end}",
   "status": "done"
  }
 ]

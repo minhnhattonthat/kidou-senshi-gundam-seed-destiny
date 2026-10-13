@@ -84,7 +84,7 @@
   "slot": "0C9EE8",
   "src": "0C9E4C",
   "jp": "{n}{f5:000001}オレの勝ちだな！！{sp8}キラ！！{page}{n}{n}{f6:00000A}さすがはアスラン！！{key}{end}",
-  "en": "{n}{f5:000001}I win!! Kira!!{page}{n}{n}{f6:00000A}That's Athrun for you!!{key}{end}",
+  "en": "{n}{f5:000001}I win, Kira!!{page}{n}{n}{f6:00000A}That's Athrun for you!!{key}{end}",
   "status": "done"
  },
  {

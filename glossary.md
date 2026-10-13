@@ -89,6 +89,22 @@ nothing in the Avoid column may appear.
 | サバイバルモード | SURVIVAL MODE | | | |
 | タイムトライアルモード | TIME TRIAL MODE | | | |
 | 衣装 | outfit | | Lacus changes outfits | costume |
+| ピンクちゃん | Pinky | | Lacus's pink Haro | |
+| スーパーコーディネイター | Ultimate Coordinator | | | |
+| ドラグーン | DRAGOON | | | Dragoon |
+| ジュール隊 | Joule Team | | | |
+| プラント | PLANT | | PLANTs | |
+| ザフト | ZAFT | | | |
+| オーブ | Orb | | | |
+| レッドフレーム | Red Frame | | | |
+| ジャンク屋 | junk dealer | | | |
+| ネオ | Neo | | | |
+| ギル | Gil | | | |
+| ウズミ | Uzumi | | | |
+| ギナ | Gina | | | |
 
 ## Decisions from earlier batches
-- (none yet)
+- 隊長 -> "Commander" as an address, "commander" mid-sentence (not lint-enforced: case).
+- 帰還 -> "X, returning!" (sortie call-out); 帰還せよ -> "Return to base."
+- Generic win quotes play against any opponent: keep them gender-neutral ("Did I get 'em?!").
+- Review 2026-10-13: 0 Critical, 1 Important (fixed), 17 Minor (applied). Report: work/tl/review.md (local).

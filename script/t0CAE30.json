@@ -44,7 +44,7 @@
   "slot": "0CAE44",
   "src": "0CACA7",
   "jp": "{n}{f5:00000B}どうした！？{sp8}キラ！{page}{n}{n}{f6:000000}ジャスティス・・・強い！！{key}{end}",
-  "en": "{n}{f5:00000B}What's wrong?! Kira!{page}{n}{n}{f6:000000}The Justice... it's strong!!{key}{end}",
+  "en": "{n}{f5:00000B}What's wrong, Kira?!{page}{n}{n}{f6:000000}The Justice... it's strong!!{key}{end}",
   "status": "done"
  },
  {
@@ -76,7 +76,7 @@
   "slot": "0CAE54",
   "src": "0CAD6D",
   "jp": "{n}{f5:00000B}イザーク、今日はこのぐらいにしよう。{page}{n}{n}{f6:000006}機体がちがいすぎる！？{key}{end}",
-  "en": "{n}{f5:00000B}Yzak, let's call it a day.{page}{n}{n}{f6:000006}Our machines are just{n}too different?!{key}{end}",
+  "en": "{n}{f5:00000B}Yzak, let's call it a day.{page}{n}{n}{f6:000006}Our machines are{n}worlds apart?!{key}{end}",
   "status": "done"
  },
  {

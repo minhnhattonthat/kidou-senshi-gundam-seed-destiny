@@ -36,7 +36,7 @@
   "slot": "0CA020",
   "src": "0C9F4C",
   "jp": "{n}{f5:000002}どうでした？{sp6}オレの腕前。{page}{n}{n}{f6:000008}なかなかのものだ。期待している。{key}{end}",
-  "en": "{n}{f5:000002}How was that? Pretty skilled, huh?{page}{n}{n}{f6:000008}Quite impressive. I expect{n}great things from you.{key}{end}",
+  "en": "{n}{f5:000002}How was that, sir? My skills?{page}{n}{n}{f6:000008}Quite impressive. I expect{n}great things from you.{key}{end}",
   "status": "done"
  },
  {
