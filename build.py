@@ -34,6 +34,11 @@ TEXT = 0x801000           # strings and their cell banks, then rebuilt graphics 
 # bytes the English build may change outside the expansion area (romdiff gate)
 PATCHED = [(0x000CAC, 0x000CB4), (0x031BEC, 0x031BF0), (0x031EA8, 0x031EAC), (0x032550, 0x032558),
            (0x0325F2, 0x0325FA), tm.REGION]
+
+
+def allowed_ranges(orig):
+    """PATCHED plus every name-width table copy (romdiff gate)."""
+    return PATCHED + [(off, off + len(data)) for off, data in gfx.width_patches(orig)]
 FILLER = 'The quick brown fox jumps over the lazy dog 0123456789'
 TOKEN = re.compile(r'(\{[^}]*\})')
 
@@ -108,6 +113,8 @@ def build(mode, qa=None):
         put(rom, at, packed)
         ov += struct.pack('<BBHI', g, i, 0, 0x08000000 + at)
         at = (at + len(packed) + 3) & ~3
+    for off, data in gfx.width_patches(orig):
+        put(rom, off, data)
     assert len(ov) < TEXT - OVERRIDE - 8
     put(rom, OVERRIDE, ov + b'\xff' * 8)
     assert at <= SIZE, 'text overflows the ROM'

@@ -16,7 +16,7 @@ def test_identity_build_is_byte_identical():
 def test_marker_build_writes_only_allowed_ranges(tmp_path):
     out = tmp_path / 'm.gba'
     out.write_bytes(build.build('marker'))
-    ranges = ['%X-%X' % (a, b - 1) for a, b in build.PATCHED] + ['800000-FFFFFF']
+    ranges = ['%X-%X' % (a, b - 1) for a, b in build.allowed_ranges(build.tm.rom())] + ['800000-FFFFFF']
     res = subprocess.run([sys.executable, str(ROMDIFF), str(build.tm.ORIG), str(out), *ranges],
                          capture_output=True, text=True)
     assert res.returncode == 0, res.stdout + res.stderr

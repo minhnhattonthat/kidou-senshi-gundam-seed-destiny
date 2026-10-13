@@ -101,6 +101,26 @@ def fit(names, style, ntiles):
     raise ValueError('no candidate fits %d px: %r' % (ntiles * 8, names))
 
 
+# Name widths in px used to place the strips (the win-quote plate is right-aligned by it). They are static
+# arrays from a C header, so ~55 compilation units each carry a copy; every copy is patched.
+MS_WIDTHS = 0xCD172      # first copy: 30 bytes, arc 7.20-7.49, width of the name from tile 14
+PILOT_WIDTHS = 0xCD190   # first copy: 28 bytes, arc 4.82-4.109
+
+
+def width_patches(rom):
+    """-> [(rom offset, bytes)] for every copy of the name width tables."""
+    ms = bytes(pixfont.width(fit(MS[i], 'ms', 14)) for i in sorted(MS))
+    pilots = bytes(pixfont.width(PILOTS[i]) for i in sorted(PILOTS))
+    out = []
+    for first, en in ((MS_WIDTHS, ms), (PILOT_WIDTHS, pilots)):
+        jp = rom[first:first + len(en)]
+        i = rom.find(jp, 0xC0000, 0xE0000)
+        while i >= 0:
+            out.append((i, en))
+            i = rom.find(jp, i + 1, 0xE0000)
+    return out
+
+
 def build(rom):
     out = []
     for i, name in PILOTS.items():
