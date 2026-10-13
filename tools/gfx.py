@@ -8,6 +8,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / 'tools'))
 import arc  # noqa: E402
 import le  # noqa: E402
+import logo  # noqa: E402
 import pixfont  # noqa: E402
 import render  # noqa: E402
 import ticker  # noqa: E402
@@ -97,6 +98,41 @@ def shop_name(text):
                 if v:
                     img[top + n * 7 + y][ox + x] = v
     return sprites_bytes(img, 3)
+
+
+# arc 2.6 title-screen sprites: the copyright line is tiles 0x86-0xC1 (seven 32x16 + one 16x16 at y=136);
+# ink 1, shadow 2, rows 3-12. The (C) glyph (x < 28) and rows 13-15 (top of the next line) are kept.
+COPYRIGHT = 'SOTSU AGENCY・SUNRISE・MBS'
+
+
+def copyright_strip(rom, fnt):
+    data = bytearray(le.decompress(rom, arc.item(rom, 2, 6))[0])
+
+    def cells():
+        for s in range(8):
+            w = 4 if s < 7 else 2
+            for t in range(w * 2):
+                yield 0x86 + (s * 8 if s < 7 else 56) + t, s * 32 + (t % w) * 8, (t // w) * 8
+
+    rows = fnt.draw(COPYRIGHT)
+    assert 30 + len(rows[0]) <= 240
+    img = [[0] * 240 for _ in range(16)]
+    for tile, ox, oy in cells():
+        for y in range(8):
+            for x in range(8):
+                img[oy + y][ox + x] = data[tile * 32 + y * 4 + x // 2] >> (4 * (x & 1)) & 15
+    for y in range(13):
+        for x in range(28, 240):
+            img[y][x] = 0
+    for y in range(16):
+        for x, v in enumerate(rows[y]):
+            if v and 0 <= y + 1 < 13:
+                img[y + 1][30 + x] = 2 if v in (4, 7) else 1
+    for tile, ox, oy in cells():
+        for y in range(8):
+            for x in range(0, 8, 2):
+                data[tile * 32 + y * 4 + x // 2] = img[oy + y][ox + x] | img[oy + y][ox + x + 1] << 4
+    return bytes(data)
 
 
 def stage_plate(fnt, text):
@@ -190,4 +226,10 @@ def build(rom):
     out += ticker.build(rom, fnt)
     for i, name in SHOP.items():
         out.append((20, i, shop_name(name)))
+    out.append((2, 6, copyright_strip(rom, fnt)))
+    art = ROOT / 'assets/title_logo_en.png'  # made by tools/logo_gen.py
+    if art.exists():
+        from PIL import Image
+        tiles, tmap = logo.encode(rom, Image.open(art))
+        out += [(2, 13, tiles), (2, 14, tmap)]
     return out

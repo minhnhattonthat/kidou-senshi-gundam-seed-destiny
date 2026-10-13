@@ -1,17 +1,21 @@
 # Graphics text survey
 
 Sources found with `tools/dumpblocks.py` (every Le block -> work/blocks) + `vramfind.py`, catalogued with
-`tools/strips.py GROUP OUT.png --sw W --sh H --pal <dump>.pal.bin --pal-index 16+objpal`.
+`tools/strips.py GROUP OUT.png --sw W --sh H --pal <dump>.pal.bin --pal-index 16+objpal`. Rebuilt items go through
+the archive override (asm ArcLookup + build.py OVERRIDE table); generator: `tools/gfx.py`, preview
+`tools/gfx_preview.py`.
 
-| # | Screen(s) | What | Source | Format | Status |
+| # | Screen(s) | What | Source | Format / notes | Status |
 |---|---|---|---|---|---|
-| 1 | title | logo 機動戦士ガンダムSEED DESTINY + ©創通エージェンシー・サンライズ・毎日放送 | TBD | BG | todo |
-| 2 | main menu | mode description ticker (9 lines) | arc 3.31 tiles (+ map, pal 3.30) | BG0 4bpp, 512 px lines | todo |
-| 3 | MS SELECT, COMMAND SELECT, VS, win quote, RESULT | pilot name plates (28) | arc 4.82-4.109 | 13 tiles = 104x8, OBJ pal 7; fill 2, light 8, outline 1 | todo |
-| 4 | MS SELECT, COMMAND SELECT, MS SETTING, VS | MS name strips (30): model no. (EN) + JP name | arc 7.20-7.49 | 28 tiles: 13 model + 15 name (120x8); outline C, fill 2/9 | todo |
-| 5 | NEXT STAGE | stage names (25) | arc 4.112-4.136 | 32 tiles = 128x16 (4 sprites 32x16) | todo |
-| 6 | SHOP | item list names (タリア・グラディス, 2P ストライク ...) | TBD | | todo |
+| 1 | title | logo 機動戦士 ガンダム + ruby シード デスティニー | arc 2.13 tiles, 2.14 map (30x20), 2.15 pal | edited art assets/title_logo_en.png (tools/logo_gen.py, one-off, Windows fonts), re-encoded by tools/logo.py | done |
+| 1b | title | ©創通エージェンシー・サンライズ・毎日放送 | arc 2.6 sprites, tiles 0x86-0xC1 | ink 1 / shadow 2 | done |
+| 2 | main menu | mode description ticker (9 lines) | arc 3.29 map + 3.28 tiles, 3.32 map + 3.31 tiles | tools/ticker.py | done |
+| 3 | MS SELECT, COMMAND SELECT, VS, win quote, RESULT | pilot name plates (28) | arc 4.82-4.109 | 104x8 row; widths table x55 copies | done |
+| 4 | MS SELECT, COMMAND SELECT, MS SETTING, VS, NEXT STAGE | MS names (30) | arc 7.20-7.49 | name = tiles 14-27; widths table x55 | done |
+| 5 | NEXT STAGE | stage names (25) | arc 4.112-4.136 | 128x16, 4 sprites | done |
+| 6 | SHOP | item names (62) | arc 20.12-20.73 | 96x16, 3 sprites, bg 5 | done |
 | 7 | VS link | 接続中…… | script 0C7330 | dialogue engine | done |
+| 8 | CHALLENGE pause | mission text (e.g. 3HITコンボを決めろ!) | glyphs at ROM 0x704A2C (Le, ref 0x027304) -> OBJ VRAM, tile = 4*glyph | string format not found yet: not raw, not Le/LZ77; a RAM table at 0x0202B3C4 pairs codes with slots | OPEN |
 
 States: work/states/mainmenu.mss, shop.mss, winquote.mss, fight_start.mss; survey tours work/qa/survey/m1-m8
-(cursor routes from mainmenu.mss, see tools/routes/).
+(cursor routes from mainmenu.mss, see tools/routes/). Challenge pause: work/qa/survey/m5/s001560.mss + START.
