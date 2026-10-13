@@ -14,7 +14,8 @@ Read it before ROM, text or QA work. `$SKILL` below = that directory.
 - Original ROM: `rom/1801 - Kidou Senshi Gundam Seed Destiny (J)(Caravan).gba` (gitignored; SHA-1 64eea52c...).
 - Emulator: `tools/mesen2/Mesen.exe` + `tools/mesen2/Firmware/gba_bios.bin`; assembler `tools/armips/armips.exe`.
 - Text: `script/t<table>.json` (one file per pointer table). Tables: `tbl/`. Glossary + rulings: `glossary.md`.
-- RE notes: `docs/re/text.md` (encoding, pointers, renderer, kerning, archive, Le compression).
+- RE notes: `docs/re/text.md` (encoding, pointers, renderer, VWF, archive, Le), `docs/re/graphics.md` (survey).
+- Graphics: tools/gfx.py (+ticker.py, logo.py, chal.py), preview tools/gfx_preview.py, lint tools/lint.py.
 - States: `work/states/` (menu_newgame.mss = NEW GAME/CONTINUE prompt).
 
 ## Rulings (user, 2026-10-13)
@@ -23,6 +24,9 @@ Read it before ROM, text or QA work. `$SKILL` below = that directory.
 - Pre-approved: keep going through phases, report at milestones.
 - Edit source files only with the file-edit tool. ROM <= 16 MiB (EEPROM save).
 
-## Status
-- Done: setup, recon, table, extraction (514 lines / 30 tables, tests green).
-- Next: build.py identity -> font/kern VWF patch -> marker build + width gate -> translate.
+## Status (2026-10-13)
+- Done: script translated + reviewed (514 lines, lint clean); build-time VWF; graphics: logo, copyright, ticker,
+  pilot/MS/stage/shop names, CHALLENGE fragments (docs/re/graphics.md). Local release v0.1 in release/ (not published).
+- Open: CHALLENGE missions 2-10 not seen in-game; ending/credits not yet checked (god-mode arcade run:
+  tools/lua/poke16.lua POKE_ADDR=0x03000D04 POKE_VAL=10240, route work/qa/route_arcade.txt).
+- Translation sources: script/t*.json (edit en there), script/tm_norm.tsv + tools/tl_templates.py regenerate them.
