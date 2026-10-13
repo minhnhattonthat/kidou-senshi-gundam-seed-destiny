@@ -25,6 +25,7 @@ SPACE = 2
 STYLES = {
     'pilot': (1, [2, 2, 2, 2, 8]),           # arc 4.82+: white fill, grey foot, dark outline
     'ms': (0xC, [0xA, 0x9, 0xB, 0x2, 0x2]),  # arc 7.20+: same chrome gradient as the model numbers
+    'shop': (3, [0xF] * 5),                  # arc 20.12+: white on the dark list bar (bg 5)
 }
 
 

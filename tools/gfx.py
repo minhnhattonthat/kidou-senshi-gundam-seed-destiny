@@ -34,11 +34,69 @@ MS = {20: ['STRIKE GUNDAM'], 21: ['AEGIS GUNDAM'], 22: ['BUSTER GUNDAM'], 23: ['
 # arc 4.112-4.136: stage names on NEXT STAGE, 128x16 as four 32x16 sprites; centred, outline 1, row gradient
 STAGES = {112: 'Heliopolis', 113: 'Archangel Descent', 114: 'Onogoro Island', 115: 'Debris Belt', 116: 'GENESIS',
           117: 'Orb Waters', 118: 'Alaska', 119: 'Orb Battlefield', 120: 'PLANT Interior', 121: 'Panama',
-          122: 'North African Desert', 123: 'Colony Mendel', 124: 'North Africa (Dusk)',
+          122: 'North African Desert', 123: 'Colony Mendel', 124: 'North Africa (Dawn)',
           125: 'Onogoro Island(Night)', 126: 'Heliopolis', 127: 'Debris Belt', 128: 'Orb Battlefield',
           129: 'PLANT Interior', 130: 'Lunar Base', 131: 'Artemis', 132: 'Orb Harbor', 133: 'Junius Seven',
           134: 'GENESIS', 135: 'GENESIS', 136: 'GENESIS'}
 STAGE_FILL = [2, 9, 9, 8, 8, 8, 9, 9, 2, 2, 2]  # dialogue-font ink rows 2-12, top to bottom
+
+
+# arc 20.12-20.73: SHOP item names, 96x16 as three 32x16 sprites, bg index 5 (41 and 53 are blank)
+SHOP = {12: '2P STRIKE', 13: '2P AEGIS', 14: '2P BUSTER', 15: '2P RAIDER', 16: '2P CALAMITY',
+        17: '2P FORBIDDEN', 18: '2P DUEL', 19: '2P BLITZ', 20: '2P CGUE', 21: '2P ASTRAY RED FRAME',
+        22: '2P FREEDOM', 23: '2P JUSTICE', 24: '2P FORCE IMPULSE', 25: '2P SWORD IMPULSE', 26: '2P BLAST IMPULSE',
+        27: '2P CHAOS', 28: '2P GAIA', 29: '2P ABYSS', 30: '2P SAVIOUR', 31: '2P SLASH ZAKU PHANTOM',
+        32: '2P PROVIDENCE', 33: '2P GOLD FRAME AMATSU MINA', 34: '2P GUNNER ZAKU WARRIOR',
+        35: '2P BLAZE ZAKU PHANTOM', 36: 'LUNAR BASE', 37: 'ARTEMIS', 38: 'ORB HARBOR', 39: 'JUNIUS SEVEN',
+        40: 'AME-NO-MIHASHIRA', 42: 'NORTH AFRICA (DAWN)', 43: 'ONOGORO ISLAND (NIGHT)', 44: 'SOUND MODE',
+        45: 'VERY HARD MODE', 46: 'INFINITE THRUSTER', 47: 'INFINITE PS', 48: 'INFINITE SUPER SPECIALS',
+        49: 'LACUS OUTFIT A', 50: 'LACUS OUTFIT B', 51: 'LACUS OUTFIT C', 52: 'LACUS OUTFIT D',
+        54: 'US GUNDAM SEED', 55: 'MS CALAMITY', 56: 'MS RAIDER', 57: 'MS FORBIDDEN', 58: 'MS SAVIOUR',
+        59: 'MS SWORD IMPULSE', 60: 'MS BLAST IMPULSE', 61: 'MS SLASH ZAKU PHANTOM', 62: 'CAGALLI YULA ATHHA',
+        63: 'MU LA FLAGA', 64: 'DEARKA ELSMAN', 65: 'MS GOLD FRAME AMATSU MINA', 66: 'MS PROVIDENCE',
+        67: 'MS FREEDOM', 68: 'MS JUSTICE', 69: 'PINK HARO', 70: 'NAVY HARO', 71: 'GILBERT DURANDAL',
+        72: 'NEO ROANOKE', 73: 'TALIA GLADYS'}
+
+
+def split2(text, w):
+    """One line if it fits in w px, else the most balanced two-line split that fits."""
+    if pixfont.width(text) <= w:
+        return [text]
+    words = text.split(' ')
+    best = None
+    for k in range(1, len(words)):
+        a, b = ' '.join(words[:k]), ' '.join(words[k:])
+        m = max(pixfont.width(a), pixfont.width(b))
+        if m <= w and (best is None or m < best[0]):
+            best = (m, [a, b])
+    assert best, '%r does not fit two lines of %d px' % (text, w)
+    return best[1]
+
+
+def sprites_bytes(img, nspr):
+    """16-row image -> nspr 32x16 sprites in 1D tile order (4 tiles top row, 4 bottom)."""
+    buf = bytearray(nspr * 256)
+    for s in range(nspr):
+        for t in range(8):
+            ox, oy = s * 32 + (t % 4) * 8, (t // 4) * 8
+            for y in range(8):
+                for x in range(0, 8, 2):
+                    buf[(s * 8 + t) * 32 + y * 4 + x // 2] = img[oy + y][ox + x] | img[oy + y][ox + x + 1] << 4
+    return bytes(buf)
+
+
+def shop_name(text):
+    lines = split2(text, 96)
+    img = [[5] * 96 for _ in range(16)]
+    top = 4 if len(lines) == 1 else 1
+    for n, line in enumerate(lines):
+        rows = pixfont.render(line, 'shop')
+        ox = (96 - len(rows[0])) // 2
+        for y, r in enumerate(rows):
+            for x, v in enumerate(r):
+                if v:
+                    img[top + n * 7 + y][ox + x] = v
+    return sprites_bytes(img, 3)
 
 
 def stage_plate(fnt, text):
@@ -57,14 +115,7 @@ def stage_plate(fnt, text):
             if not img[y][x] and any(0 <= y + dy < 16 and 0 <= x + dx < 128 and img[y + dy][x + dx] not in (0, 1)
                                      for dy in (-1, 0, 1) for dx in (-1, 0, 1)):
                 img[y][x] = 1
-    buf = bytearray(1024)
-    for s in range(4):
-        for t in range(8):
-            ox2, oy = s * 32 + (t % 4) * 8, (t // 4) * 8
-            for y in range(8):
-                for x in range(0, 8, 2):
-                    buf[(s * 8 + t) * 32 + y * 4 + x // 2] = img[oy + y][ox2 + x] | img[oy + y][ox2 + x + 1] << 4
-    return bytes(buf)
+    return sprites_bytes(img, 4)
 
 
 def row_tiles(data, t0, n):
@@ -137,4 +188,6 @@ def build(rom):
     for i, name in STAGES.items():
         out.append((4, i, stage_plate(fnt, name)))
     out += ticker.build(rom, fnt)
+    for i, name in SHOP.items():
+        out.append((20, i, shop_name(name)))
     return out
