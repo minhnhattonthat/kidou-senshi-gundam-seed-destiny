@@ -1,0 +1,6 @@
+# cold boot -> main menu (idle, cursor on MAIN MODE)
+1700 -
+8 start
+300 -
+8 start
+600 -

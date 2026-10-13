@@ -1,0 +1,22 @@
+# cold boot -> main menu -> SHOP (bottom right)
+1700 -
+8 start
+300 -
+8 start
+200 -
+8 right
+40 -
+8 right
+40 -
+8 down
+40 -
+8 down
+40 -
+8 a
+400 -
+8 a
+300 -
+8 a
+300 -
+8 a
+300 -

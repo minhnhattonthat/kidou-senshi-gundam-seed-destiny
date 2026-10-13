@@ -1,0 +1,8 @@
+# cold boot -> title -> mode menu -> first mode -> NEW GAME/CONTINUE prompt (idle)
+1700 -
+8 start
+300 -
+8 start
+300 -
+8 a
+600 -

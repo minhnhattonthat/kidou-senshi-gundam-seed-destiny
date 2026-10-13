@@ -44,9 +44,16 @@ def compress(data):
     """Greedy encoder; output always decodes back to data (lengths never overrun the size)."""
     out = bytearray(b'Le' + bytes([len(data) & 255, len(data) >> 8 & 255, len(data) >> 16 & 255, 0]))
     ops, i = [], 0
+    chains = {}  # 3-byte prefix -> positions, so only real candidates get compared
+    seen = 0
     while i < len(data):
+        while seen < i:  # register every position already emitted
+            chains.setdefault(data[seen:seen + 3], []).append(seen)
+            seen += 1
         best_n, best_d = 0, 0
-        for d in range(1, min(i, 0xFFF + 5) + 1):
+        cands = set(range(1, min(i, 4) + 1))
+        cands.update(i - p for p in chains.get(data[i:i + 3], ()) if i - p <= 0xFFF + 5)
+        for d in sorted(cands):
             n = 0
             lim = min(len(data) - i, 18 if d >= 5 else 65)
             while n < lim and data[i + n] == data[i + n - d]:

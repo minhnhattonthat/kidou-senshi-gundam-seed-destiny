@@ -1,0 +1,141 @@
+"""English font for the dialogue renderer (docs/re/text.md "Rendering").
+
+Each glyph is a 16x16 4bpp OBJ cell (128 bytes, 1D tile order). The renderer places glyph g at cursor-k(g) and
+advances 16-2k(g) (kern table). Shifting every glyph so its ink starts at cell x = k gives a proportional font whose
+ink starts at the cursor and is followed by a 1 px gap (2 px for even-width glyphs, since advances are even).
+
+Codes 02-35 keep A-Z a-z (re-aligned). Codes 36+ (the hiragana block, archive 6.10) become digits/punctuation, taken
+from the symbol bank (archive 6.13, same style) or drawn below in the same colours (D ink, 4 shadow, 7 soft edge).
+"""
+import struct
+from pathlib import Path
+
+import arc
+import le
+
+ROOT = Path(__file__).resolve().parents[1]
+LATIN = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'
+SPACE = ' '  # E0: cursor += SPACE_PX (patched immediate, asm/main.asm)
+
+# glyphs in block 6.10, in code order from 0x36: (text, source); source = symbol-bank index or ASCII art rows
+ART = {
+    '"': (2, ['DD4DD4', 'CD4CD4', 'B44B44', '74.74.']),
+    '(': (2, ['...D7', '..D74', '..D4.', '.D7..', '.D4..', '.D4..', '.D4..', '.D4..', '.7D4.', '..D4.',
+              '..7D4', '...74']),
+    ')': (2, ['D7...', '7D4..', '.D4..', '.7D4.', '..D4.', '..D4.', '..D4.', '..D4.', '.D74.', '.D4..',
+              'D74..', '74...']),
+    '/': (2, ['.....D7', '.....D4', '....D74', '....D4.', '...D74.', '...D4..', '..D74..', '..D4...', '.D74...',
+              '.D4....', 'D74....', '74.....']),
+    ';': (5, ['BDB4', 'BDB4', '7444', '....', '....', '.BDB4', '.CDB4', '.B444', '.74..']),
+    '+': (5, ['...D7...', '...D4...', 'DDDDDDD4', '744D4444', '...D4...', '...74...']),
+}
+EN_SYMBOLS = [(str(d), d) for d in range(10)] + [
+    ('.', 0x0A), (',', 0x11), ('!', 0x0B), ('?', 0x0C), ("'", 0x10), ('-', 0x0F), (':', 0x12), ('~', 0x18),
+    ('…', 0x0E), ('—', 0x17), ('・', 0x0D), ('"', None), ('(', None), (')', None), ('/', None), (';', None),
+    ('+', None)]
+FIRST_SYMBOL = 0x36
+# vertical nudges so marks sit on the Latin cap line (rows 2-12)
+DY = {"'": 2}
+
+
+def decode(cell):
+    px = [[0] * 16 for _ in range(16)]
+    for k in range(4):
+        for y in range(8):
+            for x in range(8):
+                px[(k >> 1) * 8 + y][(k & 1) * 8 + x] = cell[k * 32 + y * 4 + x // 2] >> (4 * (x & 1)) & 15
+    return px
+
+
+def encode(px):
+    out = bytearray(128)
+    for k in range(4):
+        for y in range(8):
+            for x in range(8):
+                out[k * 32 + y * 4 + x // 2] |= px[(k >> 1) * 8 + y][(k & 1) * 8 + x] << (4 * (x & 1))
+    return bytes(out)
+
+
+def from_art(top, rows):
+    px = [[0] * 16 for _ in range(16)]
+    for y, row in enumerate(rows):
+        for x, c in enumerate(row):
+            if c != '.':
+                px[top + y][x] = int(c, 16)
+    return px
+
+
+def align(px, dy=0):
+    """Shift ink so it starts at x = k; return (px, k)."""
+    cols = [x for x in range(16) if any(px[y][x] for y in range(16))]
+    if not cols:
+        return px, 4
+    x0, w = cols[0], cols[-1] - cols[0] + 1
+    k = max(0, (15 - w) // 2)
+    out = [[0] * 16 for _ in range(16)]
+    for y in range(16):
+        for x in range(16):
+            if px[y][x] and 0 <= y + dy < 16:
+                out[y + dy][x - x0 + k] = px[y][x]
+    return out, k
+
+
+def build(rom):
+    """-> (latin_block, symbol_block, {code: k}, {char: code})"""
+    latin_src, _ = le.decompress(rom, arc.item(rom, 6, 9))
+    sym_src, _ = le.decompress(rom, arc.item(rom, 6, 10))
+    bank = arc.item(rom, 6, 13)
+    kern, codes = {}, {}
+    latin = bytearray(latin_src)
+    for i, ch in enumerate(LATIN):
+        code = 0x02 + i
+        px, k = align(decode(latin_src[code * 128:code * 128 + 128]))
+        latin[code * 128:code * 128 + 128] = encode(px)
+        kern[code], codes[ch] = k, code
+    sym = bytearray(len(sym_src))  # unused cells stay blank
+    for i, (ch, src) in enumerate(EN_SYMBOLS):
+        code = FIRST_SYMBOL + i
+        if src is None:
+            px = from_art(*ART[ch])
+        else:
+            off = bank + struct.unpack_from('<H', rom, bank + 2 * src)[0]
+            px = decode(le.decompress(rom, off)[0])
+        px, k = align(px, DY.get(ch, 0))
+        j = code - FIRST_SYMBOL
+        sym[j * 128:j * 128 + 128] = encode(px)
+        kern[code], codes[ch] = k, code
+    return bytes(latin), bytes(sym), kern, codes
+
+
+def kern_table(rom, kern):
+    """New kern table: computed entries for the English glyphs, then the original entries for every other code."""
+    out = bytearray()
+    for code in sorted(kern):
+        out += bytes([code, kern[code]])
+    p = 0xC7244
+    while rom[p] != 0xFF:
+        if rom[p] in (0xEC, 0xED):
+            out += rom[p:p + 3]
+            p += 3
+        else:
+            if rom[p] not in kern:
+                out += rom[p:p + 2]
+            p += 2
+    return bytes(out + b'\xff')
+
+
+def en_table_lines(codes):
+    lines = ['# generated by tools/font.py (English font layout)', 'E0=\\s']
+    lines += ['%02X=%s' % (c, ch) for ch, c in sorted(codes.items(), key=lambda kv: kv[1])]
+    jp = (ROOT / 'tbl/jp.tbl').read_text(encoding='utf-8').splitlines()
+    lines += [ln for ln in jp if '={' in ln]  # E0 decodes as {sp6}; ' ' still encodes to E0
+    return lines
+
+
+if __name__ == '__main__':
+    import sys
+    rom = (ROOT / 'rom/1801 - Kidou Senshi Gundam Seed Destiny (J)(Caravan).gba').read_bytes()
+    latin, sym, kern, codes = build(rom)
+    (ROOT / 'tbl/en.tbl').write_text('\n'.join(en_table_lines(codes)) + '\n', encoding='utf-8', newline='\n')
+    if len(sys.argv) > 1:
+        Path(sys.argv[1]).write_bytes(latin + sym)

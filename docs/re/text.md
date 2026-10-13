@@ -34,6 +34,17 @@ SHA-1 64eea52cd909669a972c091869c5f47865863bc0, header `SEEDDESTINY` / B42J / ma
   This is the VWF lever: glyph left edge at cell x=k gives a cursor-aligned proportional font.
 - Line height 14 px. Glyph style: main colour 13 (D), shadow 4, antialias 7/B/C.
 
+## English rendering (build-time VWF)
+- Raising glyph slots is unsafe: the sprite-object array 0x03001040 (0x20 per entry) is shared; text owns
+  entries 0..slots-1 and the shop screen uses entry 38+ (main menu 48+).
+- So each English text run is pre-rendered (tools/render.py: font from archive 6.9 + symbol bank, 1 px gap,
+  3 px space) into 16x16 cells, emitted as `ED xx`. Each string carries its own cell bank (same format as 6.12),
+  its address stored in the u32 before the 4-aligned string. asm/main.asm replaces the two `(6,12)` lookups at
+  0x08032550 / 0x080325F2 with BankForObj (reads obj+4 table, obj+0x38 index), code in the freed string block
+  at 0xC7340. Kern table (relocated to 0x800000) gives `ED xx` k=0 -> 16 px advance.
+- Cost: ceil(px/16) sprites per run, blank cells become `E1 E1`. Each text run starts on a cell boundary, so put
+  `{num}` at a line start. Untranslated lines keep JP bytes with the real kanji bank pointer.
+
 ## Archive and compression
 - Archive at 0x787970, lookup 0x08000CAC(group, item): u32 group offsets, u16 item offsets (`tools/arc.py`).
 - "Le" LZ blocks (`tools/le.py`): 'Le', size24, 00, then 2-bit op groups. Decoder is IWRAM 0x03005C10.
