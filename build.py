@@ -16,9 +16,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT / 'tools'))
-sys.path.insert(0, str(ROOT / '.agents/skills/translate-retro-game/scripts'))
 import arc  # noqa: E402
 import chal  # noqa: E402
+import check_rom  # noqa: E402
 import gfx  # noqa: E402
 import le  # noqa: E402
 import render  # noqa: E402
@@ -154,6 +154,7 @@ def main():
         k, _, v = args.pop(0).partition('=')
         qa[k] = v
     name = names[mode] if not qa else names[mode].replace('.gba', '_qa.gba')
+    check_rom.check()
     BUILD.mkdir(exist_ok=True)
     out = build(mode, qa)
     (BUILD / name).write_bytes(out)

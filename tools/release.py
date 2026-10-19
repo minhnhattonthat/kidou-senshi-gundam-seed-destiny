@@ -1,10 +1,11 @@
 """Local release: build -> check -> smoke -> leftover-Japanese scan -> BPS (made + re-applied) -> README -> zip.
 Stops at the first failure. Never uploads anything.
 
-    python -X utf8 tools/release.py [--version 0.1]
+    python -X utf8 tools/release.py [--version 1.0]
 """
 import argparse
 import hashlib
+import os
 import subprocess
 import sys
 import zipfile
@@ -12,7 +13,8 @@ import zlib
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-SKILL = ROOT / '.agents/skills/translate-retro-game/scripts'
+SKILL = Path(os.environ.get(
+    'SKILL', 'C:/Users/Nathan/.claude/plugins/marketplaces/retro-translation/skills/translate-retro-game')) / 'scripts'
 sys.path.insert(0, str(ROOT))
 import build  # noqa: E402
 
@@ -61,7 +63,7 @@ def readme(version, orig, built):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument('--version', default='0.1')
+    ap.add_argument('--version', default='1.0')
     a = ap.parse_args()
     py = [sys.executable, '-X', 'utf8']
     run(py + ['tools/check.py'], 'check (tests + lint)')

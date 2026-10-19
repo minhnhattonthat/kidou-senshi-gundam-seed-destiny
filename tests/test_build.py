@@ -1,3 +1,4 @@
+import os
 import subprocess
 import sys
 from pathlib import Path
@@ -6,7 +7,8 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 import build  # noqa: E402
 
-ROMDIFF = ROOT / '.agents/skills/translate-retro-game/scripts/romdiff.py'
+ROMDIFF = Path(os.environ.get('SKILL', 'C:/Users/Nathan/.claude/plugins/marketplaces/retro-translation/skills/'
+                              'translate-retro-game')) / 'scripts/romdiff.py'
 
 
 def test_identity_build_is_byte_identical():
