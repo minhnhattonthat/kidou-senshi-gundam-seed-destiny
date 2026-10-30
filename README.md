@@ -9,6 +9,19 @@ no game data you can play; you need your own dump of the Japanese game.
 **Found a bug?** [Report it](../../issues/new/choose): untranslated text, typos, overflow, crashes. Attaching a savestate
 helps most.
 
+## Translation status
+
+| Part | Status |
+|---|---|
+| Dialogue: shopkeepers, unlock messages, win quotes, new game and link messages | Translated |
+| Pilot and mobile suit name plates, stage names, shop items, mode descriptions | Translated |
+| Title screen | Translated (logo and copyright line redrawn in English) |
+| CHALLENGE MODE mission text | Translated (only mission 1 checked in play; 2-10 unlock after clearing) |
+| Ending staff roll | Translated |
+| Bonus game "MS Gundam SEED Battle Assault" | Already English in the original, unchanged |
+
+Known issues: CHALLENGE MODE missions 2-10 not checked in game; faint traces of the old title art may remain.
+
 ## What's here
 
 | Path | What it is |
